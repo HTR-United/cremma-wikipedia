@@ -1,25 +1,15 @@
-Title of your dataset
+CREMMA - Wikipedia
 =====================
 
-
-**You can delete the following three paragraphs, they are just there to explain what's going on**
-
-
-*Notes on the template: you need to change the htr-united.yml file here so that you repository is correctly documented. Check https://htr-united.github.io/document-your-data.html to generate one.*
-
-*Your data should go in the [./data](./data) folder where they should be put in subfolder, such as `./data/manuscript1/alto.xml`*
-
-*The template contains the tools used by HTR-United, they are configured so that you don't need to do it yourself. This will allow for some quality control.*
-
-
-## License
-
-Complete here
+[![CC BY 4.0][cc-by-shield]][cc-by]
 
 ## Description
 
-Complete here
+The WikiCremma projet aims at creating a collection of ground truth to train HTR models on contemporary French handwritings. 
 
+Each image represents an exerpts from a randomly selected Wikipedia page, copied by hand by volunteers. We then took care of the alignment between the handwritten portion and the original text, also present on the image. 
+
+<!--
 ## Extent
 
 Complete here
@@ -31,3 +21,20 @@ Complete here.
 ## Sources
 
 Complete here.
+--->
+
+## Related tools
+
+- [wikicremma](https://github.com/PonteIneptique/wikicremma): file generator for the CREMMA-Wikipedia corpus
+- [CREMMAWIKI-Anonymizer](https://github.com/alix-tz/CREMMAWIKI_Anonymizer): anonymized image generator for the CREMMA-Wikipedia corpus
+
+## License
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
