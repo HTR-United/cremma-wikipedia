@@ -5,9 +5,9 @@ CREMMA - Wikipedia
 
 ## Description
 
-The WikiCremma projet aims at creating a collection of ground truth to train HTR models on contemporary French handwritings. 
+The WikiCremma projet aims at creating a collection of ground truth to train HTR models on contemporary French handwriting. 
 
-Each image represents an exerpts from a randomly selected Wikipedia page, copied by hand by volunteers. We then took care of the alignment between the handwritten portion and the original text, also present on the image. 
+Each image represents an exerpt from a randomly selected Wikipedia page, copied by hand by volunteers. We then took care of the alignment between the handwritten portion and the original text, also present on the image. 
 
 <!--
 ## Extent
