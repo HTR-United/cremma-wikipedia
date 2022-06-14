@@ -29,10 +29,10 @@ license:
 format: Alto-XML
 volume:
 - metric: characters
-  count: 3590
+  count: 3651
 - metric: files
-  count: 9
+  count: 10
 - metric: lines
-  count: 81
+  count: 83
 - metric: regions
   count: 10
