@@ -35,7 +35,7 @@
           
           
           <TextLine ID="line_19"
-                    
+                    TAGREFS="LT1055"
                     BASELINE="113 1293 487 1292 1251 1309 1471 1307" 
                     HPOS="112"
                     VPOS="1253"
@@ -52,7 +52,7 @@
           
           
           <TextLine ID="line_20"
-                    
+                    TAGREFS="LT1055"
                     BASELINE="118 1343 511 1355 1023 1355 1316 1368 1621 1371" 
                     HPOS="118"
                     VPOS="1318"
@@ -69,7 +69,7 @@
           
           
           <TextLine ID="line_21"
-                    
+                    TAGREFS="LT1055"
                     BASELINE="121 1393 468 1416 706 1419 1163 1411 1577 1433" 
                     HPOS="119"
                     VPOS="1359"
@@ -86,7 +86,7 @@
           
           
           <TextLine ID="line_22"
-                    
+                    TAGREFS="LT1055"
                     BASELINE="112 1449 567 1480 1594 1492" 
                     HPOS="110"
                     VPOS="1425"
@@ -103,7 +103,7 @@
           
           
           <TextLine ID="line_23"
-                    
+                    TAGREFS="LT1055"
                     BASELINE="112 1505 611 1544 1106 1545 1615 1559" 
                     HPOS="110"
                     VPOS="1474"
@@ -120,7 +120,7 @@
           
           
           <TextLine ID="line_24"
-                    
+                    TAGREFS="LT1055"
                     BASELINE="112 1559 273 1565 353 1581 662 1603 1095 1614 1510 1612" 
                     HPOS="110"
                     VPOS="1536"
@@ -137,7 +137,7 @@
           
           
           <TextLine ID="line_25"
-                    
+                    TAGREFS="LT1055"
                     BASELINE="105 1609 259 1623 345 1638 529 1648 637 1662 997 1673 1633 1679" 
                     HPOS="102"
                     VPOS="1593"
@@ -154,7 +154,7 @@
           
           
           <TextLine ID="line_26"
-                    
+                    TAGREFS="LT1055"
                     BASELINE="94 1677 617 1740 1511 1766" 
                     HPOS="90"
                     VPOS="1637"
@@ -171,7 +171,7 @@
           
           
           <TextLine ID="line_28"
-                    
+                    TAGREFS="LT1055"
                     BASELINE="94 1738 536 1786 1495 1826" 
                     HPOS="90"
                     VPOS="1691"
@@ -188,7 +188,7 @@
           
           
           <TextLine ID="line_29"
-                    
+                    TAGREFS="LT1055"
                     BASELINE="94 1797 891 1845 1491 1886" 
                     HPOS="90"
                     VPOS="1747"
@@ -205,7 +205,7 @@
           
           
           <TextLine ID="line_33"
-                    
+                    TAGREFS="LT1055"
                     BASELINE="99 1864 264 1875 595 1914 1279 1934" 
                     HPOS="96"
                     VPOS="1841"
