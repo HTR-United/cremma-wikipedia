@@ -1,4 +1,4 @@
-schema: https://htr-united.github.io/schema/2022-04-15/schema.json
+schema: https://htr-united.github.io/schema/2021-10-15/schema.json
 title: WikiCremma
 url: https://github.com/HTR-United/cremma-wikipedia
 authors: 
@@ -29,7 +29,7 @@ language:
   - fra
 production-software: eScriptorium + Kraken
 script:
-  - iso: Latn
+  - Latn
 script-type: only-manuscript
 time:
   notBefore: '2022'
