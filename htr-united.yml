@@ -1,31 +1,30 @@
-schema: "https://htr-united.github.io/schema/2021-10-15/schema.json"
-title: Repository’s Title
-url: 'Link to your data repository'
-project-name: >
-    Your project name
-project-website: 'Link to your project'
-authors:
-    - name: 'Author Name'
-      surname: 'Author Firstname'
-      roles:
-      - 'transcriber'
-description: >
-  Description 
+schema: https://htr-united.github.io/schema/2022-04-15/schema.json
+title: WikiCremma
+url: https://github.com/HTR-United/cremma-wikipedia
+authors: []
+description: >-
+  The WikiCremma projet aims at creating a collection of ground truth to train
+  HTR models on contemporary French handwriting.
+
+
+  Each image represents an exerpt from a randomly selected Wikipedia page,
+  copied by hand by volunteers. We then took care of the alignment between the
+  handwritten portion and the original text, also present on the image.
+project-name: CREMMA
 language:
-  - eng
   - fra
-script: 
-  - Latn
-script-type: 'only-manuscript'
-time: 
-  notBefore: "1500"
-  notAfter: "1300"
-hands: 
-  count: '1-per-folder'
-  precision: 'exact'
+production-software: eScriptorium + Kraken
+script:
+  - iso: Latn
+script-type: only-manuscript
+time:
+  notBefore: '2022'
+  notAfter: '2023'
+hands:
+  count: 1-per-file
+  precision: estimated
 license:
-  - {name: 'CC-BY 4.0', url: 'https://creativecommons.org/licenses/by/4.0/'}
-format: 'Alto-XML'
-volume:
-  - metric: 'files'
-    count: 10
+  - name: CC-BY 4.0
+    url: https://creativecommons.org/licenses/by/4.0/
+format: Alto-XML
+transcription-guidelines: Superscript is preceded by a ^.
