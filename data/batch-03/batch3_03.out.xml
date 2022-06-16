@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>batch3_03.out.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT3938" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1331" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1653"
+          HEIGHT="2339"
+          PHYSICAL_IMG_NR="2"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1653"
+                  HEIGHT="2339">
+        
+        <TextBlock HPOS="0"
+                   VPOS="1179"
+                   WIDTH="1572"
+                   HEIGHT="241"
+                   ID="eSc_textblock_a5e86813"
+                   TAGREFS="BT3938">
+          <Shape><Polygon POINTS="1547 1349 1572 1179 0 1228 0 1420"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_3a77f8ab"
+                    TAGREFS="LT1331"
+                    BASELINE="9 1268 1522 1227" 
+                    HPOS="7"
+                    VPOS="1187"
+                    WIDTH="1515"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="263 1220 243 1227 189 1222 177 1220 163 1222 146 1222 132 1233 118 1222 116 1222 115 1222 113 1222 111 1222 109 1222 87 1235 64 1224 60 1222 58 1222 56 1222 7 1224 9 1268 9 1294 189 1294 189 1292 191 1292 206 1288 239 1276 269 1286 282 1290 284 1290 286 1290 331 1284 397 1274 495 1278 565 1282 567 1282 623 1276 711 1265 791 1270 799 1270 801 1270 803 1270 805 1270 826 1259 1019 1255 1046 1263 1058 1266 1060 1266 1062 1266 1064 1266 1074 1263 1099 1253 1196 1259 1230 1261 1231 1261 1249 1257 1294 1249 1335 1255 1374 1261 1376 1261 1417 1253 1458 1245 1520 1249 1522 1227 1516 1196 1411 1200 1397 1198 1348 1187 1346 1187 1345 1187 1343 1187 1323 1198 1317 1202 1300 1200 1235 1188 1233 1188 1175 1200 1140 1192 1138 1192 1136 1192 1134 1192 1107 1204 1087 1210 1054 1204 1005 1196 1003 1196 1001 1196 972 1206 957 1210 910 1208 812 1200 810 1200 808 1200 807 1200 795 1210 785 1218 769 1210 756 1204 754 1204 752 1204 750 1204 748 1204 740 1210 725 1222 440 1227 405 1218 387 1212 385 1212 384 1212 382 1212 380 1212 380 1214 374 1218 360 1231 306 1231 286 1220 280 1220"/></Shape>
+	    <String CONTENT="Diensdorf-Radlow est une commune de l&#39;arrondissement d&#39;Oder-Spree, au"
+                    HPOS="7"
+                    VPOS="1187"
+                    WIDTH="1515"
+                    HEIGHT="107"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_360327be"
+                    TAGREFS="LT1331"
+                    BASELINE="17 1350 506 1339" 
+                    HPOS="15"
+                    VPOS="1294"
+                    WIDTH="491"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="17 1372 111 1368 124 1372 167 1383 169 1383 171 1383 235 1381 237 1381 239 1381 257 1368 265 1362 284 1366 307 1370 309 1370 311 1370 333 1364 352 1360 366 1364 421 1378 422 1378 424 1378 506 1358 506 1339 500 1311 393 1311 389 1309 376 1296 376 1294 374 1294 372 1294 370 1294 296 1307 247 1315 157 1305 109 1300 107 1300 105 1300 95 1303 64 1317 48 1303 48 1302 46 1302 44 1302 42 1302 15 1302 17 1350"/></Shape>
+	    <String CONTENT="Brandenbourg, en Allemagne."
+                    HPOS="15"
+                    VPOS="1294"
+                    WIDTH="491"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
