@@ -1,7 +1,21 @@
 schema: https://htr-united.github.io/schema/2022-04-15/schema.json
 title: WikiCremma
 url: https://github.com/HTR-United/cremma-wikipedia
-authors: []
+authors: 
+- name: "Cl\xE9rice"
+  surname: Thibault
+  roles:
+  - project-manager
+  - quality-control
+- name: "Chagu\xE9"
+  surname: Alix
+  roles:
+  - project-manager
+  - quality-control
+- name: "Falcoz"
+  surname: Elsa
+  roles:
+  - aligner
 description: >-
   The WikiCremma projet aims at creating a collection of ground truth to train
   HTR models on contemporary French handwriting.
