@@ -42,3 +42,12 @@ license:
     url: https://creativecommons.org/licenses/by/4.0/
 format: Alto-XML
 transcription-guidelines: Superscript is preceded by a ^.
+volume:
+- metric: characters
+  count: 3651
+- metric: files
+  count: 10
+- metric: lines
+  count: 83
+- metric: regions
+  count: 10
