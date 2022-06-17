@@ -1,7 +1,7 @@
 schema: https://htr-united.github.io/schema/2021-10-15/schema.json
 title: WikiCremma
 url: https://github.com/HTR-United/cremma-wikipedia
-authors: 
+authors:
 - name: "Cl\xE9rice"
   surname: Thibault
   roles:
@@ -12,24 +12,23 @@ authors:
   roles:
   - project-manager
   - quality-control
-- name: "Falcoz"
+- name: Falcoz
   surname: Elsa
   roles:
   - aligner
-description: >-
-  The WikiCremma projet aims at creating a collection of ground truth to train
-  HTR models on contemporary French handwriting.
+description: 'The WikiCremma projet aims at creating a collection of ground truth
+  to train HTR models on contemporary French handwriting.
 
 
-  Each image represents an exerpt from a randomly selected Wikipedia page,
-  copied by hand by volunteers. We then took care of the alignment between the
-  handwritten portion and the original text, also present on the image.
+  Each image represents an exerpt from a randomly selected Wikipedia page, copied
+  by hand by volunteers. We then took care of the alignment between the handwritten
+  portion and the original text, also present on the image.'
 project-name: CREMMA
 language:
-  - fra
+- fra
 production-software: eScriptorium + Kraken
 script:
-  - Latn
+- Latn
 script-type: only-manuscript
 time:
   notBefore: '2022'
@@ -38,16 +37,16 @@ hands:
   count: 1-per-file
   precision: estimated
 license:
-  - name: CC-BY 4.0
-    url: https://creativecommons.org/licenses/by/4.0/
+- name: CC-BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0/
 format: Alto-XML
 transcription-guidelines: Superscript is preceded by a ^.
 volume:
 - metric: characters
-  count: 3651
+  count: 11430
 - metric: files
-  count: 10
+  count: 42
 - metric: lines
-  count: 83
+  count: 249
 - metric: regions
-  count: 10
+  count: 42
