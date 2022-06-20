@@ -1,4 +1,4 @@
-schema: https://htr-united.github.io/schema/2021-10-15/schema.json
+schema: https://htr-united.github.io/schema/2022-04-15/schema.json
 title: WikiCremma
 url: https://github.com/HTR-United/cremma-wikipedia
 authors:
@@ -26,9 +26,9 @@ description: 'The WikiCremma projet aims at creating a collection of ground trut
 project-name: CREMMA
 language:
 - fra
-production-software: eScriptorium + Kraken
+production-software: Unknown [Automatically filled]
 script:
-- Latn
+- iso: Latn
 script-type: only-manuscript
 time:
   notBefore: '2022'
@@ -50,3 +50,109 @@ volume:
   count: 249
 - metric: regions
   count: 42
+characters:
+  mode: None
+  members:
+  - e
+  - a
+  - i
+  - n
+  - s
+  - t
+  - r
+  - l
+  - o
+  - u
+  - d
+  - m
+  - p
+  - c
+  - "\xE9"
+  - ','
+  - v
+  - g
+  - h
+  - .
+  - b
+  - f
+  - ''''
+  - q
+  - '1'
+  - y
+  - L
+  - '0'
+  - '-'
+  - I
+  - j
+  - "\xE0"
+  - '2'
+  - "\xE8"
+  - C
+  - '9'
+  - (
+  - )
+  - A
+  - x
+  - S
+  - k
+  - P
+  - '3'
+  - '6'
+  - M
+  - E
+  - '4'
+  - z
+  - '8'
+  - N
+  - '7'
+  - R
+  - B
+  - O
+  - '='
+  - '5'
+  - V
+  - '>'
+  - <
+  - "\xEA"
+  - T
+  - D
+  - H
+  - "\xE7"
+  - F
+  - w
+  - "\u014D"
+  - ':'
+  - K
+  - "\xAB"
+  - "\xBB"
+  - J
+  - G
+  - "\xE2"
+  - /
+  - "\xF4"
+  - "\xC9"
+  - "\xE1"
+  - "\u2019"
+  - "\xEE"
+  - "\xFB"
+  - Y
+  - "\xC7"
+  - Z
+  - "\u2013"
+  - U
+  - "\xF6"
+  - '"'
+  - '['
+  - ']'
+  - "\u016B"
+  - "\u2014"
+  - "\u0144"
+  - "\xC1"
+  - "\xF9"
+  - "\u0153"
+  - "\xC2"
+  - X
+  - "\u011F"
+  - ;
+  - "\xFA"
+  - "\xFC"
