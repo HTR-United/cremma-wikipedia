@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>batch3_05.out.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT3938" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1331" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1653"
+          HEIGHT="2339"
+          PHYSICAL_IMG_NR="4"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1653"
+                  HEIGHT="2339">
+        
+        <TextBlock HPOS="18"
+                   VPOS="1222"
+                   WIDTH="1628"
+                   HEIGHT="160"
+                   ID="eSc_textblock_2e758485"
+                   TAGREFS="BT3938">
+          <Shape><Polygon POINTS="18 1382 18 1222 1646 1222 1646 1382"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_a7c15f88"
+                    TAGREFS="LT1331"
+                    BASELINE="25 1296 625 1282 1588 1274" 
+                    HPOS="23"
+                    VPOS="1231"
+                    WIDTH="1565"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="1563 1245 1559 1243 1415 1243 1372 1231 1368 1231 1348 1231 1345 1231 1327 1243 1257 1231 1251 1231 1237 1231 1220 1247 1079 1247 988 1231 986 1231 984 1231 982 1231 957 1249 957 1251 951 1251 884 1251 826 1233 824 1233 822 1233 820 1233 793 1247 769 1235 768 1235 688 1235 686 1235 684 1235 645 1253 645 1255 643 1255 592 1255 512 1237 510 1237 508 1237 506 1237 479 1255 374 1239 372 1239 370 1239 337 1257 194 1241 192 1241 191 1241 189 1241 163 1259 130 1247 128 1247 126 1247 27 1261 23 1278 25 1296 25 1307 146 1307 157 1309 196 1321 198 1321 200 1321 245 1311 263 1319 265 1319 267 1319 269 1319 270 1319 284 1309 290 1305 311 1309 341 1315 343 1315 385 1309 426 1303 440 1309 461 1319 463 1319 465 1319 526 1309 571 1302 590 1309 608 1315 610 1315 612 1315 653 1309 707 1300 721 1309 727 1313 729 1313 730 1313 732 1313 734 1313 752 1309 773 1303 873 1307 980 1313 982 1313 984 1313 1003 1307 1038 1296 1142 1294 1296 1307 1307 1307 1309 1307 1586 1305 1588 1274 1584 1270 1582 1270"/></Shape>
+	    <String CONTENT="Roch Stephanik est un réalisateur et scénariste français."
+                    HPOS="23"
+                    VPOS="1231"
+                    WIDTH="1565"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
