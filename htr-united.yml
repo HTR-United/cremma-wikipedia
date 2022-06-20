@@ -26,7 +26,7 @@ description: 'The WikiCremma projet aims at creating a collection of ground trut
 project-name: CREMMA
 language:
 - fra
-production-software: "eScriptorium + Kraken"
+production-software: eScriptorium + Kraken
 script:
 - iso: Latn
 script-type: only-manuscript
@@ -43,7 +43,7 @@ format: Alto-XML
 transcription-guidelines: Superscript is preceded by a ^.
 volume:
 - metric: characters
-  count: 11430
+  count: 11814
 - metric: files
   count: 42
 - metric: lines
@@ -51,7 +51,7 @@ volume:
 - metric: regions
   count: 42
 characters:
-  mode: None
+  mode: NFKD
   members:
   - e
   - a
@@ -65,18 +65,19 @@ characters:
   - u
   - d
   - m
-  - p
   - c
-  - "\xE9"
+  - p
+  - "\u0301"
   - ','
-  - v
   - g
+  - v
   - h
   - .
   - b
   - f
   - ''''
   - q
+  - "\u0300"
   - '1'
   - y
   - L
@@ -84,22 +85,21 @@ characters:
   - '-'
   - I
   - j
-  - "\xE0"
   - '2'
-  - "\xE8"
   - C
   - '9'
   - (
-  - )
   - A
+  - )
   - x
   - S
   - k
   - P
+  - "\u0302"
+  - E
   - '3'
   - '6'
   - M
-  - E
   - '4'
   - z
   - '8'
@@ -108,51 +108,36 @@ characters:
   - R
   - B
   - O
+  - "\u0327"
   - '='
   - '5'
   - V
   - '>'
   - <
-  - "\xEA"
   - T
   - D
   - H
-  - "\xE7"
   - F
   - w
-  - "\u014D"
+  - "\u0304"
   - ':'
   - K
   - "\xAB"
   - "\xBB"
   - J
   - G
-  - "\xE2"
   - /
-  - "\xF4"
-  - "\xC9"
-  - "\xE1"
   - "\u2019"
-  - "\xEE"
-  - "\xFB"
+  - "\u0308"
   - Y
-  - "\xC7"
   - Z
   - "\u2013"
   - U
-  - "\xF6"
   - '"'
   - '['
   - ']'
-  - "\u016B"
   - "\u2014"
-  - "\u0144"
-  - "\xC1"
-  - "\xF9"
   - "\u0153"
-  - "\xC2"
   - X
-  - "\u011F"
+  - "\u0306"
   - ;
-  - "\xFA"
-  - "\xFC"
