@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>batch2-33.out.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2967" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1055" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1654"
+          HEIGHT="2799"
+          PHYSICAL_IMG_NR="33"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1654"
+                  HEIGHT="2799">
+        
+        <TextBlock HPOS="84"
+                   VPOS="1128"
+                   WIDTH="1381"
+                   HEIGHT="93"
+                   ID="eSc_textblock_ea761561"
+                   TAGREFS="BT2967">
+          <Shape><Polygon POINTS="84 1128 84 1221 1465 1221 1465 1128"/></Shape>
+          
+          
+          <TextLine ID="line_14"
+                    TAGREFS="LT1055"
+                    BASELINE="132 1163 651 1181 1426 1178" 
+                    HPOS="132"
+                    VPOS="1130"
+                    WIDTH="1294"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="1406 1142 1400 1139 1378 1150 1336 1144 1335 1144 1299 1152 1282 1155 1271 1150 1241 1138 1240 1138 1201 1138 1199 1138 1198 1138 1196 1138 1180 1149 1173 1155 1114 1155 1070 1152 1065 1147 1054 1138 1053 1138 1051 1138 1050 1138 1048 1138 1026 1146 1012 1152 974 1146 955 1142 953 1142 952 1142 946 1144 925 1152 717 1152 697 1139 683 1133 681 1133 679 1133 678 1133 656 1139 623 1149 522 1139 521 1139 519 1139 497 1149 398 1135 374 1132 373 1132 371 1132 364 1133 326 1146 292 1133 290 1133 289 1133 287 1133 259 1141 247 1132 245 1130 244 1130 242 1130 132 1130 132 1163 132 1205 189 1191 269 1191 284 1202 286 1202 287 1202 289 1202 290 1202 315 1192 329 1203 331 1203 332 1203 334 1203 399 1194 434 1203 441 1206 443 1206 445 1206 446 1206 455 1203 496 1192 567 1203 591 1206 592 1206 594 1206 603 1203 627 1195 656 1203 683 1209 684 1209 686 1209 983 1206 984 1206 998 1202 1011 1197 1023 1202 1053 1212 1054 1212 1056 1212 1143 1200 1163 1198 1196 1200 1303 1208 1305 1208 1425 1198 1426 1178 1426 1152 1422 1149 1406 1142"/></Shape>
+	    <String CONTENT="Gerrit de Heere est le 17e gouverneur du Ceylan néerlandais."
+                    HPOS="132"
+                    VPOS="1130"
+                    WIDTH="1294"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
