@@ -33,12 +33,6 @@
                    TAGREFS="BT3938">
           <Shape><Polygon POINTS="129 1354 611 1342 737 1349 1619 1356 1612 1635 1541 1783 1518 1806 873 1783 779 1791 789 1870 7 1838 1 1546 0 1472 0 1355"/></Shape>
           
-        </TextBlock>
-        
-
-        
-        <TextBlock ID="eSc_dummyblock_">
-          
           
           <TextLine ID="eSc_line_7bec3124"
                     TAGREFS="LT1331"
@@ -159,6 +153,8 @@
 
           
         </TextBlock>
+        
+
         
       </PrintSpace>
     </Page>
