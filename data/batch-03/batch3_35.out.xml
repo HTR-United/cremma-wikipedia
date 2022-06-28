@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>batch3_35.out.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT3938" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1331" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1653"
+          HEIGHT="2339"
+          PHYSICAL_IMG_NR="34"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1653"
+                  HEIGHT="2339">
+        
+        <TextBlock HPOS="0"
+                   VPOS="1509"
+                   WIDTH="1612"
+                   HEIGHT="336"
+                   ID="eSc_textblock_8e7d05b8"
+                   TAGREFS="BT3938">
+          <Shape><Polygon POINTS="458 1510 1495 1543 1604 1606 1612 1697 1526 1775 810 1767 740 1775 699 1838 0 1845 0 1603 332 1593 333 1521 461 1509"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_9a5d5d60"
+                    TAGREFS="LT1331"
+                    BASELINE="345 1578 730 1576 1512 1586" 
+                    HPOS="341"
+                    VPOS="1528"
+                    WIDTH="1169"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="1500 1547 1483 1541 1473 1541 1456 1541 1442 1549 1426 1539 1415 1539 1409 1539 1387 1549 1352 1537 1350 1537 1348 1537 1263 1547 1251 1537 1251 1535 1249 1535 1247 1535 1245 1535 1079 1545 1054 1533 1052 1533 990 1533 988 1533 986 1533 984 1533 984 1535 972 1545 929 1533 927 1533 925 1533 923 1533 896 1545 865 1532 863 1532 861 1532 859 1532 857 1532 844 1545 658 1545 571 1530 569 1530 567 1530 524 1541 391 1541 358 1528 356 1528 354 1528 352 1528 350 1528 343 1533 343 1576 341 1580 438 1592 440 1592 502 1584 522 1582 575 1586 711 1594 713 1594 785 1588 849 1584 881 1590 900 1594 902 1594 1015 1592 1267 1588 1506 1600 1510 1584 1510 1553 1500 1547"/></Shape>
+	    <String CONTENT="Kieran Marmion, né le 11 février 1992 à Barking"
+                    HPOS="341"
+                    VPOS="1528"
+                    WIDTH="1169"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_905d9ce5"
+                    TAGREFS="LT1331"
+                    BASELINE="3 1631 1594 1637" 
+                    HPOS="0"
+                    VPOS="1588"
+                    WIDTH="1592"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="294 1594 274 1594 255 1596 235 1596 216 1596 196 1596 194 1600 118 1600 99 1600 79 1600 60 1602 40 1602 21 1602 1 1629 0 1635 177 1648 179 1648 428 1637 446 1637 452 1637 534 1650 536 1650 649 1639 699 1648 701 1648 1196 1641 1265 1652 1267 1652 1329 1641 1551 1652 1553 1652 1555 1652 1590 1639 1592 1635 1590 1604 1337 1592 1335 1592 1194 1602 1185 1602 1183 1602 1171 1592 1169 1592 1167 1592 1060 1590 970 1590 968 1590 966 1590 964 1590 951 1600 875 1590 873 1590 424 1598 403 1588 401 1588 399 1588 397 1588 374 1598 311 1594 294 1594"/></Shape>
+	    <String CONTENT="est un joueur de rugby à XV irlandais. Il évolue au poste de demi"
+                    HPOS="0"
+                    VPOS="1588"
+                    WIDTH="1592"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5477356f"
+                    TAGREFS="LT1331"
+                    BASELINE="3 1697 1606 1700" 
+                    HPOS="1"
+                    VPOS="1643"
+                    WIDTH="1603"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="1602 1660 1549 1647 1547 1647 1545 1647 1543 1647 1502 1658 1440 1645 1438 1645 1358 1660 1358 1662 1247 1662 1247 1660 1214 1647 1212 1647 1210 1647 1208 1647 1169 1660 1148 1645 1146 1645 1144 1645 1142 1645 1140 1645 1095 1658 1017 1645 1015 1645 937 1660 935 1660 916 1645 914 1645 912 1645 910 1645 822 1654 725 1643 723 1643 721 1643 690 1658 656 1643 654 1643 619 1643 617 1643 615 1643 614 1643 592 1658 516 1648 514 1648 454 1658 434 1647 432 1647 430 1647 428 1647 389 1654 368 1645 366 1645 364 1645 362 1645 360 1645 341 1660 233 1660 153 1643 152 1643 150 1643 148 1643 122 1660 11 1660 1 1695 1 1707 1602 1705 1604 1699 1604 1697 1602 1660"/></Shape>
+	    <String CONTENT="de mêlée et joue pour le Connacht en Pro12 depuis &lt;&gt; 2012."
+                    HPOS="1"
+                    VPOS="1643"
+                    WIDTH="1603"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e67a3e60"
+                    TAGREFS="LT1331"
+                    BASELINE="7 1758 951 1744 1537 1748" 
+                    HPOS="3"
+                    VPOS="1699"
+                    WIDTH="1533"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="1251 1699 1231 1699 1212 1699 1192 1699 1177 1699 1165 1709 1009 1699 1007 1699 1005 1699 970 1711 925 1699 923 1699 922 1699 920 1699 918 1699 906 1709 894 1701 892 1701 890 1701 888 1701 832 1713 768 1703 766 1703 682 1715 680 1715 608 1703 606 1703 604 1703 602 1703 588 1713 419 1705 417 1705 317 1717 263 1705 261 1705 3 1721 5 1756 5 1775 58 1765 85 1775 87 1775 89 1775 91 1775 93 1775 111 1763 128 1775 130 1775 132 1775 134 1777 224 1777 224 1775 231 1775 296 1762 387 1762 411 1773 413 1773 415 1773 417 1773 422 1773 477 1762 723 1769 725 1769 916 1756 1109 1767 1118 1767 1120 1767 1122 1767 1169 1754 1233 1765 1235 1765 1534 1763 1536 1746 1532 1709 1280 1709 1267 1699 1251 1699"/></Shape>
+	    <String CONTENT="==Débuts== Kieran Marmion est le fils de Mick Marmion,"
+                    HPOS="3"
+                    VPOS="1699"
+                    WIDTH="1533"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dd44b717"
+                    TAGREFS="LT1331"
+                    BASELINE="0 1826 697 1817" 
+                    HPOS="21"
+                    VPOS="1785"
+                    WIDTH="674"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="23 1841 693 1838 695 1816 691 1789 21 1785 23 1822"/></Shape>
+	    <String CONTENT="ancien centre des Saracens."
+                    HPOS="21"
+                    VPOS="1785"
+                    WIDTH="674"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

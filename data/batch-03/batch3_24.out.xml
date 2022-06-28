@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>batch3_24.out.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT3938" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1331" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1653"
+          HEIGHT="2339"
+          PHYSICAL_IMG_NR="23"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1653"
+                  HEIGHT="2339">
+        
+        <TextBlock HPOS="46"
+                   VPOS="1263"
+                   WIDTH="1449"
+                   HEIGHT="270"
+                   ID="eSc_textblock_c32d11d0"
+                   TAGREFS="BT3938">
+          <Shape><Polygon POINTS="1032 1508 902 1520 168 1529 126 1533 78 1444 46 1410 77 1356 101 1289 754 1302 1044 1263 1401 1263 1471 1278 1495 1323 1417 1362 1029 1370 1013 1430 1015 1442 1019 1471"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_fff3ef6e"
+                    TAGREFS="LT1331"
+                    BASELINE="79 1389 828 1348 1062 1327 1485 1321" 
+                    HPOS="76"
+                    VPOS="1263"
+                    WIDTH="1407"
+                    HEIGHT="152">
+            <Shape><Polygon POINTS="1461 1280 1304 1286 1257 1263 1255 1263 1253 1263 1251 1263 1198 1286 1177 1268 1175 1268 1173 1268 1171 1268 1101 1282 1033 1274 1031 1274 1029 1274 1027 1274 1009 1290 992 1276 990 1276 988 1276 986 1276 914 1278 910 1280 890 1282 861 1309 814 1309 795 1294 795 1296 775 1298 764 1298 744 1313 690 1317 674 1317 668 1317 522 1313 487 1300 485 1300 483 1300 481 1300 438 1319 391 1309 389 1309 387 1309 385 1309 358 1333 356 1335 280 1337 278 1337 243 1325 241 1325 239 1325 237 1325 192 1341 163 1315 161 1315 159 1315 157 1315 115 1317 113 1317 111 1317 81 1337 76 1356 77 1387 77 1415 198 1411 200 1411 269 1387 335 1401 337 1401 339 1401 409 1383 430 1397 432 1397 434 1397 436 1397 438 1397 440 1397 440 1395 454 1381 532 1380 627 1389 645 1389 647 1389 649 1389 654 1387 701 1364 766 1362 836 1372 838 1372 840 1372 842 1372 842 1370 853 1358 970 1354 1001 1370 1007 1372 1009 1372 1011 1372 1037 1368 1140 1342 1235 1341 1306 1352 1319 1354 1321 1354 1483 1342 1483 1319 1473 1292 1461 1280"/></Shape>
+	    <String CONTENT="Savaric d&#39;Auxerre, mort en 715, fut le 25e évêque"
+                    HPOS="76"
+                    VPOS="1263"
+                    WIDTH="1407"
+                    HEIGHT="152"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ffe9145f"
+                    TAGREFS="LT1331"
+                    BASELINE="118 1487 962 1448" 
+                    HPOS="113"
+                    VPOS="1395"
+                    WIDTH="848"
+                    HEIGHT="127">
+            <Shape><Polygon POINTS="116 1485 116 1522 237 1516 239 1516 241 1516 270 1496 362 1506 403 1510 405 1510 407 1510 424 1502 446 1493 479 1496 481 1496 483 1496 485 1496 504 1485 532 1495 536 1495 538 1495 539 1495 541 1495 543 1495 543 1493 545 1493 553 1481 621 1479 635 1487 654 1498 656 1498 658 1498 660 1498 830 1491 832 1491 834 1491 867 1469 869 1467 961 1461 961 1446 957 1405 925 1395 923 1395 922 1395 920 1395 918 1395 894 1409 890 1413 799 1418 789 1415 754 1403 752 1403 750 1403 748 1403 713 1418 701 1424 672 1422 578 1411 576 1411 575 1411 532 1428 522 1432 516 1430 485 1418 483 1418 481 1418 479 1418 477 1418 454 1434 448 1436 415 1436 239 1426 237 1426 235 1426 196 1446 194 1448 157 1430 155 1430 153 1430 152 1430 113 1448 116 1485"/></Shape>
+	    <String CONTENT="d&#39;Auxerre de 710 à sa mort."
+                    HPOS="113"
+                    VPOS="1395"
+                    WIDTH="848"
+                    HEIGHT="127"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
