@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>batch2-29.out.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2967" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1380" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT1055" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1654"
+          HEIGHT="2799"
+          PHYSICAL_IMG_NR="29"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1654"
+                  HEIGHT="2799">
+        
+        <TextBlock HPOS="64"
+                   VPOS="1133"
+                   WIDTH="1524"
+                   HEIGHT="280"
+                   ID="eSc_textblock_06303675"
+                   TAGREFS="BT2967">
+          <Shape><Polygon POINTS="64 1133 64 1413 1588 1413 1588 1133"/></Shape>
+          
+          
+          <TextLine ID="line_16"
+                    TAGREFS="LT1055"
+                    BASELINE="107 1200 339 1200 815 1219 1582 1214" 
+                    HPOS="104"
+                    VPOS="1152"
+                    WIDTH="1477"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="104 1198 104 1226 305 1226 317 1236 317 1238 319 1238 321 1238 324 1238 741 1229 816 1243 818 1243 1164 1231 1285 1231 1299 1245 1301 1245 1304 1245 1306 1245 1308 1245 1360 1233 1556 1245 1558 1245 1560 1245 1563 1245 1579 1231 1581 1212 1574 1161 1453 1173 1432 1159 1430 1159 1427 1159 1355 1159 1353 1159 1350 1159 1348 1159 1325 1177 1203 1177 1192 1166 1192 1163 1189 1163 1187 1163 1185 1163 818 1173 788 1159 786 1159 783 1159 769 1159 599 1170 494 1159 433 1152 431 1152 398 1159 368 1163 104 1159 104 1198"/></Shape>
+	    <String CONTENT="Carlo Pinsoglio (né le 16 mars 1990 à Moncalieri dans le Piémont)"
+                    HPOS="104"
+                    VPOS="1152"
+                    WIDTH="1477"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_17"
+                    TAGREFS="LT1055"
+                    BASELINE="112 1262 1023 1279 1392 1265" 
+                    HPOS="102"
+                    VPOS="1223"
+                    WIDTH="1290"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="102 1262 112 1284 364 1284 367 1285 381 1293 382 1293 384 1293 385 1293 676 1287 749 1285 753 1287 771 1296 773 1296 774 1296 827 1287 834 1287 848 1298 849 1298 851 1298 852 1298 967 1292 991 1299 992 1299 994 1299 995 1299 997 1299 1012 1289 1014 1289 1051 1289 1053 1289 1064 1298 1065 1298 1067 1298 1137 1301 1138 1303 1194 1303 1194 1301 1196 1301 1198 1301 1212 1292 1391 1292 1392 1265 1389 1245 1327 1236 1325 1236 1324 1236 1322 1236 1311 1244 1305 1248 1299 1244 1288 1236 1286 1236 1285 1236 1238 1234 1236 1234 1199 1242 1165 1250 1008 1250 995 1240 991 1236 989 1236 988 1236 986 1236 984 1236 974 1240 960 1245 933 1239 907 1234 905 1234 871 1239 816 1247 784 1237 770 1234 768 1234 767 1234 765 1234 763 1234 759 1237 745 1247 673 1247 614 1236 564 1228 563 1228 561 1228 546 1236 527 1244 496 1244 485 1234 474 1226 473 1226 471 1226 469 1226 406 1234 396 1234 395 1234 384 1225 382 1225 381 1225 281 1225 280 1225 278 1225 276 1225 267 1233 256 1239 208 1236 203 1231 192 1223 191 1223 189 1223 188 1223 112 1230 112 1262"/></Shape>
+	    <String CONTENT="est un footballeur italien, qui évolue au poste de"
+                    HPOS="102"
+                    VPOS="1223"
+                    WIDTH="1290"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_18"
+                    TAGREFS="LT1055"
+                    BASELINE="119 1331 547 1331 1263 1349" 
+                    HPOS="116"
+                    VPOS="1275"
+                    WIDTH="1146"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="116 1357 286 1343 340 1364 342 1364 345 1364 347 1364 349 1364 373 1348 494 1348 506 1357 506 1359 508 1359 510 1359 513 1359 594 1350 688 1366 690 1366 692 1366 695 1366 716 1352 816 1366 818 1366 888 1355 921 1369 923 1369 1257 1380 1262 1348 1262 1310 1241 1294 1238 1294 1236 1294 1234 1294 1150 1310 1143 1310 1131 1310 1052 1294 1049 1294 968 1303 951 1306 947 1303 933 1292 933 1289 930 1289 928 1289 926 1289 872 1301 860 1303 851 1301 821 1287 818 1287 709 1285 706 1285 704 1285 685 1294 674 1301 657 1294 627 1282 625 1282 622 1282 620 1282 585 1292 555 1299 482 1289 450 1285 447 1285 445 1285 438 1287 424 1294 410 1287 398 1278 396 1278 394 1278 391 1278 349 1285 293 1294 251 1280 233 1275 230 1275 228 1275 226 1275 212 1280 177 1292 121 1278 118 1329 116 1357"/></Shape>
+	    <String CONTENT="gardien de but au sein de la Juventus FC."
+                    HPOS="116"
+                    VPOS="1275"
+                    WIDTH="1146"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
