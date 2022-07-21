@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>batch2-34.out.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2967" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1380" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT1055" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1654"
+          HEIGHT="2799"
+          PHYSICAL_IMG_NR="34"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1654"
+                  HEIGHT="2799">
+        
+        <TextBlock HPOS="81"
+                   VPOS="1158"
+                   WIDTH="1534"
+                   HEIGHT="222"
+                   ID="eSc_textblock_9885c3d6"
+                   TAGREFS="BT2967">
+          <Shape><Polygon POINTS="81 1158 81 1380 1615 1380 1615 1158"/></Shape>
+          
+          
+          <TextLine ID="line_15"
+                    TAGREFS="LT1055"
+                    BASELINE="121 1202 841 1205 1535 1223" 
+                    HPOS="119"
+                    VPOS="1160"
+                    WIDTH="1416"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="1521 1189 1515 1184 1503 1181 1501 1181 1499 1181 1445 1191 1442 1191 1436 1191 1367 1178 1366 1178 1249 1186 1120 1174 1118 1174 1040 1183 1002 1172 1000 1172 998 1172 997 1172 967 1183 893 1181 877 1170 876 1170 874 1170 812 1170 810 1170 809 1170 807 1170 795 1180 721 1170 720 1170 521 1177 499 1164 497 1164 496 1164 494 1164 435 1172 417 1163 415 1163 413 1163 314 1174 278 1161 276 1161 275 1161 175 1169 147 1160 146 1160 144 1160 143 1160 121 1170 121 1202 119 1220 326 1216 351 1223 353 1223 354 1223 406 1216 446 1223 448 1223 611 1219 812 1231 813 1231 815 1231 816 1231 919 1223 960 1234 963 1234 964 1234 966 1234 975 1234 1042 1226 1131 1236 1149 1237 1151 1237 1168 1236 1249 1230 1532 1240 1535 1223 1535 1192 1521 1188 1521 1189"/></Shape>
+	    <String CONTENT="Septième ciel est un roman policier humoristique américain de"
+                    HPOS="119"
+                    VPOS="1160"
+                    WIDTH="1416"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_16"
+                    TAGREFS="LT1055"
+                    BASELINE="129 1267 514 1272 514 1272 857 1268 981 1273 1261 1267 1535 1275" 
+                    HPOS="125"
+                    VPOS="1222"
+                    WIDTH="1407"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="128 1266 125 1296 741 1287 842 1287 853 1299 853 1301 856 1301 858 1301 860 1301 874 1301 1040 1289 1178 1301 1185 1301 1187 1303 1434 1303 1434 1301 1437 1301 1439 1301 1455 1289 1528 1301 1532 1273 1530 1238 1201 1224 1199 1224 1129 1236 1124 1236 1119 1236 1080 1224 1077 1224 1075 1224 1073 1224 1070 1224 1054 1236 1038 1224 1035 1224 1033 1224 1031 1224 1028 1224 1003 1236 1000 1236 993 1236 937 1224 935 1224 933 1224 912 1236 909 1236 907 1236 874 1224 872 1224 870 1224 867 1224 837 1236 832 1236 825 1236 767 1222 765 1222 762 1222 725 1233 725 1236 485 1236 482 1233 454 1222 452 1222 450 1222 394 1233 387 1233 382 1233 324 1222 321 1222 128 1231 128 1266"/></Shape>
+	    <String CONTENT="Janet Evanovich, paru en 2001. Il s&#39;agit du septième titre de"
+                    HPOS="125"
+                    VPOS="1222"
+                    WIDTH="1407"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_17"
+                    TAGREFS="LT1055"
+                    BASELINE="124 1331 662 1333 1075 1337 1246 1347" 
+                    HPOS="121"
+                    VPOS="1280"
+                    WIDTH="1124"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="123 1329 121 1352 221 1345 352 1359 419 1366 422 1366 424 1366 426 1366 426 1364 431 1362 445 1348 496 1348 524 1362 534 1369 536 1369 538 1369 541 1369 571 1364 639 1350 732 1366 753 1369 755 1369 774 1366 860 1352 874 1364 874 1366 877 1366 879 1366 898 1369 947 1371 949 1371 951 1371 954 1371 954 1369 968 1355 1087 1355 1108 1371 1108 1373 1110 1373 1112 1373 1115 1376 1243 1376 1245 1345 1243 1306 1105 1289 1103 1289 1101 1289 1098 1289 1098 1292 1084 1303 1084 1306 1014 1306 1012 1303 975 1287 972 1287 970 1287 788 1301 772 1301 769 1301 741 1285 739 1285 681 1285 678 1285 676 1285 674 1285 674 1287 660 1299 608 1287 606 1287 515 1296 501 1285 501 1282 499 1282 496 1282 494 1282 335 1296 333 1296 293 1280 291 1280 289 1280 123 1294 123 1329"/></Shape>
+	    <String CONTENT="la série ayant pour héroïne Stéphanie Plum."
+                    HPOS="121"
+                    VPOS="1280"
+                    WIDTH="1124"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

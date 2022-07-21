@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>batch2-48.out.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2967" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1380" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT1055" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1654"
+          HEIGHT="2799"
+          PHYSICAL_IMG_NR="48"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1654"
+                  HEIGHT="2799">
+        
+        <TextBlock HPOS="112.0"
+                   VPOS="634.0"
+                   WIDTH="1405.0"
+                   HEIGHT="726.0"
+                   ID="block_1"
+                   >
+          <Shape><Polygon POINTS="409 657 701 659 753 702 944 715 964 746 1373 746 1386 831 1473 883 1467 919 1417 925 647 950 757 957 796 1020 950 1032 963 1062 925 1086 765 1093 776 1105 485 1105 423 1111 384 1149 186 1149 154 1163 168 1188 1479 1206 1517 1231 1517 1279 1257 1304 1199 1329 876 1348 336 1360 136 1329 118 1304 130 1150 112 1130 112 964 136 869 136 765 112 713 124 634 689 646 409 657"/></Shape>
+          
+          
+          <TextLine ID="line_15"
+                    
+                    BASELINE="129 1298 958 1289 1507 1264" 
+                    HPOS="126.0"
+                    VPOS="1205.0"
+                    WIDTH="1381.0"
+                    HEIGHT="141.0">
+            <Shape><Polygon POINTS="1433 1205 1428 1205 1380 1236 1377 1237 1331 1237 1330 1236 1285 1212 1283 1212 1282 1212 1280 1212 1279 1212 1246 1237 1236 1244 1202 1245 960 1248 942 1240 910 1223 908 1223 907 1223 905 1223 872 1240 860 1248 848 1240 815 1220 813 1220 812 1220 810 1220 809 1220 807 1220 773 1242 770 1244 768 1242 709 1209 707 1209 706 1209 704 1209 703 1209 648 1244 627 1256 600 1244 569 1230 567 1230 566 1230 564 1230 563 1230 541 1244 532 1250 524 1244 479 1216 477 1216 476 1216 474 1216 379 1217 378 1217 376 1217 362 1228 343 1217 342 1217 340 1217 168 1222 166 1222 164 1222 126 1245 129 1298 129 1327 152 1338 154 1338 155 1338 157 1338 185 1326 206 1317 234 1324 309 1346 311 1346 312 1346 399 1345 401 1345 402 1345 438 1318 448 1313 494 1317 532 1320 533 1320 553 1315 580 1309 591 1315 623 1331 625 1331 627 1331 628 1331 670 1313 707 1337 709 1337 711 1337 712 1338 763 1338 763 1337 765 1337 767 1337 793 1317 819 1335 821 1335 823 1335 824 1335 919 1334 921 1334 977 1306 1048 1312 1050 1312 1051 1312 1053 1312 1072 1301 1073 1299 1075 1301 1142 1327 1143 1327 1145 1329 1202 1329 1202 1327 1204 1327 1205 1327 1257 1295 1258 1293 1366 1292 1367 1292 1392 1301 1394 1301 1395 1301 1397 1301 1428 1290 1429 1289 1507 1287 1507 1264 1506 1234 1447 1205 1433 1205"/></Shape>
+	    <String CONTENT=""
+                    HPOS="126.0"
+                    VPOS="1205.0"
+                    WIDTH="1381.0"
+                    HEIGHT="141.0"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="105.0"
+                   VPOS="62.0"
+                   WIDTH="410.0"
+                   HEIGHT="54.0"
+                   ID="block_0"
+                   >
+          <Shape><Polygon POINTS="515 74 515 104 130 116 105 104 118 62 483 62 515 74"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

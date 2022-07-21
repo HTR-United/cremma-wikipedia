@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT2967" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
-    <OtherTag ID="LT1055" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+    <OtherTag ID="LT1380" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT1055" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
   <Layout>

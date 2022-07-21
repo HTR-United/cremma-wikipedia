@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>batch2-32.out.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2967" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1380" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT1055" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1654"
+          HEIGHT="2799"
+          PHYSICAL_IMG_NR="32"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1654"
+                  HEIGHT="2799">
+        
+        <TextBlock HPOS="99"
+                   VPOS="1152"
+                   WIDTH="1504"
+                   HEIGHT="171"
+                   ID="eSc_textblock_8e2c3dc2"
+                   TAGREFS="BT2967">
+          <Shape><Polygon POINTS="99 1152 99 1323 1603 1323 1603 1152"/></Shape>
+          
+          
+          <TextLine ID="line_15"
+                    TAGREFS="LT1055"
+                    BASELINE="114 1210 429 1197 933 1189 1350 1202 1559 1198" 
+                    HPOS="109"
+                    VPOS="1152"
+                    WIDTH="1449"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="1509 1152 1486 1152 1483 1152 1446 1163 1159 1163 1101 1152 1089 1152 1066 1152 1042 1152 1019 1152 996 1152 972 1152 949 1152 926 1152 902 1152 879 1152 856 1152 851 1152 786 1159 426 1152 424 1152 422 1152 377 1168 361 1154 361 1152 359 1152 356 1152 342 1152 319 1152 296 1152 291 1152 289 1152 286 1152 233 1170 109 1170 111 1208 111 1215 212 1226 214 1226 216 1226 219 1226 235 1215 244 1210 275 1215 338 1226 340 1226 431 1215 436 1215 438 1215 452 1226 454 1226 457 1226 459 1226 461 1226 464 1226 482 1215 496 1208 664 1208 671 1215 681 1222 681 1224 683 1224 685 1224 688 1224 734 1215 762 1208 793 1215 846 1224 849 1224 851 1224 853 1224 865 1212 877 1205 1059 1205 1075 1212 1096 1222 1098 1222 1101 1224 1187 1224 1187 1222 1189 1222 1192 1222 1192 1219 1201 1212 1208 1205 1220 1212 1241 1222 1243 1222 1245 1222 1556 1210 1558 1196 1556 1163 1521 1152 1509 1152"/></Shape>
+	    <String CONTENT="TIMA BUDZIEVN TURIEVA (EN RUSSE: EN FRANÇAIS : TIMA BUDZIEVNA"
+                    HPOS="109"
+                    VPOS="1152"
+                    WIDTH="1449"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_16"
+                    TAGREFS="LT1055"
+                    BASELINE="129 1281 994 1265 1568 1271" 
+                    HPOS="127"
+                    VPOS="1230"
+                    WIDTH="1441"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="129 1281 129 1309 158 1309 158 1307 160 1307 161 1307 182 1293 224 1307 230 1309 231 1309 233 1309 264 1306 325 1301 379 1306 415 1307 417 1307 418 1307 424 1304 455 1290 482 1304 487 1306 488 1306 490 1307 543 1307 543 1306 544 1306 546 1306 549 1303 575 1285 684 1285 776 1292 777 1292 877 1284 902 1292 904 1292 905 1292 907 1292 930 1282 1081 1282 1104 1296 1110 1301 1112 1301 1114 1301 1115 1301 1193 1299 1194 1299 1196 1299 1202 1295 1215 1287 1229 1295 1238 1299 1240 1299 1241 1301 1314 1301 1314 1299 1316 1299 1336 1293 1375 1282 1405 1293 1406 1293 1408 1293 1409 1293 1415 1293 1457 1284 1504 1292 1535 1296 1537 1296 1568 1290 1568 1271 1566 1239 1331 1231 1330 1231 1260 1240 1208 1230 1207 1230 1075 1242 1026 1231 1025 1231 1023 1231 997 1242 894 1233 893 1233 844 1244 807 1233 805 1233 804 1233 737 1245 594 1236 592 1236 591 1236 552 1247 515 1236 513 1236 511 1236 510 1236 508 1236 493 1247 469 1240 468 1240 466 1240 407 1248 373 1237 371 1237 370 1237 322 1248 262 1239 261 1239 127 1251 129 1281"/></Shape>
+	    <String CONTENT="TURIEVA), NÉE LE 22 JUIN 1992 EST UNE HALTÉROPHILE RUSSE."
+                    HPOS="127"
+                    VPOS="1230"
+                    WIDTH="1441"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
