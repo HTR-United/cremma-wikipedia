@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>batch2-48.out.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT2967" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1380" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT1055" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1654"
+          HEIGHT="2799"
+          PHYSICAL_IMG_NR="48"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1654"
+                  HEIGHT="2799">
+        
+        <TextBlock HPOS="90"
+                   VPOS="1167"
+                   WIDTH="1474"
+                   HEIGHT="188"
+                   ID="eSc_textblock_6bb911cd"
+                   TAGREFS="BT2967">
+          <Shape><Polygon POINTS="90 1167 90 1355 1564 1355 1564 1167"/></Shape>
+          
+          
+          <TextLine ID="line_15"
+                    TAGREFS="LT1055"
+                    BASELINE="132 1298 422 1298 958 1289 1507 1264" 
+                    HPOS="128"
+                    VPOS="1194"
+                    WIDTH="1376"
+                    HEIGHT="163">
+            <Shape><Polygon POINTS="135 1357 172 1327 258 1350 272 1355 275 1355 277 1355 279 1355 282 1355 282 1352 286 1350 298 1336 312 1350 314 1350 314 1352 317 1352 319 1352 321 1352 401 1350 403 1350 405 1350 405 1348 410 1345 436 1317 471 1315 587 1315 622 1331 625 1331 627 1331 629 1331 671 1317 723 1331 753 1341 755 1341 758 1341 760 1341 762 1341 776 1329 795 1315 811 1329 823 1338 825 1338 828 1338 830 1338 923 1336 926 1336 928 1336 944 1322 970 1303 996 1317 998 1317 1000 1317 1073 1303 1108 1317 1140 1329 1143 1329 1145 1331 1196 1331 1196 1329 1199 1329 1201 1329 1201 1327 1217 1313 1231 1296 1255 1310 1276 1322 1278 1322 1280 1322 1283 1322 1285 1322 1306 1308 1329 1294 1409 1301 1411 1301 1481 1289 1495 1301 1504 1261 1502 1226 1446 1194 1444 1194 1441 1194 1439 1194 1437 1194 1434 1194 1392 1231 1367 1231 1325 1231 1322 1231 1290 1205 1287 1205 1285 1205 1283 1205 1280 1205 1278 1205 1278 1208 1250 1233 1248 1233 1201 1215 1199 1215 1196 1215 1194 1215 1192 1215 1192 1217 1175 1233 1173 1238 947 1240 937 1236 895 1217 893 1217 891 1217 888 1217 886 1217 886 1219 867 1238 807 1208 804 1208 802 1208 800 1208 797 1208 758 1238 713 1203 711 1203 709 1203 706 1203 704 1203 636 1240 618 1252 601 1240 569 1217 566 1217 564 1217 562 1217 559 1217 557 1217 522 1243 513 1250 506 1243 466 1210 464 1210 461 1210 459 1210 382 1212 380 1212 377 1212 359 1226 331 1215 328 1215 326 1215 163 1219 160 1219 158 1219 128 1240 130 1296"/></Shape>
+	    <String CONTENT="Chantal Mathieu est une harpiste franco-suisse, enseignante vaudoise."
+                    HPOS="128"
+                    VPOS="1194"
+                    WIDTH="1376"
+                    HEIGHT="163"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
