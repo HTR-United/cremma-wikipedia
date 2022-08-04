@@ -31,7 +31,7 @@ Complete here.
 ## Related tools
 
 - [wikicremma](https://github.com/PonteIneptique/wikicremma): file generator for the CREMMA-Wikipedia corpus
-- [CREMMAWIKI-Anonymizer](https://github.com/alix-tz/CREMMAWIKI_Anonymizer): anonymized image generator for the CREMMA-Wikipedia corpus
+- [cremmawiki-anonymizer](https://github.com/cremma-wiki/cremmawiki-anonymizer): anonymized image generator for the CREMMA-Wikipedia corpus
 
 ## License
 
