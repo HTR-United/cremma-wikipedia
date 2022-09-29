@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>batch4_18.out.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4187" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1408" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT1378" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1653"
+          HEIGHT="2339"
+          PHYSICAL_IMG_NR="17"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1653"
+                  HEIGHT="2339">
+        
+        <TextBlock HPOS="19"
+                   VPOS="1237"
+                   WIDTH="1432"
+                   HEIGHT="188"
+                   ID="eSc_textblock_c0a4e7dd"
+                   TAGREFS="BT4187">
+          <Shape><Polygon POINTS="19 1237 19 1425 1451 1425 1451 1237"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_e2f17f00"
+                    TAGREFS="LT1378"
+                    BASELINE="37 1309 1401 1288" 
+                    HPOS="35"
+                    VPOS="1255"
+                    WIDTH="1366"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="1382 1261 1304 1261 1302 1261 1282 1261 1274 1259 1212 1259 1204 1259 1185 1259 1165 1259 1146 1259 1126 1257 1118 1257 1107 1257 1087 1257 1068 1257 1048 1257 1029 1257 1019 1255 1001 1266 851 1259 849 1259 847 1259 826 1268 748 1261 746 1261 651 1272 512 1265 510 1265 508 1265 489 1274 442 1265 440 1265 438 1265 403 1278 282 1278 157 1268 155 1268 48 1280 35 1298 37 1309 37 1325 1399 1305 1401 1288 1397 1270 1382 1261"/></Shape>
+	    <String CONTENT="Camilla Meurer, née le 2 novembre 1986 à La Haye, est une"
+                    HPOS="35"
+                    VPOS="1255"
+                    WIDTH="1366"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a0223646"
+                    TAGREFS="LT1378"
+                    BASELINE="50 1383 479 1376" 
+                    HPOS="48"
+                    VPOS="1337"
+                    WIDTH="431"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="471 1346 405 1337 403 1337 401 1337 399 1337 389 1346 358 1339 356 1339 354 1339 286 1348 265 1339 263 1339 261 1339 140 1352 87 1342 85 1342 83 1342 54 1352 48 1374 50 1383 50 1405 479 1395 479 1376 477 1362 471 1346"/></Shape>
+	    <String CONTENT="actrice néerlandaise."
+                    HPOS="48"
+                    VPOS="1337"
+                    WIDTH="431"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

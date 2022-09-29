@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>batch4_14.out.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4187" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1408" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT1378" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1653"
+          HEIGHT="2339"
+          PHYSICAL_IMG_NR="13"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1653"
+                  HEIGHT="2339">
+        
+        <TextBlock HPOS="0"
+                   VPOS="1199"
+                   WIDTH="1611"
+                   HEIGHT="330"
+                   ID="eSc_textblock_97c9dd9f"
+                   TAGREFS="BT4187">
+          <Shape><Polygon POINTS="0 1204 0 1529 1611 1524 1611 1199"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_82ae1e0c"
+                    TAGREFS="LT1378"
+                    BASELINE="17 1278 748 1286 814 1294 1590 1282" 
+                    HPOS="15"
+                    VPOS="1220"
+                    WIDTH="1573"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="15 1292 387 1288 426 1294 458 1298 460 1298 512 1294 576 1288 608 1294 668 1305 670 1305 672 1305 674 1305 688 1294 729 1305 730 1305 732 1305 734 1305 758 1294 764 1292 773 1294 812 1303 814 1303 816 1303 1588 1294 1588 1280 1582 1249 1313 1249 1304 1243 1274 1220 1272 1220 1270 1220 1011 1220 1009 1220 1007 1220 1005 1220 982 1237 964 1251 787 1251 762 1233 746 1222 744 1222 742 1222 713 1222 711 1222 709 1222 684 1231 641 1251 532 1233 530 1233 528 1233 483 1249 440 1227 426 1222 424 1222 391 1222 389 1222 387 1222 385 1222 380 1227 345 1253 325 1253 226 1224 214 1222 212 1222 210 1222 181 1224 97 1231 15 1222 15 1276 15 1292"/></Shape>
+	    <String CONTENT="Baudhuin Simon est un artiste contemporain"
+                    HPOS="15"
+                    VPOS="1220"
+                    WIDTH="1573"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9e8bc1ab"
+                    TAGREFS="LT1378"
+                    BASELINE="21 1378 304 1381 417 1391 758 1389 781 1389 1561 1385" 
+                    HPOS="17"
+                    VPOS="1319"
+                    WIDTH="1542"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="19 1376 19 1405 109 1418 111 1418 113 1418 150 1407 325 1407 382 1420 384 1420 385 1420 674 1409 719 1420 721 1420 723 1420 775 1411 1021 1420 1023 1420 1089 1409 1216 1418 1218 1418 1282 1409 1309 1418 1311 1418 1313 1418 1559 1403 1559 1383 1557 1344 1530 1333 1528 1333 1526 1333 1440 1342 1434 1342 1432 1342 1403 1319 1401 1319 1399 1319 1397 1319 1395 1319 1393 1319 1358 1341 1356 1342 1354 1341 1304 1319 1302 1319 1300 1319 1298 1319 1245 1339 1208 1319 1206 1319 1204 1319 1202 1319 1163 1339 1153 1344 1081 1344 1070 1337 1048 1321 1046 1321 1044 1321 1042 1321 1040 1321 1003 1337 1001 1337 980 1321 978 1321 976 1321 974 1321 826 1323 824 1323 822 1323 808 1333 793 1346 762 1346 744 1333 730 1321 729 1321 727 1321 695 1321 693 1321 691 1321 690 1321 674 1331 649 1346 578 1346 557 1329 545 1321 543 1321 541 1321 485 1321 483 1321 481 1321 479 1321 469 1329 446 1344 413 1327 397 1321 395 1321 350 1321 348 1321 346 1321 345 1321 339 1327 315 1344 284 1329 282 1329 280 1329 278 1329 276 1329 259 1342 231 1331 230 1331 228 1331 226 1331 177 1344 118 1323 111 1321 109 1321 107 1321 17 1321 19 1376"/></Shape>
+	    <String CONTENT="belge né le 29 août 1947 et mort le 8 mars"
+                    HPOS="17"
+                    VPOS="1319"
+                    WIDTH="1542"
+                    HEIGHT="101"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3c6398fe"
+                    TAGREFS="LT1378"
+                    BASELINE="33 1489 210 1485" 
+                    HPOS="31"
+                    VPOS="1424"
+                    WIDTH="179"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="31 1471 33 1489 33 1500 91 1510 93 1510 95 1510 115 1502 120 1500 122 1502 132 1512 132 1514 134 1514 136 1514 138 1514 210 1504 210 1485 208 1444 159 1424 157 1424 155 1424 153 1424 152 1424 152 1426 134 1444 89 1444 46 1426 44 1426 42 1426 40 1426 38 1426 31 1471"/></Shape>
+	    <String CONTENT="2006."
+                    HPOS="31"
+                    VPOS="1424"
+                    WIDTH="179"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>batch4_26.out.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4187" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1408" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT1378" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1653"
+          HEIGHT="2339"
+          PHYSICAL_IMG_NR="25"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1653"
+                  HEIGHT="2339">
+        
+        <TextBlock HPOS="0"
+                   VPOS="1246"
+                   WIDTH="1573"
+                   HEIGHT="325"
+                   ID="eSc_textblock_12ffdd7c"
+                   TAGREFS="BT4187">
+          <Shape><Polygon POINTS="0 1279 0 1571 1573 1571 1573 1246"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_be12661e"
+                    TAGREFS="LT1378"
+                    BASELINE="19 1319 1491 1290" 
+                    HPOS="17"
+                    VPOS="1253"
+                    WIDTH="1474"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="19 1319 19 1327 1489 1298 1491 1290 1489 1263 1460 1253 1458 1253 1456 1253 1389 1263 1387 1263 1335 1255 1333 1255 1138 1266 1095 1268 1079 1266 1021 1261 1019 1261 1017 1261 994 1268 986 1270 968 1268 918 1263 916 1263 810 1270 760 1274 744 1272 717 1266 715 1266 713 1266 701 1272 691 1278 17 1280 19 1319"/></Shape>
+	    <String CONTENT="Le terme « Yankee » a plusieurs significations, désignant généralement"
+                    HPOS="17"
+                    VPOS="1253"
+                    WIDTH="1474"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_348749ab"
+                    TAGREFS="LT1378"
+                    BASELINE="25 1368 1399 1352 1541 1358" 
+                    HPOS="23"
+                    VPOS="1315"
+                    WIDTH="1518"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="1534 1323 1469 1315 1467 1315 1419 1325 1415 1325 1407 1325 1315 1317 1313 1317 1311 1317 1276 1327 1270 1327 1245 1327 1107 1319 1105 1319 968 1329 925 1331 896 1329 824 1323 822 1323 768 1331 740 1335 23 1335 25 1368 25 1376 1539 1366 1541 1358 1539 1348 1534 1323"/></Shape>
+	    <String CONTENT="un natif ou un habitant des États-Unis ou à l&#39;intérieur des États-Unis,"
+                    HPOS="23"
+                    VPOS="1315"
+                    WIDTH="1518"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_037120bb"
+                    TAGREFS="LT1378"
+                    BASELINE="25 1418 1489 1399" 
+                    HPOS="23"
+                    VPOS="1366"
+                    WIDTH="1466"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="25 1418 25 1424 1487 1407 1489 1399 1483 1366 23 1389 25 1418"/></Shape>
+	    <String CONTENT="un natif ou un habitant de la Nouvelle-Angleterre. It est attesté pour"
+                    HPOS="23"
+                    VPOS="1366"
+                    WIDTH="1466"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b7099db3"
+                    TAGREFS="LT1378"
+                    BASELINE="33 1481 1512 1454" 
+                    HPOS="31"
+                    VPOS="1417"
+                    WIDTH="1481"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="33 1481 33 1502 83 1493 235 1498 237 1498 239 1498 272 1485 397 1485 419 1495 421 1495 422 1495 771 1477 976 1485 980 1485 982 1485 984 1485 1111 1471 1448 1475 1450 1475 1452 1475 1473 1465 1508 1475 1512 1454 1508 1428 1454 1417 1452 1417 1378 1428 1376 1428 1370 1428 1210 1422 1208 1422 1206 1422 1185 1430 1181 1432 1152 1432 1029 1424 1027 1424 1025 1424 994 1432 980 1436 912 1434 783 1428 781 1428 779 1428 777 1428 768 1436 762 1440 734 1436 699 1430 697 1430 654 1436 615 1442 602 1436 588 1432 586 1432 584 1432 582 1432 571 1438 555 1444 541 1438 532 1434 530 1434 461 1434 460 1434 458 1434 456 1434 452 1438 442 1446 31 1444 33 1481"/></Shape>
+	    <String CONTENT="la première fois en 1758 dans une Lettre du général britannique Wolfe,"
+                    HPOS="31"
+                    VPOS="1417"
+                    WIDTH="1481"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c130e767"
+                    TAGREFS="LT1378"
+                    BASELINE="29 1541 1189 1528" 
+                    HPOS="27"
+                    VPOS="1500"
+                    WIDTH="1162"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="29 1541 31 1569 79 1557 111 1567 120 1571 122 1571 124 1571 179 1565 231 1561 253 1565 284 1569 286 1569 288 1569 309 1563 335 1555 364 1561 393 1567 395 1567 397 1567 399 1567 407 1561 417 1553 426 1559 436 1567 438 1567 440 1567 442 1569 524 1569 524 1567 526 1567 545 1557 557 1551 594 1555 658 1563 660 1563 662 1563 695 1553 711 1549 730 1551 785 1561 787 1561 849 1549 861 1547 865 1549 888 1561 890 1561 892 1563 990 1563 990 1561 992 1561 1023 1545 1027 1545 1173 1553 1175 1553 1177 1553 1179 1553 1189 1543 1189 1528 1183 1500 27 1504 29 1541"/></Shape>
+	    <String CONTENT="qui combattait alors les Français en Amérique du Nord."
+                    HPOS="27"
+                    VPOS="1500"
+                    WIDTH="1162"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

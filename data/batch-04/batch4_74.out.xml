@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>batch4_74.out.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4187" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1408" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT1378" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1653"
+          HEIGHT="2339"
+          PHYSICAL_IMG_NR="73"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1653"
+                  HEIGHT="2339">
+        
+        <TextBlock HPOS="38"
+                   VPOS="1194"
+                   WIDTH="1545"
+                   HEIGHT="189"
+                   ID="eSc_textblock_73a153a7"
+                   TAGREFS="BT4187">
+          <Shape><Polygon POINTS="48 1194 38 1383 1583 1378 1583 1194"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_3f0070ec"
+                    TAGREFS="LT1378"
+                    BASELINE="68 1259 1539 1268" 
+                    HPOS="66"
+                    VPOS="1200"
+                    WIDTH="1473"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="1530 1226 1526 1224 1500 1214 1499 1214 1497 1214 1428 1224 1383 1208 1382 1208 1380 1208 1378 1208 1376 1208 1354 1226 1300 1226 1263 1226 1261 1226 1204 1206 1202 1206 1200 1206 1126 1216 1101 1206 1099 1206 1097 1206 1095 1206 1093 1206 1070 1224 912 1214 910 1214 787 1222 764 1204 762 1204 760 1204 758 1204 756 1204 721 1222 606 1222 582 1202 580 1202 578 1202 576 1202 374 1216 356 1202 356 1200 354 1200 352 1200 280 1200 278 1200 276 1200 233 1218 120 1200 118 1200 116 1200 76 1216 68 1239 68 1259 66 1266 245 1268 257 1280 259 1280 261 1280 263 1280 454 1272 489 1286 491 1286 493 1286 707 1274 758 1274 781 1290 783 1290 785 1290 787 1290 984 1282 1070 1292 1072 1292 1074 1292 1105 1282 1187 1292 1189 1292 1191 1292 1192 1292 1204 1280 1292 1280 1483 1294 1485 1294 1487 1294 1537 1280 1539 1268 1537 1263 1530 1226"/></Shape>
+	    <String CONTENT="Le baron Vladimir Harkonnen est un personnage de fiction issu du cycle"
+                    HPOS="66"
+                    VPOS="1200"
+                    WIDTH="1473"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_764a6260"
+                    TAGREFS="LT1378"
+                    BASELINE="74 1327 877 1339" 
+                    HPOS="72"
+                    VPOS="1265"
+                    WIDTH="805"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="871 1335 859 1292 803 1292 781 1274 779 1274 777 1274 775 1274 773 1274 771 1274 752 1290 736 1274 736 1272 734 1272 732 1272 730 1272 682 1274 680 1274 678 1274 678 1276 668 1286 645 1272 643 1272 641 1272 639 1272 637 1272 637 1274 619 1290 588 1270 586 1270 584 1270 541 1270 539 1270 538 1270 536 1270 536 1272 518 1288 448 1288 448 1286 438 1278 438 1276 436 1276 434 1276 432 1276 430 1276 405 1286 389 1272 389 1270 387 1270 385 1270 341 1266 339 1266 337 1266 335 1266 315 1284 292 1266 290 1266 288 1266 286 1266 284 1266 282 1266 261 1284 259 1284 247 1284 183 1280 163 1265 161 1265 159 1265 157 1265 155 1265 118 1282 95 1265 93 1265 91 1265 74 1300 74 1327 72 1344 873 1348 877 1339 875 1335 871 1335"/></Shape>
+	    <String CONTENT="de Dune de l&#39;écrivain Frank Herbert."
+                    HPOS="72"
+                    VPOS="1265"
+                    WIDTH="805"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

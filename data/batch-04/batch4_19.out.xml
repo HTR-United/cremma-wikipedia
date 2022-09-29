@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>batch4_19.out.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4187" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1408" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT1378" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1653"
+          HEIGHT="2339"
+          PHYSICAL_IMG_NR="18"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1653"
+                  HEIGHT="2339">
+        
+        <TextBlock HPOS="57"
+                   VPOS="1567"
+                   WIDTH="1521"
+                   HEIGHT="164"
+                   ID="eSc_textblock_27caa002"
+                   TAGREFS="BT4187">
+          <Shape><Polygon POINTS="57 1567 57 1731 1578 1731 1578 1567"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_22557310"
+                    TAGREFS="LT1378"
+                    BASELINE="77 1619 538 1617 569 1617 1452 1606" 
+                    HPOS="74"
+                    VPOS="1569"
+                    WIDTH="1376"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="76 1617 76 1633 1448 1621 1450 1604 1444 1569 920 1584 808 1576 807 1576 752 1586 415 1580 413 1580 411 1580 409 1580 399 1590 364 1580 362 1580 360 1580 74 1580 76 1617"/></Shape>
+	    <String CONTENT="Fulfordianthus evansii est une espèce de plantes de la famille"
+                    HPOS="74"
+                    VPOS="1569"
+                    WIDTH="1376"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_530411f9"
+                    TAGREFS="LT1378"
+                    BASELINE="74 1686 1536 1674" 
+                    HPOS="72"
+                    VPOS="1635"
+                    WIDTH="1464"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="72 1674 74 1686 74 1697 713 1691 766 1697 801 1701 803 1701 805 1701 814 1697 832 1689 978 1697 1044 1699 1046 1699 1048 1699 1050 1699 1054 1695 1070 1687 1183 1695 1214 1697 1216 1697 1237 1695 1329 1686 1532 1693 1536 1674 1532 1645 1298 1635 1296 1635 1294 1635 1263 1645 1253 1645 561 1641 559 1641 499 1650 495 1650 489 1650 440 1643 438 1643 79 1652 72 1674"/></Shape>
+	    <String CONTENT="des Lejeuneaceae. == Publication originale == The Bryologist 95: 46. 1992."
+                    HPOS="72"
+                    VPOS="1635"
+                    WIDTH="1464"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>batch4_20.out.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4187" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1408" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT1378" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1653"
+          HEIGHT="2339"
+          PHYSICAL_IMG_NR="19"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1653"
+                  HEIGHT="2339">
+        
+        <TextBlock HPOS="19"
+                   VPOS="1378"
+                   WIDTH="1620"
+                   HEIGHT="660"
+                   ID="eSc_textblock_44fe37d0"
+                   TAGREFS="BT4187">
+          <Shape><Polygon POINTS="19 1412 52 2038 1639 1972 1630 1378"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_ada72082"
+                    
+                    BASELINE="37 1457 982 1430 1508 1422" 
+                    HPOS="33"
+                    VPOS="1383"
+                    WIDTH="1473"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="1339 1383 1335 1383 1325 1391 1323 1393 1302 1391 1216 1385 1214 1385 1212 1385 1187 1395 1175 1397 1159 1395 1114 1387 1113 1387 1052 1397 1021 1401 972 1399 894 1393 892 1393 890 1393 875 1399 861 1405 771 1401 684 1399 682 1399 680 1399 666 1403 651 1409 567 1405 493 1403 491 1403 489 1403 477 1407 460 1415 434 1409 428 1407 426 1407 424 1407 422 1407 421 1407 419 1409 407 1417 33 1417 35 1456 35 1461 1504 1426 1506 1420 1500 1389 1374 1391 1370 1391 1346 1383 1339 1383"/></Shape>
+	    <String CONTENT="Catherine Dorléac, dite Catherine Deneuve, est une actrice française née"
+                    HPOS="33"
+                    VPOS="1383"
+                    WIDTH="1473"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a6b17e3a"
+                    
+                    BASELINE="44 1514 1557 1477" 
+                    HPOS="40"
+                    VPOS="1450"
+                    WIDTH="1515"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="42 1512 42 1520 118 1530 120 1530 360 1514 372 1512 1555 1487 1555 1475 1549 1450 40 1481 42 1512"/></Shape>
+	    <String CONTENT="le 22 octobre 1943 à Paris. Considérée comme l&#39;une des plus grandes actrices"
+                    HPOS="40"
+                    VPOS="1450"
+                    WIDTH="1515"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_31f69471"
+                    
+                    BASELINE="46 1569 1440 1535" 
+                    HPOS="42"
+                    VPOS="1498"
+                    WIDTH="1396"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="44 1567 44 1574 543 1572 600 1567 666 1561 680 1567 688 1569 690 1569 691 1569 693 1569 705 1565 730 1559 756 1565 777 1569 779 1569 781 1569 783 1569 791 1565 803 1557 842 1563 857 1565 859 1565 861 1565 863 1565 865 1563 879 1555 970 1561 1017 1563 1019 1563 1021 1563 1023 1563 1027 1559 1037 1551 1081 1559 1089 1559 1091 1559 1105 1559 1191 1547 1253 1555 1270 1557 1272 1557 1290 1555 1358 1543 1436 1551 1438 1533 1436 1508 1401 1498 1399 1498 1397 1498 1395 1498 1354 1508 1352 1508 1288 1500 1286 1500 1134 1512 1107 1514 1097 1514 1060 1506 1058 1506 922 1516 861 1520 845 1518 818 1512 816 1512 814 1512 793 1518 777 1522 752 1518 713 1514 711 1514 658 1520 614 1528 42 1530 44 1567"/></Shape>
+	    <String CONTENT="françaises de la seconde moitié du XXe siècle, elle est l&#39;égérie de"
+                    HPOS="42"
+                    VPOS="1498"
+                    WIDTH="1396"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7ace564a"
+                    
+                    BASELINE="50 1623 986 1604 1489 1582" 
+                    HPOS="46"
+                    VPOS="1549"
+                    WIDTH="1441"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="48 1621 48 1629 957 1617 1027 1606 1042 1604 1052 1606 1107 1613 1109 1613 1196 1602 1208 1600 1214 1600 1255 1610 1257 1610 1487 1592 1487 1580 1483 1559 1421 1549 1419 1549 1417 1549 1415 1549 1401 1561 964 1561 962 1561 961 1561 959 1561 947 1571 904 1563 902 1563 803 1574 730 1567 729 1567 651 1578 426 1574 424 1574 422 1574 421 1574 403 1584 148 1582 146 1582 46 1594 48 1621"/></Shape>
+	    <String CONTENT="reaisateurs comme Jacques Demy, François Truffaut ou André Téchiné. Elle"
+                    HPOS="46"
+                    VPOS="1549"
+                    WIDTH="1441"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6bbf5163"
+                    
+                    BASELINE="56 1672 1518 1643" 
+                    HPOS="52"
+                    VPOS="1611"
+                    WIDTH="1464"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="54 1670 54 1678 1516 1650 1516 1641 1510 1611 52 1637 54 1670"/></Shape>
+	    <String CONTENT="compte dans sa filmographie plusieurs autres grands noms de l&#39;histoire du"
+                    HPOS="52"
+                    VPOS="1611"
+                    WIDTH="1464"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_95077f78"
+                    
+                    BASELINE="58 1719 729 1715 1528 1687" 
+                    HPOS="54"
+                    VPOS="1654"
+                    WIDTH="1472"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="56 1717 56 1728 487 1730 489 1730 1526 1701 1526 1686 1522 1664 1446 1654 1444 1654 1319 1666 1317 1666 1187 1660 1185 1660 1040 1672 1009 1676 54 1689 56 1717"/></Shape>
+	    <String CONTENT="cinéma, comme Luis Buñuel, Roman Polanski, Mauro Bolognini, Robert Aldrich,"
+                    HPOS="54"
+                    VPOS="1654"
+                    WIDTH="1472"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_423a429e"
+                    
+                    BASELINE="66 1775 807 1773 1532 1746" 
+                    HPOS="62"
+                    VPOS="1721"
+                    WIDTH="1468"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="64 1773 64 1787 851 1783 1253 1763 1284 1763 1288 1763 1341 1773 1343 1773 1345 1773 1346 1773 1346 1771 1356 1762 1358 1760 1530 1758 1530 1744 1524 1721 62 1744 64 1773"/></Shape>
+	    <String CONTENT="Marco Ferreri, Dino Risi, Tony Scott, Manuel de Oliveira, Raoul Ruiz, HiroKazu"
+                    HPOS="62"
+                    VPOS="1721"
+                    WIDTH="1468"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_119948ea"
+                    
+                    BASELINE="64 1832 658 1830 1594 1801" 
+                    HPOS="60"
+                    VPOS="1763"
+                    WIDTH="1532"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="62 1830 62 1843 228 1851 230 1851 231 1851 233 1851 247 1841 393 1847 395 1847 1592 1810 1592 1799 1586 1763 1432 1775 1409 1767 1407 1767 1405 1767 1403 1767 1401 1767 1385 1779 1189 1773 1187 1773 1066 1791 60 1799 62 1830"/></Shape>
+	    <String CONTENT="Kore-eda ou encore Lars von Trier. Au cours de sa carrière, elle a interprété"
+                    HPOS="60"
+                    VPOS="1763"
+                    WIDTH="1532"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0e6ae0db"
+                    
+                    BASELINE="64 1886 666 1880 1187 1863 1518 1840" 
+                    HPOS="60"
+                    VPOS="1814"
+                    WIDTH="1456"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="62 1884 62 1896 1126 1878 1128 1878 1159 1869 1192 1877 1194 1877 1196 1877 1516 1857 1516 1838 1510 1814 1337 1818 1335 1818 1331 1820 1307 1830 1270 1822 1268 1822 1267 1822 1263 1822 1163 1834 1138 1826 1132 1824 1130 1824 1128 1824 1126 1824 1124 1824 1122 1826 1111 1836 1070 1828 1054 1826 1052 1826 1033 1830 980 1840 941 1832 933 1832 931 1832 929 1832 925 1834 908 1841 836 1836 824 1836 822 1836 754 1840 485 1853 426 1849 362 1845 360 1845 358 1845 356 1845 346 1853 339 1857 288 1855 204 1849 202 1849 60 1861 62 1884"/></Shape>
+	    <String CONTENT="de nombreux rôle marquants en explorant différents genres, passant de"
+                    HPOS="60"
+                    VPOS="1814"
+                    WIDTH="1456"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_30535105"
+                    
+                    BASELINE="76 1939 584 1935 1481 1900" 
+                    HPOS="72"
+                    VPOS="1873"
+                    WIDTH="1407"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="74 1937 74 1956 816 1943 1070 1925 1087 1925 1095 1925 1185 1931 1187 1931 1189 1931 1212 1921 1212 1919 1479 1912 1479 1898 1473 1873 72 1908 74 1937"/></Shape>
+	    <String CONTENT="la comédie au drame, du film historique au film musical ou encore du"
+                    HPOS="72"
+                    VPOS="1873"
+                    WIDTH="1407"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_79735aa6"
+                    
+                    BASELINE="76 1992 514 1988" 
+                    HPOS="72"
+                    VPOS="1955"
+                    WIDTH="440"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="74 1990 74 2003 247 2021 249 2021 251 2021 253 2021 276 2005 366 2019 368 2019 370 2019 401 2003 471 2019 473 2019 475 2019 512 1999 512 1986 508 1956 72 1955 74 1990"/></Shape>
+	    <String CONTENT="thriller au fantastique."
+                    HPOS="72"
+                    VPOS="1955"
+                    WIDTH="440"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

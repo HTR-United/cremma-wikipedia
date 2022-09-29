@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>batch4_70.out.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4187" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1408" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT1378" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1653"
+          HEIGHT="2339"
+          PHYSICAL_IMG_NR="69"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1653"
+                  HEIGHT="2339">
+        
+        <TextBlock HPOS="9"
+                   VPOS="1209"
+                   WIDTH="1588"
+                   HEIGHT="131"
+                   ID="eSc_textblock_cc4645ea"
+                   TAGREFS="BT4187">
+          <Shape><Polygon POINTS="9 1340 9 1209 1597 1209 1588 1340"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_0d226b14"
+                    TAGREFS="LT1378"
+                    BASELINE="66 1265 1571 1261" 
+                    HPOS="62"
+                    VPOS="1210"
+                    WIDTH="1507"
+                    HEIGHT="95">
+            <Shape><Polygon POINTS="64 1263 64 1305 224 1302 226 1302 270 1282 309 1282 341 1302 343 1303 345 1303 346 1303 348 1305 407 1305 407 1303 430 1300 520 1282 654 1294 656 1294 711 1284 738 1294 744 1296 746 1296 748 1296 750 1296 758 1294 797 1280 1009 1280 1044 1288 1079 1298 1081 1298 1083 1298 1085 1298 1120 1288 1124 1286 1128 1286 1165 1302 1167 1302 1169 1303 1380 1303 1380 1302 1382 1302 1383 1302 1405 1288 1436 1298 1438 1298 1440 1298 1442 1298 1477 1280 1479 1280 1483 1280 1530 1290 1532 1290 1534 1290 1569 1278 1569 1259 1563 1229 1495 1229 1491 1227 1477 1216 1475 1216 1473 1216 1471 1216 1469 1216 1440 1227 1434 1229 1432 1227 1411 1210 1409 1210 1407 1210 1364 1210 1362 1210 1288 1226 1267 1229 1261 1226 1243 1210 1241 1210 1239 1210 1181 1210 1179 1210 1177 1210 1175 1210 1157 1224 1150 1231 1109 1231 1099 1224 1089 1216 1087 1216 1085 1216 1083 1216 1081 1216 1066 1224 1062 1224 1056 1222 1001 1210 999 1210 998 1210 972 1222 953 1229 916 1222 867 1210 865 1210 863 1210 838 1220 812 1231 793 1220 783 1212 781 1212 779 1212 777 1212 775 1212 773 1212 762 1220 740 1231 647 1222 645 1222 643 1222 612 1231 588 1218 584 1214 582 1214 580 1214 578 1214 576 1214 575 1214 573 1218 553 1231 475 1222 473 1222 471 1222 469 1222 460 1231 434 1216 432 1214 430 1214 428 1214 426 1214 424 1214 422 1214 422 1216 399 1233 325 1233 286 1214 282 1212 280 1212 185 1212 183 1212 181 1212 179 1212 150 1231 122 1212 120 1212 118 1212 62 1212 64 1263"/></Shape>
+	    <String CONTENT="Anka Muhlstein, née le 18 août 1935 à Paris est une historienne et biographe française."
+                    HPOS="62"
+                    VPOS="1210"
+                    WIDTH="1507"
+                    HEIGHT="95"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>batch4_91.out.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4187" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1408" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT1378" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1653"
+          HEIGHT="2339"
+          PHYSICAL_IMG_NR="90"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1653"
+                  HEIGHT="2339">
+        
+        <TextBlock HPOS="9"
+                   VPOS="1614"
+                   WIDTH="1499"
+                   HEIGHT="438"
+                   ID="eSc_textblock_4541e57c"
+                   TAGREFS="BT4187">
+          <Shape><Polygon POINTS="9 1633 9 2052 1508 2052 1508 1614"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_caf32b0c"
+                    TAGREFS="LT1378"
+                    BASELINE="38 1678 1374 1660" 
+                    HPOS="37"
+                    VPOS="1629"
+                    WIDTH="1337"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="1362 1631 1343 1629 1323 1629 1304 1629 1284 1629 1265 1629 1245 1629 1226 1629 1210 1629 1204 1631 1200 1633 1136 1633 1134 1631 1130 1629 1128 1629 1109 1631 1089 1631 1076 1631 1072 1633 1070 1631 1050 1631 1031 1631 1029 1631 1011 1631 992 1631 972 1631 953 1631 933 1631 929 1631 927 1633 923 1635 918 1633 914 1631 894 1631 875 1631 871 1631 867 1633 863 1633 855 1633 853 1633 836 1633 816 1633 797 1633 777 1633 758 1633 756 1633 748 1637 705 1633 699 1633 680 1633 660 1633 641 1633 629 1633 608 1639 602 1635 602 1635 582 1635 563 1635 543 1635 524 1635 514 1635 465 1643 387 1643 380 1635 376 1631 374 1631 372 1631 370 1631 368 1631 356 1635 329 1645 265 1645 255 1635 251 1631 249 1631 247 1631 198 1631 196 1631 194 1631 192 1631 192 1633 189 1635 181 1645 163 1635 157 1633 155 1633 153 1633 152 1633 150 1633 146 1635 134 1643 38 1637 37 1641 38 1678 38 1686 1372 1668 1374 1660 1370 1637 1362 1631"/></Shape>
+	    <String CONTENT="Hubert Weise, né le 22 décembre 1884 à Erfurt et mort le 14"
+                    HPOS="37"
+                    VPOS="1629"
+                    WIDTH="1337"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f882eaf8"
+                    TAGREFS="LT1378"
+                    BASELINE="40 1738 1471 1726" 
+                    HPOS="38"
+                    VPOS="1687"
+                    WIDTH="1433"
+                    HEIGHT="61">
+            <Shape><Polygon POINTS="1461 1725 1446 1695 1274 1687 1272 1687 1060 1697 990 1699 38 1699 40 1738 40 1748 1469 1736 1471 1726 1467 1721 1461 1725"/></Shape>
+	    <String CONTENT="février 1950 à Bad Kohlgrub, était une Generaloberst allemand au sein"
+                    HPOS="38"
+                    VPOS="1687"
+                    WIDTH="1433"
+                    HEIGHT="61"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0ad78972"
+                    TAGREFS="LT1378"
+                    BASELINE="44 1802 1407 1789" 
+                    HPOS="42"
+                    VPOS="1750"
+                    WIDTH="1365"
+                    HEIGHT="62">
+            <Shape><Polygon POINTS="44 1802 44 1812 1407 1797 1407 1789 1403 1762 1259 1750 1257 1750 1255 1750 1253 1750 1239 1760 1212 1750 1210 1750 1208 1750 1206 1750 1157 1762 1027 1752 1025 1752 1023 1752 1021 1752 1021 1754 1009 1763 801 1756 799 1756 797 1756 795 1756 783 1765 629 1758 627 1758 524 1767 508 1758 506 1758 504 1758 502 1758 500 1758 467 1767 440 1758 438 1758 436 1758 434 1758 432 1758 432 1760 422 1769 399 1760 397 1760 243 1760 241 1760 239 1760 237 1760 237 1762 228 1769 115 1762 113 1762 111 1762 109 1762 99 1771 60 1762 58 1762 56 1762 54 1762 52 1762 42 1767 44 1802"/></Shape>
+	    <String CONTENT="de la Luftwaffe dans la Wehrmacht pendant la Seconde Guerre"
+                    HPOS="42"
+                    VPOS="1750"
+                    WIDTH="1365"
+                    HEIGHT="62"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dd243c3f"
+                    TAGREFS="LT1378"
+                    BASELINE="44 1851 721 1855 1401 1841" 
+                    HPOS="42"
+                    VPOS="1812"
+                    WIDTH="1359"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="44 1851 44 1867 1401 1853 1401 1841 1395 1812 42 1818 44 1851"/></Shape>
+	    <String CONTENT="mondiale. Il a reçu la Croix de chevalier de la Croix de fer (en"
+                    HPOS="42"
+                    VPOS="1812"
+                    WIDTH="1359"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ea76c767"
+                    TAGREFS="LT1378"
+                    BASELINE="46 1910 1391 1892" 
+                    HPOS="44"
+                    VPOS="1853"
+                    WIDTH="1347"
+                    HEIGHT="72">
+            <Shape><Polygon POINTS="46 1910 46 1925 1391 1902 1391 1892 1387 1863 1247 1853 1245 1853 1243 1853 1212 1865 1210 1865 1204 1865 1130 1855 1128 1855 1126 1855 1124 1855 1113 1865 1003 1857 1001 1857 999 1857 980 1867 949 1857 947 1857 945 1857 943 1857 941 1857 927 1867 534 1865 532 1865 530 1865 489 1875 212 1867 210 1867 208 1867 173 1878 70 1869 68 1869 66 1869 44 1878 46 1910"/></Shape>
+	    <String CONTENT="allemand : Ritterkreuz des Eisernen Kreuzes). Cette décoration est"
+                    HPOS="44"
+                    VPOS="1853"
+                    WIDTH="1347"
+                    HEIGHT="72"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0dd2f5fa"
+                    TAGREFS="LT1378"
+                    BASELINE="48 1962 1350 1949" 
+                    HPOS="46"
+                    VPOS="1916"
+                    WIDTH="1304"
+                    HEIGHT="56">
+            <Shape><Polygon POINTS="46 1956 48 1962 48 1972 1163 1972 1163 1970 1350 1956 1350 1949 1346 1923 1085 1916 1083 1916 957 1925 847 1916 845 1916 787 1927 686 1917 684 1917 633 1927 612 1917 610 1917 608 1917 606 1917 604 1917 604 1919 592 1931 524 1931 514 1921 514 1919 512 1919 510 1919 508 1919 372 1931 76 1923 74 1923 72 1923 58 1929 46 1956"/></Shape>
+	    <String CONTENT="attribuée pour un act de bravoure extrême sur le champ de"
+                    HPOS="46"
+                    VPOS="1916"
+                    WIDTH="1304"
+                    HEIGHT="56"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1f852232"
+                    TAGREFS="LT1378"
+                    BASELINE="52 2013 377 2019 1237 2003" 
+                    HPOS="48"
+                    VPOS="1962"
+                    WIDTH="1187"
+                    HEIGHT="65">
+            <Shape><Polygon POINTS="50 2011 50 2027 1233 2011 1235 2001 1233 1974 1206 1962 1204 1962 1202 1962 1152 1972 1081 1964 1079 1964 1077 1964 1052 1974 1046 1976 1031 1974 974 1966 972 1966 922 1974 896 1978 851 1974 791 1970 789 1970 740 1976 691 1980 682 1976 670 1970 668 1970 666 1970 619 1976 565 1982 553 1976 545 1972 543 1972 541 1972 518 1976 473 1984 48 1978 50 2011"/></Shape>
+	    <String CONTENT="bataille ou un commandement avec un succès militaire."
+                    HPOS="48"
+                    VPOS="1962"
+                    WIDTH="1187"
+                    HEIGHT="65"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

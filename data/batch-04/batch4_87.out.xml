@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>batch4_87.out.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4187" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1408" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT1378" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1653"
+          HEIGHT="2339"
+          PHYSICAL_IMG_NR="86"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1653"
+                  HEIGHT="2339">
+        
+        <TextBlock HPOS="99"
+                   VPOS="1218"
+                   WIDTH="1512"
+                   HEIGHT="240"
+                   ID="eSc_textblock_c2db1ea2"
+                   TAGREFS="BT4187">
+          <Shape><Polygon POINTS="99 1246 99 1458 1611 1458 1611 1218"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_de387308"
+                    TAGREFS="LT1378"
+                    BASELINE="120 1284 1249 1266 1559 1270" 
+                    HPOS="118"
+                    VPOS="1233"
+                    WIDTH="1441"
+                    HEIGHT="67">
+            <Shape><Polygon POINTS="1541 1239 1522 1239 1502 1239 1483 1239 1463 1239 1444 1239 1424 1239 1405 1239 1385 1239 1366 1239 1346 1239 1327 1239 1307 1239 1288 1239 1268 1239 1249 1239 1230 1239 1210 1239 1191 1239 1171 1239 1152 1239 1132 1239 1113 1239 1093 1239 1074 1239 1054 1239 1035 1239 1015 1239 996 1239 976 1239 957 1239 937 1239 918 1239 898 1239 879 1239 859 1239 840 1239 826 1239 769 1245 746 1239 742 1239 723 1239 707 1237 682 1241 627 1247 590 1241 567 1237 565 1237 563 1237 561 1237 557 1241 543 1249 469 1241 438 1239 436 1239 434 1239 426 1241 405 1251 387 1243 385 1241 384 1241 265 1241 263 1241 261 1241 255 1243 233 1253 118 1245 120 1284 120 1290 202 1300 204 1300 261 1290 267 1290 276 1290 399 1298 401 1298 403 1298 405 1298 405 1296 413 1288 415 1288 421 1288 463 1296 465 1296 693 1286 783 1284 801 1286 836 1292 838 1292 867 1286 886 1282 976 1286 1068 1288 1070 1288 1091 1284 1124 1278 1555 1280 1559 1270 1557 1235 1541 1233 1541 1239"/></Shape>
+	    <String CONTENT="Zlato Mojsoskis né le 15 novembre 1981 à Struza, est un joueur macédonien"
+                    HPOS="118"
+                    VPOS="1233"
+                    WIDTH="1441"
+                    HEIGHT="67"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3103ba4a"
+                    TAGREFS="LT1378"
+                    BASELINE="122 1341 1567 1317" 
+                    HPOS="118"
+                    VPOS="1280"
+                    WIDTH="1447"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="120 1339 120 1354 323 1364 325 1364 327 1364 352 1350 362 1346 413 1346 421 1350 452 1362 454 1362 456 1362 600 1360 602 1360 604 1360 619 1346 625 1342 651 1342 662 1344 709 1358 711 1358 713 1358 836 1356 838 1356 886 1342 949 1350 951 1350 953 1350 982 1339 990 1337 1015 1339 1165 1350 1167 1350 1169 1350 1200 1335 1204 1333 1257 1333 1446 1339 1448 1339 1450 1339 1473 1329 1477 1329 1479 1329 1516 1339 1518 1339 1520 1339 1522 1339 1565 1327 1565 1315 1561 1290 1372 1280 1370 1280 1311 1292 1233 1282 1231 1282 1230 1282 1228 1282 1208 1294 1142 1284 1140 1284 1138 1284 1136 1284 1126 1294 1099 1284 1097 1284 1095 1284 1093 1284 1091 1284 1076 1298 939 1298 912 1288 910 1288 908 1288 906 1288 879 1298 857 1288 855 1288 853 1288 851 1288 824 1300 766 1290 764 1290 762 1290 727 1302 497 1294 495 1294 493 1294 491 1294 491 1296 479 1305 415 1296 413 1296 411 1296 368 1307 356 1298 354 1298 352 1298 269 1298 267 1298 161 1309 140 1300 138 1300 136 1300 134 1300 132 1300 118 1307 120 1339"/></Shape>
+	    <String CONTENT="de handball. Il évolue au poste d&#39;ailier en équipe de macédoine et"
+                    HPOS="118"
+                    VPOS="1280"
+                    WIDTH="1447"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1904b129"
+                    TAGREFS="LT1378"
+                    BASELINE="124 1403 187 1399 204 1401 610 1393" 
+                    HPOS="120"
+                    VPOS="1350"
+                    WIDTH="488"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="122 1401 122 1411 146 1426 148 1426 150 1426 152 1426 153 1426 194 1411 263 1422 265 1422 267 1422 269 1422 269 1420 282 1407 352 1407 395 1424 397 1424 399 1424 401 1424 403 1424 419 1413 428 1420 428 1422 430 1422 432 1422 434 1422 436 1422 477 1411 489 1422 491 1422 493 1422 495 1422 578 1420 580 1420 582 1420 608 1405 608 1391 604 1364 534 1364 520 1350 518 1350 516 1350 514 1350 409 1366 315 1354 313 1354 311 1354 309 1354 290 1368 224 1356 222 1356 220 1356 218 1356 218 1358 216 1358 206 1372 120 1372 122 1401"/></Shape>
+	    <String CONTENT="au RK Metalung Skopje."
+                    HPOS="120"
+                    VPOS="1350"
+                    WIDTH="488"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

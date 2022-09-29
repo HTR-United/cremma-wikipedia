@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>batch4_12.out.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4187" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1408" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT1378" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1653"
+          HEIGHT="2339"
+          PHYSICAL_IMG_NR="11"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1653"
+                  HEIGHT="2339">
+        
+        <TextBlock HPOS="0"
+                   VPOS="1180"
+                   WIDTH="1578"
+                   HEIGHT="254"
+                   ID="eSc_textblock_14723b11"
+                   TAGREFS="BT4187">
+          <Shape><Polygon POINTS="0 1434 0 1204 1578 1180 1578 1383"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_b5e7cfa8"
+                    TAGREFS="LT1378"
+                    BASELINE="13 1282 664 1255 1475 1263" 
+                    HPOS="9"
+                    VPOS="1188"
+                    WIDTH="1464"
+                    HEIGHT="119">
+            <Shape><Polygon POINTS="11 1280 11 1294 35 1305 37 1305 38 1305 144 1296 189 1307 191 1307 192 1307 296 1298 419 1303 421 1303 422 1303 461 1288 489 1276 563 1276 588 1288 617 1302 619 1302 621 1303 697 1303 697 1302 699 1302 727 1286 750 1274 888 1274 904 1286 923 1298 925 1298 927 1298 929 1300 984 1300 984 1298 986 1298 988 1298 1003 1284 1019 1272 1128 1272 1148 1284 1173 1296 1175 1296 1177 1298 1231 1298 1231 1296 1233 1296 1265 1282 1300 1268 1469 1280 1473 1261 1471 1214 1442 1192 1440 1192 1438 1192 1436 1192 1434 1192 1395 1212 1368 1188 1366 1188 1364 1188 1329 1188 1327 1188 1325 1188 1323 1188 1300 1206 1272 1190 1270 1190 1111 1190 1109 1190 1107 1190 1105 1190 1077 1214 1072 1218 1064 1214 1025 1192 1023 1192 988 1192 986 1192 984 1192 982 1192 959 1212 955 1214 888 1212 826 1210 824 1210 810 1212 738 1222 610 1218 596 1210 575 1196 573 1196 571 1196 569 1196 532 1198 530 1198 528 1198 514 1208 493 1226 302 1226 274 1208 272 1208 270 1208 269 1208 267 1208 265 1208 243 1227 194 1227 167 1210 165 1210 163 1210 161 1210 159 1210 157 1210 134 1229 107 1229 77 1206 74 1202 72 1202 70 1202 68 1202 9 1204 11 1280"/></Shape>
+	    <String CONTENT="Thanatus est un genre d&#39;araignées aranéomorphes de la famille des"
+                    HPOS="9"
+                    VPOS="1188"
+                    WIDTH="1464"
+                    HEIGHT="119"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_06d5c7d7"
+                    TAGREFS="LT1378"
+                    BASELINE="44 1374 370 1366" 
+                    HPOS="40"
+                    VPOS="1294"
+                    WIDTH="330"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="44 1374 44 1401 370 1393 370 1366 364 1321 339 1321 337 1319 311 1296 311 1294 309 1294 307 1294 306 1294 304 1294 302 1294 302 1296 278 1317 272 1323 202 1323 194 1315 181 1303 179 1303 177 1303 175 1303 173 1303 171 1303 159 1313 144 1300 144 1298 142 1298 140 1298 138 1298 40 1309 44 1374"/></Shape>
+	    <String CONTENT="Philodromidae."
+                    HPOS="40"
+                    VPOS="1294"
+                    WIDTH="330"
+                    HEIGHT="107"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

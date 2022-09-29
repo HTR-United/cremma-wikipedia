@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>batch4_73.out.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4187" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1408" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT1378" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1653"
+          HEIGHT="2339"
+          PHYSICAL_IMG_NR="72"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1653"
+                  HEIGHT="2339">
+        
+        <TextBlock HPOS="19"
+                   VPOS="1213"
+                   WIDTH="1479"
+                   HEIGHT="297"
+                   ID="eSc_textblock_e7f38d7b"
+                   TAGREFS="BT4187">
+          <Shape><Polygon POINTS="19 1223 19 1510 1498 1486 1498 1213"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_29eda305"
+                    TAGREFS="LT1378"
+                    BASELINE="44 1309 777 1290 1460 1292" 
+                    HPOS="42"
+                    VPOS="1231"
+                    WIDTH="1418"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="1251 1231 1233 1231 1210 1251 1163 1233 1153 1233 1134 1233 1114 1233 1095 1233 1079 1233 1064 1243 1005 1235 1003 1235 920 1255 918 1255 916 1255 877 1235 861 1235 842 1235 822 1235 807 1235 783 1257 781 1257 721 1235 705 1237 701 1237 662 1257 637 1237 627 1237 617 1237 592 1259 563 1245 561 1245 559 1245 557 1245 555 1245 534 1259 534 1261 405 1261 403 1261 362 1235 360 1235 358 1235 356 1235 354 1235 280 1263 278 1263 276 1263 196 1239 194 1239 70 1239 68 1239 66 1239 64 1239 64 1241 42 1259 44 1309 44 1317 1460 1300 1460 1292 1446 1247 1358 1235 1356 1235 1354 1235 1352 1235 1339 1249 1288 1249 1265 1231 1251 1231"/></Shape>
+	    <String CONTENT="Frédéric Moreau, né le 1^er juillet 1798 à Paris et mort le"
+                    HPOS="42"
+                    VPOS="1231"
+                    WIDTH="1418"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8fc6928d"
+                    TAGREFS="LT1378"
+                    BASELINE="46 1374 1249 1348" 
+                    HPOS="46"
+                    VPOS="1298"
+                    WIDTH="1203"
+                    HEIGHT="89">
+            <Shape><Polygon POINTS="46 1374 46 1387 1247 1368 1249 1348 1245 1317 1152 1313 1114 1298 1113 1298 1111 1298 1109 1298 1107 1298 1107 1300 1087 1319 1050 1319 1033 1303 1033 1302 1031 1302 1029 1302 999 1300 998 1300 996 1300 955 1321 935 1303 935 1302 933 1302 931 1302 879 1302 877 1302 875 1302 873 1302 842 1321 783 1325 711 1309 709 1309 707 1309 658 1325 614 1307 612 1307 610 1307 608 1307 606 1307 575 1331 493 1331 448 1311 446 1311 444 1311 270 1335 237 1315 235 1315 233 1315 231 1315 230 1315 228 1315 228 1317 212 1331 198 1319 198 1317 196 1317 194 1317 192 1317 191 1317 189 1317 167 1331 76 1319 74 1319 72 1319 70 1319 58 1327 46 1374"/></Shape>
+	    <String CONTENT="21 octobre 1898 dans cette même ville, est un homme"
+                    HPOS="46"
+                    VPOS="1298"
+                    WIDTH="1203"
+                    HEIGHT="89"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d861e37f"
+                    TAGREFS="LT1378"
+                    BASELINE="44 1446 812 1428" 
+                    HPOS="42"
+                    VPOS="1372"
+                    WIDTH="770"
+                    HEIGHT="113">
+            <Shape><Polygon POINTS="44 1446 46 1485 122 1456 175 1479 183 1481 185 1481 187 1481 189 1481 198 1477 255 1452 405 1452 419 1465 428 1473 428 1475 430 1475 432 1475 434 1477 469 1477 469 1475 520 1473 522 1473 524 1473 524 1471 538 1457 545 1452 555 1457 575 1471 576 1471 578 1471 580 1473 621 1473 621 1471 623 1471 625 1471 625 1469 643 1452 647 1448 658 1452 688 1459 690 1459 691 1459 693 1459 717 1448 727 1444 812 1444 812 1428 810 1395 752 1374 750 1374 748 1374 746 1374 744 1374 719 1397 676 1397 645 1372 643 1372 641 1372 639 1372 637 1372 635 1372 602 1397 545 1397 526 1378 526 1376 524 1376 522 1376 477 1376 475 1376 473 1376 471 1376 471 1378 460 1389 450 1380 450 1378 448 1378 446 1378 411 1378 409 1378 407 1378 405 1378 405 1380 384 1399 300 1380 298 1380 296 1380 294 1380 294 1381 272 1405 208 1407 165 1383 163 1383 128 1383 126 1383 124 1383 42 1411 44 1446"/></Shape>
+	    <String CONTENT="politique et archéologue français."
+                    HPOS="42"
+                    VPOS="1372"
+                    WIDTH="770"
+                    HEIGHT="113"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

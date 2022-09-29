@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>batch4_60.out.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4187" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1408" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT1378" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1653"
+          HEIGHT="2339"
+          PHYSICAL_IMG_NR="59"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1653"
+                  HEIGHT="2339">
+        
+        <TextBlock HPOS="29"
+                   VPOS="1199"
+                   WIDTH="1540"
+                   HEIGHT="180"
+                   ID="eSc_textblock_73eb26e8"
+                   TAGREFS="BT4187">
+          <Shape><Polygon POINTS="29 1378 33 1199 1569 1204 1569 1359 235 1379"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_54ae0349"
+                    TAGREFS="LT1378"
+                    BASELINE="50 1276 691 1253 1534 1261" 
+                    HPOS="48"
+                    VPOS="1216"
+                    WIDTH="1486"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="1530 1255 1512 1226 1428 1226 1428 1224 1422 1222 1413 1222 1393 1222 1374 1222 1354 1222 1348 1222 1343 1224 1337 1226 1306 1224 1270 1222 1257 1222 1237 1220 1218 1220 1198 1220 1179 1220 1159 1220 1157 1220 1153 1224 1150 1227 1046 1227 1038 1224 1029 1220 1023 1220 1003 1220 994 1224 986 1227 978 1224 966 1218 964 1218 947 1218 923 1224 908 1227 890 1224 867 1218 847 1218 828 1218 808 1218 789 1218 769 1218 750 1218 748 1218 656 1224 524 1233 415 1233 399 1224 387 1216 385 1216 384 1216 382 1216 380 1216 356 1224 329 1231 306 1224 290 1218 288 1218 155 1218 153 1218 152 1218 138 1224 115 1233 97 1224 91 1218 89 1218 87 1218 85 1218 48 1222 50 1276 50 1286 824 1266 1068 1280 1070 1280 1072 1280 1074 1280 1241 1266 1313 1276 1315 1276 1317 1276 1345 1265 1387 1276 1389 1276 1391 1278 1534 1278 1534 1261 1530 1255 1530 1255"/></Shape>
+	    <String CONTENT="Castelbelforte est une commune italienne de la province de Mantoue"
+                    HPOS="48"
+                    VPOS="1216"
+                    WIDTH="1486"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5e0e6450"
+                    TAGREFS="LT1378"
+                    BASELINE="64 1335 836 1315" 
+                    HPOS="62"
+                    VPOS="1270"
+                    WIDTH="774"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="64 1335 64 1348 249 1341 284 1344 348 1350 350 1350 352 1350 382 1341 393 1337 401 1341 422 1348 424 1348 426 1348 576 1333 614 1331 643 1331 810 1339 812 1339 814 1339 816 1339 836 1325 836 1315 832 1288 764 1270 762 1270 680 1290 676 1292 600 1292 598 1292 565 1276 563 1276 561 1276 559 1276 557 1276 545 1286 426 1280 424 1280 422 1280 421 1280 421 1282 407 1296 405 1296 391 1296 294 1288 292 1288 245 1298 235 1300 230 1298 200 1286 198 1286 196 1286 194 1286 192 1286 192 1288 179 1300 175 1302 113 1302 113 1300 95 1288 93 1288 91 1288 89 1288 87 1288 62 1298 64 1335"/></Shape>
+	    <String CONTENT="dans la région Lombardie en Italie"
+                    HPOS="62"
+                    VPOS="1270"
+                    WIDTH="774"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

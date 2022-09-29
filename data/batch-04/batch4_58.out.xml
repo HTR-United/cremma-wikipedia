@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>batch4_58.out.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4187" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1408" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT1378" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1653"
+          HEIGHT="2339"
+          PHYSICAL_IMG_NR="57"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1653"
+                  HEIGHT="2339">
+        
+        <TextBlock HPOS="71"
+                   VPOS="1190"
+                   WIDTH="1474"
+                   HEIGHT="160"
+                   ID="eSc_textblock_cbf10d97"
+                   TAGREFS="BT4187">
+          <Shape><Polygon POINTS="71 1199 75 1350 1545 1350 1545 1190"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_62d23d8d"
+                    TAGREFS="LT1378"
+                    BASELINE="107 1251 1296 1243 1323 1243 1469 1239" 
+                    HPOS="103"
+                    VPOS="1202"
+                    WIDTH="1364"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="105 1249 105 1263 181 1278 183 1278 185 1278 187 1278 204 1263 208 1263 243 1272 245 1272 247 1272 343 1263 354 1263 356 1263 384 1278 385 1278 387 1278 617 1272 619 1272 639 1263 641 1261 643 1263 654 1272 656 1272 658 1272 738 1274 740 1274 742 1274 744 1274 760 1263 764 1259 777 1263 816 1274 818 1274 820 1274 898 1272 900 1272 902 1272 918 1263 923 1259 929 1263 951 1272 953 1272 955 1272 957 1272 959 1272 970 1263 980 1257 1019 1263 1077 1270 1079 1270 1196 1263 1300 1255 1465 1261 1467 1237 1463 1208 1341 1202 1339 1202 1337 1202 1335 1202 1329 1208 1317 1216 1253 1216 1155 1208 1099 1204 1097 1204 1062 1208 1007 1214 974 1208 953 1204 951 1204 949 1204 947 1204 947 1206 943 1208 931 1218 863 1208 845 1206 844 1206 842 1206 834 1208 803 1220 647 1220 621 1208 619 1208 617 1208 615 1208 614 1208 612 1208 567 1222 382 1222 103 1210 105 1249"/></Shape>
+	    <String CONTENT="Papurana grisea est une espèce d&#39;amphibiens de la"
+                    HPOS="103"
+                    VPOS="1202"
+                    WIDTH="1364"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_80cf0430"
+                    TAGREFS="LT1378"
+                    BASELINE="113 1300 269 1303 307 1303 413 1305 444 1305 699 1305" 
+                    HPOS="109"
+                    VPOS="1259"
+                    WIDTH="588"
+                    HEIGHT="66">
+            <Shape><Polygon POINTS="111 1298 109 1323 192 1315 235 1325 237 1325 239 1325 241 1325 282 1313 333 1325 337 1325 339 1325 343 1325 403 1313 440 1313 448 1323 450 1323 450 1325 452 1325 454 1325 456 1325 467 1325 575 1315 693 1323 697 1303 695 1278 610 1263 608 1263 606 1263 576 1274 571 1278 499 1278 493 1272 483 1265 483 1263 481 1263 479 1263 477 1263 475 1263 448 1272 436 1276 356 1276 350 1268 343 1263 343 1261 341 1261 339 1261 337 1261 335 1261 319 1268 309 1274 278 1268 243 1261 241 1261 204 1266 163 1272 150 1265 138 1259 136 1259 134 1259 111 1263 111 1298"/></Shape>
+	    <String CONTENT="famille des Ranidae."
+                    HPOS="109"
+                    VPOS="1259"
+                    WIDTH="588"
+                    HEIGHT="66"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

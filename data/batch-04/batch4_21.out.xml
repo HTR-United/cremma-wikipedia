@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>batch4_21.out.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4187" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1408" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT1378" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1653"
+          HEIGHT="2339"
+          PHYSICAL_IMG_NR="20"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1653"
+                  HEIGHT="2339">
+        
+        <TextBlock HPOS="19"
+                   VPOS="1590"
+                   WIDTH="1554"
+                   HEIGHT="410"
+                   ID="eSc_textblock_e8f8610f"
+                   TAGREFS="BT4187">
+          <Shape><Polygon POINTS="19 1618 24 2000 1573 1976 1569 1590"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_cdab7d53"
+                    TAGREFS="LT1378"
+                    BASELINE="35 1668 651 1658 1421 1627" 
+                    HPOS="31"
+                    VPOS="1598"
+                    WIDTH="1390"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="1417 1619 1401 1602 1348 1598 1339 1598 1319 1598 1300 1600 1290 1600 1284 1604 1230 1600 1222 1602 1202 1602 1183 1602 1163 1602 1144 1604 1136 1604 1107 1610 1091 1611 1064 1610 996 1606 994 1606 992 1606 990 1606 980 1611 974 1615 933 1613 879 1610 871 1610 851 1610 832 1610 779 1615 721 1623 693 1617 668 1613 666 1613 635 1619 596 1627 436 1623 395 1623 393 1623 391 1623 385 1625 345 1635 311 1625 306 1625 304 1625 302 1625 200 1629 198 1629 196 1629 187 1639 169 1629 167 1629 165 1629 31 1631 35 1668 35 1680 393 1680 393 1678 395 1678 421 1668 471 1678 473 1678 475 1678 500 1666 536 1676 538 1676 539 1676 857 1656 1031 1660 1033 1660 1103 1647 1111 1647 1128 1647 1294 1652 1296 1652 1298 1652 1321 1641 1323 1639 1421 1637 1421 1627 1419 1623 1417 1619"/></Shape>
+	    <String CONTENT="Vicent Colombe est un acteur français. == Biographie = == Filmographie =="
+                    HPOS="31"
+                    VPOS="1598"
+                    WIDTH="1390"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d2750d26"
+                    TAGREFS="LT1378"
+                    BASELINE="42 1726 643 1721 1179 1695 1541 1689" 
+                    HPOS="40"
+                    VPOS="1656"
+                    WIDTH="1501"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="1522 1660 1510 1656 40 1693 42 1726 42 1740 255 1742 257 1742 319 1734 358 1728 380 1732 422 1740 424 1740 551 1728 670 1734 672 1734 773 1723 791 1730 793 1730 795 1730 797 1730 824 1721 834 1717 849 1719 908 1728 910 1728 912 1728 939 1717 941 1717 959 1725 961 1725 962 1725 964 1725 966 1725 976 1715 978 1713 1148 1709 1161 1711 1224 1721 1226 1721 1228 1721 1230 1721 1245 1709 1247 1707 1253 1709 1304 1719 1306 1719 1307 1719 1309 1719 1325 1707 1329 1703 1541 1699 1541 1689 1536 1664 1522 1660"/></Shape>
+	    <String CONTENT="=== Cinéma === === Longs metrages==== 1995 : Au petit Marguery de Laurent"
+                    HPOS="40"
+                    VPOS="1656"
+                    WIDTH="1501"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8457049a"
+                    TAGREFS="LT1378"
+                    BASELINE="37 1781 653 1785 1536 1750" 
+                    HPOS="37"
+                    VPOS="1715"
+                    WIDTH="1499"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="37 1802 588 1802 588 1801 590 1801 610 1791 810 1795 812 1795 814 1795 840 1783 892 1793 894 1793 964 1791 966 1791 994 1777 996 1777 998 1777 1033 1789 1035 1789 1037 1789 1202 1773 1226 1769 1536 1763 1536 1750 1532 1723 1458 1715 1456 1715 1454 1715 1421 1725 1409 1726 1401 1725 1380 1717 1378 1717 1376 1717 1374 1717 1372 1717 1362 1725 1356 1730 1333 1725 1311 1721 1309 1721 1307 1721 1296 1726 1282 1732 1274 1726 1267 1721 1265 1721 1263 1721 1261 1721 1259 1721 1239 1726 1228 1730 1210 1728 1183 1723 1181 1723 1153 1728 1113 1738 923 1734 922 1734 920 1734 883 1744 861 1734 859 1734 857 1734 855 1734 853 1734 838 1744 818 1736 816 1736 814 1736 812 1736 810 1736 793 1748 495 1754 452 1742 450 1742 448 1742 446 1742 444 1742 424 1756 354 1744 352 1744 350 1744 348 1744 335 1756 272 1746 270 1746 187 1756 37 1750 37 1781 37 1802"/></Shape>
+	    <String CONTENT="Benegui 1996 : Mauvais Genre de Laurent Benegui 2001: Après la vie de Lucas"
+                    HPOS="37"
+                    VPOS="1715"
+                    WIDTH="1499"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1a78e422"
+                    TAGREFS="LT1378"
+                    BASELINE="42 1840 953 1826 1504 1801" 
+                    HPOS="40"
+                    VPOS="1775"
+                    WIDTH="1464"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="42 1840 42 1847 120 1857 122 1857 194 1847 274 1853 276 1853 278 1853 280 1853 296 1843 458 1849 460 1849 541 1838 543 1838 625 1845 627 1845 1504 1814 1504 1801 1499 1775 40 1808 42 1840"/></Shape>
+	    <String CONTENT="Belvaux 2001 : Un couple épatant de Lucas Belvaux 2003 : Le Coeur des"
+                    HPOS="40"
+                    VPOS="1775"
+                    WIDTH="1464"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f2c2587f"
+                    TAGREFS="LT1378"
+                    BASELINE="44 1904 970 1882 1536 1847" 
+                    HPOS="40"
+                    VPOS="1818"
+                    WIDTH="1496"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="44 1904 44 1916 1142 1890 1536 1867 1536 1847 1530 1818 1405 1830 1290 1826 1274 1826 1272 1826 1270 1826 1268 1826 1241 1838 1212 1828 1208 1828 1206 1828 1204 1828 1194 1830 1136 1841 1068 1834 1062 1834 1060 1834 1058 1834 1056 1834 1019 1847 40 1869 44 1904"/></Shape>
+	    <String CONTENT="hommes de Marc Esposito 2004 : Clara et moi de Arnaud Viard 2006 : Faut"
+                    HPOS="40"
+                    VPOS="1818"
+                    WIDTH="1496"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c03cac60"
+                    TAGREFS="LT1378"
+                    BASELINE="50 1960 392 1960" 
+                    HPOS="48"
+                    VPOS="1923"
+                    WIDTH="343"
+                    HEIGHT="49">
+            <Shape><Polygon POINTS="48 1958 48 1972 391 1970 391 1958 391 1931 376 1923 374 1923 372 1923 243 1923 241 1923 239 1923 237 1923 237 1925 228 1935 48 1935 48 1958"/></Shape>
+	    <String CONTENT="que ça danse !"
+                    HPOS="48"
+                    VPOS="1923"
+                    WIDTH="343"
+                    HEIGHT="49"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

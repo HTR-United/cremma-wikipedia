@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>batch4_95.out.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4187" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1408" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT1378" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1653"
+          HEIGHT="2339"
+          PHYSICAL_IMG_NR="94"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1653"
+                  HEIGHT="2339">
+        
+        <TextBlock HPOS="71"
+                   VPOS="1213"
+                   WIDTH="1432"
+                   HEIGHT="259"
+                   ID="eSc_textblock_11b10728"
+                   TAGREFS="BT4187">
+          <Shape><Polygon POINTS="71 1246 80 1472 1503 1421 1474 1213"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_eaf01c47"
+                    TAGREFS="LT1378"
+                    BASELINE="99 1327 1436 1278" 
+                    HPOS="97"
+                    VPOS="1231"
+                    WIDTH="1339"
+                    HEIGHT="121">
+            <Shape><Polygon POINTS="1421 1231 1401 1231 1382 1231 1376 1231 1364 1237 1362 1239 1360 1237 1350 1231 1343 1231 1323 1231 1319 1231 1300 1241 1272 1255 1214 1255 1198 1245 1196 1243 1194 1243 1192 1243 1191 1243 1189 1243 1181 1247 1165 1255 1153 1247 1128 1235 1126 1235 1124 1235 1122 1235 1120 1235 1099 1251 1089 1257 1007 1263 992 1255 957 1239 955 1239 953 1239 951 1239 949 1239 923 1259 916 1265 793 1270 781 1265 760 1251 758 1251 756 1251 754 1251 752 1251 750 1251 750 1253 734 1268 730 1272 686 1274 678 1270 656 1255 654 1255 653 1255 651 1255 649 1255 623 1268 582 1253 580 1253 578 1253 576 1253 543 1268 532 1257 530 1257 528 1257 473 1257 471 1257 436 1259 434 1259 432 1259 405 1282 376 1261 374 1261 372 1261 370 1261 315 1263 313 1263 311 1263 290 1282 259 1266 257 1266 255 1266 253 1266 251 1266 228 1286 208 1270 206 1270 204 1270 202 1270 200 1270 167 1282 153 1270 152 1270 150 1270 148 1270 146 1270 103 1292 97 1307 99 1327 99 1352 296 1346 298 1346 323 1335 362 1344 364 1344 366 1344 368 1344 421 1329 631 1335 633 1335 635 1335 686 1319 719 1331 721 1331 723 1331 725 1331 727 1331 744 1317 998 1319 999 1319 1001 1319 1029 1307 1243 1311 1245 1311 1247 1311 1268 1302 1313 1309 1315 1309 1317 1309 1358 1296 1434 1305 1436 1278 1434 1251 1421 1231"/></Shape>
+	    <String CONTENT="Déborah Van Valkenburgh est une actrice américaine née le"
+                    HPOS="97"
+                    VPOS="1231"
+                    WIDTH="1339"
+                    HEIGHT="121"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f3404f04"
+                    TAGREFS="LT1378"
+                    BASELINE="126 1417 339 1401 845 1383" 
+                    HPOS="124"
+                    VPOS="1333"
+                    WIDTH="721"
+                    HEIGHT="119">
+            <Shape><Polygon POINTS="836 1348 795 1333 793 1333 791 1333 789 1333 787 1333 768 1346 734 1335 732 1335 730 1335 729 1335 727 1335 697 1356 649 1339 647 1339 645 1339 588 1341 586 1341 584 1341 555 1362 512 1342 510 1342 508 1342 506 1342 458 1366 366 1348 364 1348 362 1348 323 1366 288 1352 286 1352 284 1352 282 1352 280 1352 245 1374 148 1364 146 1364 144 1364 142 1364 124 1376 126 1417 128 1452 196 1428 298 1428 300 1428 302 1428 304 1428 304 1426 321 1413 438 1422 440 1422 442 1422 444 1422 444 1420 446 1420 454 1409 567 1403 582 1415 582 1417 584 1417 586 1417 588 1417 629 1411 647 1424 649 1424 651 1424 653 1424 654 1424 656 1424 676 1411 709 1426 711 1426 713 1426 845 1422 845 1383 844 1376 836 1348"/></Shape>
+	    <String CONTENT="29 août 1952 à Schenectady."
+                    HPOS="124"
+                    VPOS="1333"
+                    WIDTH="721"
+                    HEIGHT="119"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
