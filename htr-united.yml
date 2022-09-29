@@ -43,22 +43,22 @@ format: Alto-XML
 transcription-guidelines: Superscript is preceded by a ^.
 volume:
 - metric: characters
-  count: 31654
+  count: 57490
 - metric: files
-  count: 119
+  count: 215
 - metric: lines
-  count: 652
+  count: 1181
 - metric: regions
-  count: 119
+  count: 215
 characters:
   mode: NFKD
   members:
   - e
   - a
-  - n
   - i
-  - t
+  - n
   - s
+  - t
   - r
   - l
   - o
@@ -69,84 +69,90 @@ characters:
   - p
   - "\u0301"
   - ','
-  - v
   - g
+  - v
   - h
   - .
   - f
   - b
   - "\u0300"
   - ''''
-  - E
-  - q
   - '1'
+  - q
   - L
+  - E
+  - '0'
   - A
-  - I
   - S
   - C
-  - '0'
   - y
-  - '2'
-  - N
-  - R
   - '9'
+  - '2'
+  - I
   - '-'
-  - M
-  - k
-  - T
   - (
   - )
-  - j
+  - k
+  - M
+  - R
   - P
-  - O
+  - N
   - x
+  - j
+  - T
   - '8'
   - B
-  - U
-  - D
   - '='
+  - O
   - '4'
-  - H
-  - '7'
   - '6'
+  - D
+  - '7'
   - "\u0302"
+  - H
+  - U
   - '3'
   - V
-  - z
+  - '5'
   - G
   - F
+  - z
   - w
-  - '5'
+  - "\u0327"
+  - ':'
   - J
   - K
-  - "\u0327"
+  - "\u0308"
   - W
-  - ':'
+  - Y
   - '>'
   - <
-  - Y
-  - "\u0308"
   - "\xAB"
   - "\xBB"
   - X
+  - '"'
   - /
+  - ^
   - "\u0304"
   - Z
-  - Q
-  - '"'
   - '['
   - ']'
+  - Q
+  - ;
   - "\u2019"
-  - ^
   - '&'
   - "\u2013"
   - "\xF8"
-  - ;
+  - '!'
+  - "\u025B"
+  - "\u030C"
   - "\u2014"
   - "\u0153"
-  - '!'
   - "\xC6"
   - "\u0306"
   - "\u1455"
   - '#'
+  - "\u0259"
+  - "\u030A"
+  - "\u20AC"
+  - "\u0303"
