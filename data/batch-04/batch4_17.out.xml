@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>batch4_17.out.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4187" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1408" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT1378" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1653"
+          HEIGHT="2339"
+          PHYSICAL_IMG_NR="16"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1653"
+                  HEIGHT="2339">
+        
+        <TextBlock HPOS="15"
+                   VPOS="1194"
+                   WIDTH="1544"
+                   HEIGHT="170"
+                   ID="eSc_textblock_b7e5963f"
+                   TAGREFS="BT4187">
+          <Shape><Polygon POINTS="15 1364 19 1213 532 1198 1559 1194 1554 1326"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_4cbd11a2"
+                    TAGREFS="LT1378"
+                    BASELINE="42 1257 389 1245 1442 1235" 
+                    HPOS="40"
+                    VPOS="1202"
+                    WIDTH="1402"
+                    HEIGHT="68">
+            <Shape><Polygon POINTS="1424 1204 1422 1202 881 1202 879 1202 730 1214 707 1214 691 1214 569 1206 567 1206 508 1216 504 1216 502 1216 424 1208 422 1208 354 1218 352 1218 350 1218 245 1210 243 1210 241 1210 202 1220 91 1212 89 1212 40 1222 42 1257 42 1270 239 1261 497 1263 684 1265 686 1265 719 1259 746 1255 793 1257 865 1263 867 1263 992 1255 1044 1251 1072 1253 1138 1259 1140 1259 1196 1251 1212 1249 1237 1249 1376 1257 1378 1257 1440 1245 1442 1235 1440 1233 1424 1204"/></Shape>
+	    <String CONTENT="William Lawson Grant (2 novembre 1872 - 3 février 1935) est"
+                    HPOS="40"
+                    VPOS="1202"
+                    WIDTH="1402"
+                    HEIGHT="68"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8e4a928b"
+                    TAGREFS="LT1378"
+                    BASELINE="44 1313 348 1300 820 1292" 
+                    HPOS="42"
+                    VPOS="1263"
+                    WIDTH="778"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="808 1263 438 1263 436 1263 323 1274 278 1266 276 1266 42 1282 44 1313 44 1329 198 1333 200 1333 202 1333 224 1327 261 1317 337 1323 339 1323 393 1311 422 1321 424 1321 426 1321 485 1309 551 1309 567 1321 569 1321 571 1321 573 1321 575 1321 576 1321 576 1319 594 1305 647 1315 649 1315 744 1303 818 1317 820 1292 818 1286 808 1263"/></Shape>
+	    <String CONTENT="un historien et educateur canadien."
+                    HPOS="42"
+                    VPOS="1263"
+                    WIDTH="778"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

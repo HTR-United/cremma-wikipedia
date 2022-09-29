@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>batch4_92.out.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4187" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1408" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT1378" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1653"
+          HEIGHT="2339"
+          PHYSICAL_IMG_NR="91"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1653"
+                  HEIGHT="2339">
+        
+        <TextBlock HPOS="24"
+                   VPOS="1567"
+                   WIDTH="1547"
+                   HEIGHT="461"
+                   ID="eSc_textblock_bd79e012"
+                   TAGREFS="BT4187">
+          <Shape><Polygon POINTS="24 1623 38 2028 1357 2004 1549 1940 1571 1840 1465 1567"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_a6fe5f94"
+                    TAGREFS="LT1378"
+                    BASELINE="48 1674 1405 1625" 
+                    HPOS="44"
+                    VPOS="1598"
+                    WIDTH="1361"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="1391 1598 1372 1598 1352 1598 1333 1598 1313 1598 1294 1598 1290 1598 1286 1598 1274 1598 1255 1600 1235 1600 1216 1600 1196 1600 1177 1600 1169 1600 1167 1602 1165 1602 1163 1602 1148 1600 1138 1602 1118 1602 1099 1602 1079 1602 1060 1602 1046 1602 1027 1606 1019 1608 1013 1608 1001 1604 982 1604 968 1604 964 1608 961 1610 947 1610 896 1604 884 1606 865 1606 859 1606 853 1611 851 1613 844 1611 814 1606 807 1606 787 1606 768 1606 748 1608 729 1608 713 1608 670 1610 668 1610 666 1610 658 1617 654 1619 641 1617 588 1611 586 1611 483 1623 421 1629 378 1625 317 1621 315 1621 313 1621 298 1629 288 1633 270 1629 255 1625 253 1625 251 1625 249 1625 230 1631 204 1637 44 1637 48 1674 48 1682 1405 1635 1405 1625 1401 1602 1391 1598"/></Shape>
+	    <String CONTENT="Le Project Human Cell Atlas (HCA) (en français Atlas des cellules"
+                    HPOS="44"
+                    VPOS="1598"
+                    WIDTH="1361"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_39ad9ecf"
+                    TAGREFS="LT1378"
+                    BASELINE="52 1725 1460 1687" 
+                    HPOS="50"
+                    VPOS="1652"
+                    WIDTH="1410"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="52 1725 52 1736 1458 1701 1460 1687 1456 1660 1309 1652 1307 1652 1306 1652 1304 1652 1292 1662 1290 1664 50 1686 52 1725"/></Shape>
+	    <String CONTENT="humaines) vise à cartographier toutes les cellules du corps humain"
+                    HPOS="50"
+                    VPOS="1652"
+                    WIDTH="1410"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_88ef75e5"
+                    TAGREFS="LT1378"
+                    BASELINE="54 1777 1402 1744" 
+                    HPOS="50"
+                    VPOS="1717"
+                    WIDTH="1351"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="52 1775 52 1785 350 1787 352 1787 430 1777 448 1775 460 1775 526 1783 528 1783 530 1783 532 1783 543 1773 545 1773 551 1773 604 1781 606 1781 1399 1752 1401 1742 1395 1717 50 1748 52 1775"/></Shape>
+	    <String CONTENT="afin de faciliter une meilleure compréhension de la santé"
+                    HPOS="50"
+                    VPOS="1717"
+                    WIDTH="1351"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_000e81f4"
+                    TAGREFS="LT1378"
+                    BASELINE="58 1820 674 1820 1515 1792" 
+                    HPOS="54"
+                    VPOS="1758"
+                    WIDTH="1460"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="56 1818 56 1834 701 1834 701 1832 808 1820 871 1828 873 1828 875 1828 877 1828 877 1826 888 1816 890 1816 976 1826 978 1826 1514 1802 1514 1791 1510 1767 1458 1758 1456 1758 1454 1758 1422 1767 1415 1769 1387 1767 1272 1762 1270 1762 1268 1762 1241 1771 1230 1773 1220 1771 1192 1763 1191 1763 1189 1763 1072 1773 994 1779 962 1775 929 1769 927 1769 925 1769 912 1775 900 1783 54 1787 56 1818"/></Shape>
+	    <String CONTENT="humaine, ainsi que des recherches en diagnostic, suivi et traitement"
+                    HPOS="54"
+                    VPOS="1758"
+                    WIDTH="1460"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_443c323f"
+                    TAGREFS="LT1378"
+                    BASELINE="62 1873 1559 1843" 
+                    HPOS="58"
+                    VPOS="1810"
+                    WIDTH="1499"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="60 1871 60 1878 257 1886 259 1886 364 1875 366 1875 456 1882 458 1882 1555 1851 1557 1841 1553 1816 1274 1810 1272 1810 1270 1810 1268 1810 1253 1820 1087 1814 1085 1814 970 1826 826 1820 824 1820 175 1841 77 1834 76 1834 74 1834 72 1834 58 1840 60 1871"/></Shape>
+	    <String CONTENT="des maladies. == Références == (en) Cet article est partiellement"
+                    HPOS="58"
+                    VPOS="1810"
+                    WIDTH="1499"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2adb84ae"
+                    TAGREFS="LT1378"
+                    BASELINE="74 1923 580 1921 1464 1896" 
+                    HPOS="70"
+                    VPOS="1857"
+                    WIDTH="1393"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="72 1921 72 1941 481 1941 481 1939 483 1939 485 1939 500 1929 504 1927 536 1927 670 1935 672 1935 988 1917 1023 1916 1033 1916 1107 1923 1109 1923 1111 1923 1113 1923 1128 1914 1152 1923 1153 1923 1155 1923 1274 1921 1276 1921 1278 1921 1292 1910 1354 1919 1356 1919 1463 1904 1463 1894 1458 1857 1335 1871 1243 1863 1237 1863 1235 1863 1233 1863 1192 1875 1005 1869 957 1869 955 1869 923 1873 834 1882 713 1878 658 1877 656 1877 654 1877 643 1880 625 1886 614 1880 604 1877 602 1877 600 1877 598 1877 596 1877 588 1882 578 1888 551 1882 528 1878 526 1878 524 1878 512 1884 499 1890 426 1886 346 1882 345 1882 309 1890 290 1894 280 1890 269 1886 267 1886 265 1886 70 1896 72 1921"/></Shape>
+	    <String CONTENT="ou en totalité issu de l&#39;article de Wikipédia en anglais intitulé"
+                    HPOS="70"
+                    VPOS="1857"
+                    WIDTH="1393"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_65846243"
+                    TAGREFS="LT1378"
+                    BASELINE="83 1976 1074 1962" 
+                    HPOS="81"
+                    VPOS="1925"
+                    WIDTH="993"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="83 1976 83 1986 222 1995 224 1995 366 1984 1062 1984 1064 1984 1066 1984 1068 1984 1068 1982 1070 1982 1074 1976 1074 1962 1072 1937 1062 1927 1062 1925 1060 1925 1058 1925 943 1925 941 1925 939 1925 896 1937 725 1929 723 1929 721 1929 693 1939 664 1929 662 1929 660 1929 658 1929 656 1929 641 1941 539 1931 538 1931 536 1931 534 1931 534 1933 524 1943 187 1947 146 1937 144 1937 142 1937 140 1937 138 1937 126 1947 115 1937 113 1937 111 1937 109 1937 107 1937 81 1947 83 1976"/></Shape>
+	    <String CONTENT="« Human Cell Atlas » (voir la liste des auteurs)."
+                    HPOS="81"
+                    VPOS="1925"
+                    WIDTH="993"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

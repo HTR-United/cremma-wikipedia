@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>batch4_93.out.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4187" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1408" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT1378" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1653"
+          HEIGHT="2339"
+          PHYSICAL_IMG_NR="92"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1653"
+                  HEIGHT="2339">
+        
+        <TextBlock HPOS="38"
+                   VPOS="1600"
+                   WIDTH="1451"
+                   HEIGHT="353"
+                   ID="eSc_textblock_f72fede4"
+                   TAGREFS="BT4187">
+          <Shape><Polygon POINTS="38 1600 38 1953 1479 1953 1489 1600"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_42817cf2"
+                    TAGREFS="LT1378"
+                    BASELINE="60 1660 1382 1647" 
+                    HPOS="58"
+                    VPOS="1613"
+                    WIDTH="1324"
+                    HEIGHT="55">
+            <Shape><Polygon POINTS="1364 1619 1345 1619 1325 1619 1306 1619 1286 1619 1267 1619 1247 1619 1228 1619 1208 1619 1189 1619 1169 1619 1150 1619 1130 1619 1111 1619 1091 1617 1072 1617 1052 1617 1033 1617 1013 1617 994 1617 974 1617 955 1617 941 1617 908 1619 886 1617 877 1617 857 1617 838 1617 818 1617 814 1619 785 1617 760 1615 760 1615 740 1615 721 1615 701 1615 699 1617 693 1621 643 1617 614 1615 604 1615 584 1615 578 1615 576 1617 569 1625 485 1625 458 1617 436 1613 434 1613 432 1613 430 1613 426 1617 417 1625 300 1617 249 1615 247 1615 245 1615 243 1615 243 1617 241 1617 231 1627 68 1619 58 1623 60 1660 60 1668 1380 1662 1382 1647 1378 1619 1364 1619"/></Shape>
+	    <String CONTENT="Giacomo Puteo ou Jacques Dupuy (né à Majorque, dans les Baléares,"
+                    HPOS="58"
+                    VPOS="1613"
+                    WIDTH="1324"
+                    HEIGHT="55"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7eeaad40"
+                    TAGREFS="LT1378"
+                    BASELINE="70 1726 1417 1706" 
+                    HPOS="66"
+                    VPOS="1668"
+                    WIDTH="1349"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="68 1725 68 1734 175 1742 177 1742 230 1732 243 1730 253 1732 280 1740 282 1740 284 1740 286 1740 307 1732 309 1730 311 1730 323 1740 325 1740 327 1740 329 1740 331 1740 354 1730 362 1728 374 1730 417 1738 419 1738 506 1728 526 1726 534 1728 565 1736 567 1736 569 1736 571 1736 604 1726 614 1725 676 1726 867 1730 869 1730 871 1730 898 1723 906 1721 922 1721 1007 1730 1009 1730 1011 1730 1013 1730 1013 1728 1023 1721 1025 1719 1031 1721 1077 1728 1079 1728 1134 1719 1146 1717 1167 1717 1276 1726 1278 1726 1413 1713 1415 1705 1411 1678 1290 1668 1288 1668 1286 1668 1265 1678 1263 1678 1155 1670 1153 1670 1152 1670 1150 1670 1134 1680 1130 1680 1066 1672 1064 1672 1023 1682 1017 1682 988 1682 756 1676 754 1676 752 1676 723 1686 717 1686 709 1686 662 1678 660 1678 66 1691 68 1725"/></Shape>
+	    <String CONTENT="Espagne, le 13 février 1495 et mort le 26 avril 1563 à Rome) est"
+                    HPOS="66"
+                    VPOS="1668"
+                    WIDTH="1349"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4ad22d11"
+                    TAGREFS="LT1378"
+                    BASELINE="70 1785 1441 1772" 
+                    HPOS="66"
+                    VPOS="1742"
+                    WIDTH="1374"
+                    HEIGHT="57">
+            <Shape><Polygon POINTS="68 1783 68 1791 440 1799 442 1799 495 1789 499 1789 750 1795 752 1795 896 1785 902 1785 906 1785 978 1795 980 1795 1079 1783 1087 1783 1107 1783 1397 1791 1399 1791 1401 1791 1440 1779 1440 1771 1436 1744 302 1742 300 1742 298 1742 269 1754 66 1754 68 1783"/></Shape>
+	    <String CONTENT="un cardinal espagnol du XVIe siècle. == Biographie == Puteo étudie"
+                    HPOS="66"
+                    VPOS="1742"
+                    WIDTH="1374"
+                    HEIGHT="57"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_99b5ff88"
+                    TAGREFS="LT1378"
+                    BASELINE="70 1838 549 1849 1435 1826" 
+                    HPOS="68"
+                    VPOS="1789"
+                    WIDTH="1366"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="68 1857 311 1857 360 1867 362 1867 364 1867 366 1867 378 1857 389 1867 391 1867 393 1867 395 1869 460 1869 460 1867 664 1851 670 1851 672 1851 816 1861 818 1861 820 1861 844 1849 980 1859 982 1859 1058 1857 1060 1857 1062 1857 1077 1845 1105 1857 1107 1857 1109 1857 1434 1838 1434 1824 1430 1799 1383 1789 1382 1789 1380 1789 1343 1799 1333 1801 1325 1799 1302 1789 1300 1789 1298 1789 1235 1799 1198 1804 1181 1799 1157 1791 1155 1791 1153 1791 1152 1791 1150 1791 1150 1793 1140 1799 1134 1804 1091 1801 1058 1797 1056 1797 1054 1797 1052 1797 1048 1801 1040 1806 900 1801 875 1801 873 1801 863 1801 787 1810 771 1801 769 1801 768 1801 766 1801 758 1802 709 1812 654 1802 641 1801 639 1801 637 1801 633 1802 610 1812 582 1802 580 1802 578 1802 576 1802 575 1802 573 1802 555 1814 68 1806 68 1836 68 1857"/></Shape>
+	    <String CONTENT="à l&#39;université de Bologne. Il est auditeur du cardinal Pietro Accolti et"
+                    HPOS="68"
+                    VPOS="1789"
+                    WIDTH="1366"
+                    HEIGHT="80"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d5cadfd0"
+                    TAGREFS="LT1378"
+                    BASELINE="76 1896 693 1906 1144 1898" 
+                    HPOS="74"
+                    VPOS="1863"
+                    WIDTH="1070"
+                    HEIGHT="60">
+            <Shape><Polygon POINTS="76 1878 76 1896 74 1910 265 1921 267 1921 269 1921 300 1912 331 1921 333 1921 335 1923 467 1923 467 1921 469 1921 491 1912 495 1912 569 1921 571 1921 573 1921 575 1921 586 1912 588 1912 592 1912 690 1923 691 1923 1142 1912 1144 1898 1138 1873 575 1873 561 1867 557 1863 555 1863 553 1863 551 1863 549 1863 547 1863 547 1865 545 1867 538 1875 302 1875 282 1863 280 1863 278 1863 276 1863 274 1863 272 1863 257 1873 83 1863 76 1878"/></Shape>
+	    <String CONTENT="est nommé auditeur et doyen de la Rote romaine."
+                    HPOS="74"
+                    VPOS="1863"
+                    WIDTH="1070"
+                    HEIGHT="60"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

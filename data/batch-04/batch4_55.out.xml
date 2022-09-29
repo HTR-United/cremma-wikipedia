@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>batch4_55.out.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4187" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1408" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT1378" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1653"
+          HEIGHT="2339"
+          PHYSICAL_IMG_NR="54"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1653"
+                  HEIGHT="2339">
+        
+        <TextBlock HPOS="4"
+                   VPOS="1194"
+                   WIDTH="1565"
+                   HEIGHT="236"
+                   ID="eSc_textblock_3973f0c6"
+                   TAGREFS="BT4187">
+          <Shape><Polygon POINTS="9 1194 4 1406 1569 1430 1569 1194"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_3e92e5f5"
+                    TAGREFS="LT1378"
+                    BASELINE="40 1261 1522 1284" 
+                    HPOS="38"
+                    VPOS="1204"
+                    WIDTH="1484"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="1520 1278 1502 1241 1483 1231 1481 1231 1479 1231 1477 1231 1446 1247 1411 1229 1405 1229 1385 1229 1366 1229 1356 1229 1333 1233 1323 1229 1307 1229 1292 1229 1274 1243 1272 1245 1268 1243 1247 1235 1245 1235 1243 1235 1241 1235 1212 1243 1208 1243 1204 1241 1169 1227 1152 1227 1132 1227 1114 1227 1107 1229 1103 1227 1093 1227 1074 1227 1068 1227 1042 1239 1037 1241 1035 1239 1019 1226 1015 1226 996 1226 976 1226 957 1226 947 1226 927 1235 920 1239 912 1235 886 1226 879 1226 859 1226 855 1226 840 1233 832 1239 781 1239 699 1237 693 1231 684 1224 684 1224 668 1224 662 1229 654 1235 530 1233 524 1227 502 1210 500 1210 499 1210 454 1210 452 1210 450 1210 448 1210 430 1226 421 1231 395 1231 387 1224 368 1208 366 1208 364 1208 362 1208 360 1208 325 1224 315 1227 307 1224 282 1206 280 1206 278 1206 276 1206 274 1206 231 1222 222 1226 165 1226 153 1220 124 1204 122 1204 120 1204 40 1216 40 1261 38 1270 165 1292 167 1292 169 1292 171 1292 192 1276 286 1294 288 1294 454 1278 471 1278 483 1280 575 1296 576 1296 578 1296 621 1282 623 1282 647 1294 649 1294 651 1294 758 1284 769 1284 773 1284 797 1302 799 1302 801 1302 803 1302 908 1288 923 1286 929 1288 947 1296 949 1296 951 1296 1005 1290 1017 1288 1019 1290 1037 1303 1037 1305 1038 1305 1040 1305 1042 1307 1077 1307 1077 1305 1079 1305 1081 1305 1099 1292 1105 1288 1327 1290 1343 1296 1397 1311 1399 1311 1401 1311 1403 1311 1442 1298 1448 1296 1518 1298 1522 1284 1520 1278 1520 1278"/></Shape>
+	    <String CONTENT="Myersiohyla neblinaria est une espèce d&#39;amphibiens de la famille"
+                    HPOS="38"
+                    VPOS="1204"
+                    WIDTH="1484"
+                    HEIGHT="107"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_312892b3"
+                    TAGREFS="LT1378"
+                    BASELINE="60 1348 352 1354" 
+                    HPOS="58"
+                    VPOS="1284"
+                    WIDTH="294"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="60 1348 58 1362 146 1360 159 1366 183 1376 185 1376 187 1378 235 1378 235 1376 237 1376 239 1376 239 1374 249 1366 253 1362 348 1366 352 1354 352 1309 255 1286 253 1286 251 1286 212 1305 194 1288 194 1286 192 1286 191 1286 189 1286 187 1286 124 1303 99 1284 97 1284 95 1284 93 1284 91 1284 60 1300 60 1348"/></Shape>
+	    <String CONTENT="des Hylidae"
+                    HPOS="58"
+                    VPOS="1284"
+                    WIDTH="294"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

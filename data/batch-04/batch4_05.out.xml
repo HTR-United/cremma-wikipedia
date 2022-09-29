@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>batch4_05.out.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4187" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1408" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT1378" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1653"
+          HEIGHT="2339"
+          PHYSICAL_IMG_NR="4"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1653"
+                  HEIGHT="2339">
+        
+        <TextBlock HPOS="37"
+                   VPOS="1253"
+                   WIDTH="1569"
+                   HEIGHT="324"
+                   ID="eSc_textblock_8e4a3a6b"
+                   TAGREFS="BT4187">
+          <Shape><Polygon POINTS="37 1253 37 1577 1606 1577 1606 1253"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_ae909a7b"
+                    TAGREFS="LT1378"
+                    BASELINE="66 1362 512 1348 1592 1366" 
+                    HPOS="64"
+                    VPOS="1286"
+                    WIDTH="1528"
+                    HEIGHT="109">
+            <Shape><Polygon POINTS="1586 1313 1576 1305 1551 1300 1547 1300 1534 1300 1506 1309 1477 1321 1399 1321 1383 1307 1378 1302 1376 1302 1374 1302 1372 1302 1370 1302 1368 1302 1362 1307 1345 1319 1241 1319 1222 1303 1212 1296 1210 1296 1208 1296 1171 1294 1169 1294 1167 1294 1165 1294 1153 1303 1136 1317 1079 1317 1050 1302 1035 1294 1033 1294 970 1294 968 1294 966 1294 957 1300 937 1309 920 1298 906 1292 904 1292 902 1292 900 1292 886 1298 857 1313 801 1303 799 1303 797 1303 777 1311 760 1296 754 1290 752 1290 750 1290 748 1290 746 1290 734 1296 717 1303 707 1296 701 1290 699 1290 697 1290 656 1290 654 1290 653 1290 651 1290 647 1294 621 1313 578 1313 539 1292 532 1288 530 1288 528 1288 526 1288 524 1288 520 1292 497 1309 460 1300 458 1300 456 1300 454 1300 426 1309 403 1290 401 1290 399 1290 397 1290 395 1290 393 1290 376 1302 354 1288 352 1286 350 1286 348 1286 286 1286 284 1286 282 1286 278 1288 239 1309 161 1309 91 1290 85 1292 66 1292 66 1362 64 1381 196 1383 198 1383 212 1381 284 1370 300 1381 302 1383 304 1383 306 1383 397 1385 399 1385 401 1385 415 1381 456 1370 555 1370 697 1381 807 1389 808 1389 810 1389 826 1380 842 1374 902 1374 941 1380 982 1387 984 1387 986 1387 999 1380 1003 1378 1007 1380 1023 1391 1025 1391 1027 1391 1029 1391 1136 1381 1461 1395 1463 1395 1590 1378 1592 1366 1592 1317 1586 1313"/></Shape>
+	    <String CONTENT="Bienheureux Engelger est un bienheureux de Bretagne. Il&gt;&lt; mourut en 1108."
+                    HPOS="64"
+                    VPOS="1286"
+                    WIDTH="1528"
+                    HEIGHT="109"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1aada3b0"
+                    TAGREFS="LT1378"
+                    BASELINE="64 1489 575 1475" 
+                    HPOS="62"
+                    VPOS="1415"
+                    WIDTH="513"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="569 1450 549 1428 530 1424 512 1420 489 1428 473 1417 471 1417 469 1417 467 1417 465 1417 440 1430 405 1415 403 1415 401 1415 399 1415 397 1415 370 1432 366 1434 362 1432 339 1417 337 1417 335 1417 333 1417 331 1417 296 1432 280 1438 272 1432 259 1418 257 1418 255 1418 210 1418 208 1418 206 1418 204 1418 204 1420 192 1432 185 1442 126 1442 115 1432 105 1424 105 1422 103 1422 101 1422 99 1422 62 1430 64 1489 64 1502 206 1516 208 1516 210 1516 269 1500 337 1512 339 1512 430 1496 477 1508 479 1508 481 1508 575 1489 575 1475 573 1436 569 1450"/></Shape>
+	    <String CONTENT="Il se fête le 22 janvier."
+                    HPOS="62"
+                    VPOS="1415"
+                    WIDTH="513"
+                    HEIGHT="101"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
