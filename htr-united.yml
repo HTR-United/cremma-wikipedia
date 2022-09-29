@@ -43,20 +43,20 @@ format: Alto-XML
 transcription-guidelines: Superscript is preceded by a ^.
 volume:
 - metric: characters
-  count: 28816
+  count: 31654
 - metric: files
-  count: 109
+  count: 119
 - metric: lines
-  count: 596
+  count: 652
 - metric: regions
-  count: 109
+  count: 119
 characters:
   mode: NFKD
   members:
   - e
   - a
-  - i
   - n
+  - i
   - t
   - s
   - r
@@ -64,8 +64,8 @@ characters:
   - o
   - u
   - d
-  - m
   - c
+  - m
   - p
   - "\u0301"
   - ','
@@ -76,68 +76,70 @@ characters:
   - f
   - b
   - "\u0300"
-  - E
   - ''''
+  - E
   - q
   - '1'
+  - L
   - A
   - I
-  - L
   - S
   - C
   - '0'
   - y
-  - R
   - '2'
   - N
+  - R
   - '9'
   - '-'
-  - T
   - M
+  - k
+  - T
   - (
   - )
-  - P
   - j
+  - P
   - O
-  - k
   - x
   - '8'
-  - U
   - B
+  - U
   - D
+  - '='
   - '4'
   - H
+  - '7'
+  - '6'
   - "\u0302"
   - '3'
-  - '6'
   - V
-  - '7'
   - z
   - G
   - F
+  - w
   - '5'
   - J
-  - "\u0327"
   - K
-  - w
+  - "\u0327"
   - W
+  - ':'
   - '>'
   - <
-  - ':'
-  - "\u0308"
-  - '='
   - Y
+  - "\u0308"
   - "\xAB"
   - "\xBB"
   - X
   - /
   - "\u0304"
+  - Z
   - Q
   - '"'
-  - Z
   - '['
   - ']'
   - "\u2019"
+  - ^
+  - '&'
   - "\u2013"
   - "\xF8"
   - ;
@@ -145,7 +147,6 @@ characters:
   - "\u0153"
   - '!'
   - "\xC6"
-  - '&'
   - "\u0306"
   - "\u1455"
   - '#'
