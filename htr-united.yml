@@ -17,7 +17,7 @@ authors:
   roles:
   - aligner
   - transcriber
-- name: Mazoué
+- name: "Mazou\xE9"
   surname: Anais
   roles:
   - aligner
