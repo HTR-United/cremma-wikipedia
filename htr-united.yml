@@ -12,10 +12,16 @@ authors:
   roles:
   - project-manager
   - quality-control
-- name: Falcoz
+- name: Van Kote
   surname: Elsa
   roles:
   - aligner
+  - transcriber
+- name: Mazoué
+  surname: Anais
+  roles:
+  - aligner
+  - transcriber
 description: 'The WikiCremma projet aims at creating a collection of ground truth
   to train HTR models on contemporary French handwriting.
 
