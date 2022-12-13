@@ -1,3 +1,5 @@
+<img src="./cremma_wiki.png" width="200" align=right>
+
 CREMMA - Wikipedia
 =====================
 
