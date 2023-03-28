@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>batch6-004.out.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT5409" LABEL="text" DESCRIPTION="block type text"/><OtherTag ID="BT5407" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1834" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="4938"
+          HEIGHT="6992"
+          PHYSICAL_IMG_NR="3"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="4938"
+                  HEIGHT="6992">
+        
+        <TextBlock HPOS="0"
+                   VPOS="3685"
+                   WIDTH="4763"
+                   HEIGHT="485"
+                   ID="eSc_textblock_12627455"
+                   TAGREFS="BT5407">
+          <Shape><Polygon POINTS="1390 3744 4526 3686 4596 3685 4763 3731 4752 3814 4726 4006 3352 3989 1937 3976 1724 4014 1481 4131 1433 4139 1238 4170 25 4144 0 3977 20 3734 827 3727"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_7d5756b6"
+                    TAGREFS="LT1834"
+                    BASELINE="89 3865 2463 3857 3403 3837 4685 3861" 
+                    HPOS="85"
+                    VPOS="3748"
+                    WIDTH="4600"
+                    HEIGHT="256">
+            <Shape><Polygon POINTS="89 3865 89 3923 411 3915 450 3927 551 3966 555 3966 559 3966 703 3934 757 3954 761 3954 765 3954 1025 3934 1251 3915 2109 3938 2113 3938 2117 3938 2183 3923 2299 3942 2614 4000 2618 4004 3923 4004 3923 4000 3927 4000 4048 3958 4106 3934 4230 3931 4386 3962 4471 3977 4475 3977 4681 3962 4685 3861 4681 3779 4565 3748 4561 3748 4557 3748 4553 3748 4479 3779 4479 3783 4285 3783 4281 3779 4227 3752 4223 3752 4219 3752 4215 3752 4160 3771 4110 3748 4106 3748 4102 3748 3861 3767 3710 3748 3706 3748 3702 3748 3628 3775 3613 3779 3585 3775 3512 3760 3508 3760 3504 3760 3477 3775 3461 3783 3181 3783 3158 3771 3100 3748 3096 3748 3092 3748 2952 3771 2886 3779 2742 3779 2723 3767 2676 3748 2672 3748 2669 3748 2556 3767 2482 3779 2408 3767 2307 3748 2303 3748 2299 3748 2265 3764 2233 3783 2055 3783 2020 3764 1989 3748 1985 3748 1981 3748 1977 3748 1930 3764 1880 3783 1623 3783 1585 3760 1557 3748 1554 3748 1550 3748 1495 3760 1406 3779 1293 3760 1231 3748 1227 3748 1223 3748 1188 3756 1153 3767 1048 3756 963 3748 959 3748 955 3748 940 3756 905 3775 679 3775 543 3752 497 3748 493 3748 489 3748 470 3752 392 3775 85 3752 89 3865"/></Shape>
+	    <String CONTENT="(36643) 2000 QW188 est un astétoïde de la ceinture principale d&#x27;astéroïdes"
+                    HPOS="85"
+                    VPOS="3748"
+                    WIDTH="4600"
+                    HEIGHT="256"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_915e2010"
+                    TAGREFS="LT1834"
+                    BASELINE="46 4067 326 4051 1358 4055" 
+                    HPOS="34"
+                    VPOS="3933"
+                    WIDTH="1318"
+                    HEIGHT="238">
+            <Shape><Polygon POINTS="40 4061 40 4142 652 4119 705 4160 711 4166 717 4166 722 4166 728 4171 903 4171 903 4166 909 4166 926 4160 1049 4119 1340 4166 1352 4049 1346 3973 110 3933 104 3933 99 3933 34 3962 40 4061"/></Shape>
+	    <String CONTENT="découvert en 2000."
+                    HPOS="34"
+                    VPOS="3933"
+                    WIDTH="1318"
+                    HEIGHT="238"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

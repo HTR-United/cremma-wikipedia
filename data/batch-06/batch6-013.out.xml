@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>batch6-013.out.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT5409" LABEL="text" DESCRIPTION="block type text"/><OtherTag ID="BT5407" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1834" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="4938"
+          HEIGHT="6992"
+          PHYSICAL_IMG_NR="12"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="4938"
+                  HEIGHT="6992">
+        
+        <TextBlock HPOS="1"
+                   VPOS="6434"
+                   WIDTH="4871"
+                   HEIGHT="473"
+                   ID="eSc_textblock_81d0da4c"
+                   TAGREFS="BT5407">
+          <Shape><Polygon POINTS="4704 6434 4844 6473 4872 6676 4671 6860 3836 6891 336 6907 62 6770 1 6567 1208 6560 1452 6504 4666 6434"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_bd1b4399"
+                    TAGREFS="LT1834"
+                    BASELINE="54 6696 676 6685 2331 6607 3993 6591 4106 6588 4836 6580" 
+                    HPOS="46"
+                    VPOS="6455"
+                    WIDTH="4787"
+                    HEIGHT="309">
+            <Shape><Polygon POINTS="52 6694 52 6723 268 6764 274 6764 886 6706 991 6700 1055 6706 1358 6735 1364 6735 1370 6735 1375 6735 1416 6700 1614 6729 1620 6729 1626 6729 1748 6689 1772 6683 1813 6689 2011 6718 2017 6718 2023 6718 2028 6718 2069 6683 2087 6665 2401 6665 2419 6677 2483 6706 2489 6706 2495 6706 2501 6706 2506 6706 2547 6671 2565 6654 3200 6648 3258 6654 3416 6683 3422 6683 3428 6683 3532 6648 3585 6636 3672 6648 3859 6671 3865 6671 3871 6671 3970 6642 3987 6636 3999 6642 4086 6665 4092 6665 4098 6665 4261 6636 4343 6619 4395 6630 4454 6648 4459 6648 4465 6648 4827 6619 4833 6578 4821 6490 4675 6455 4669 6455 4663 6455 4658 6455 4611 6490 4436 6461 4430 6461 4424 6461 4419 6461 4378 6496 4215 6502 3894 6520 3597 6520 3573 6514 3468 6485 3463 6485 3457 6485 3165 6525 3136 6525 3107 6525 2786 6502 2780 6502 1731 6555 1591 6560 1574 6560 1486 6537 1480 6537 1474 6537 1469 6537 1463 6537 1428 6560 1410 6578 1148 6589 46 6589 52 6694"/></Shape>
+	    <String CONTENT="Requin-renard à gros yeux Alopias vulpinus: Requin tisserand. Requin nerveux.  joues blanches"
+                    HPOS="46"
+                    VPOS="6455"
+                    WIDTH="4787"
+                    HEIGHT="309"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e4afff9e"
+                    TAGREFS="LT1834"
+                    BASELINE="396 6813 1192 6797 1262 6801 1938 6770 3391 6758 3430 6766 4654 6747" 
+                    HPOS="384"
+                    VPOS="6654"
+                    WIDTH="4268"
+                    HEIGHT="227">
+            <Shape><Polygon POINTS="390 6811 390 6881 1055 6875 1119 6869 1393 6828 1614 6857 1679 6863 1684 6863 1690 6863 1696 6863 1696 6857 1702 6857 1737 6823 1964 6852 2005 6852 2011 6852 2017 6852 2023 6852 2023 6846 2069 6811 2984 6805 3124 6823 3212 6834 3218 6834 3282 6823 3393 6793 3445 6817 3463 6823 3468 6823 3474 6823 3480 6823 3515 6817 3608 6793 3690 6811 3748 6823 3754 6823 4652 6788 4652 6741 4640 6659 3060 6654 3054 6654 3049 6654 2984 6683 1445 6683 1440 6683 1434 6683 1358 6712 1055 6689 1049 6689 711 6723 437 6700 431 6700 425 6700 419 6700 384 6718 390 6811"/></Shape>
+	    <String CONTENT="pointe blanche du large. Requin à nez rude. Requin de récif. dochizame."
+                    HPOS="384"
+                    VPOS="6654"
+                    WIDTH="4268"
+                    HEIGHT="227"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2283"
+                   VPOS="6714"
+                   WIDTH="1"
+                   HEIGHT="1"
+                   ID="eSc_textblock_5825f507"
+                   >
+          <Shape><Polygon POINTS="2283 6714 2283 6715 2284 6715 2284 6714"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

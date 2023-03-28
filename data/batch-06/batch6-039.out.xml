@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>batch6-039.out.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT5409" LABEL="text" DESCRIPTION="block type text"/><OtherTag ID="BT5407" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1834" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="4938"
+          HEIGHT="6992"
+          PHYSICAL_IMG_NR="38"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="4938"
+                  HEIGHT="6992">
+        
+        <TextBlock HPOS="113"
+                   VPOS="3604"
+                   WIDTH="4324"
+                   HEIGHT="677"
+                   ID="eSc_textblock_6f57f99e"
+                   TAGREFS="BT5407">
+          <Shape><Polygon POINTS="2420 3682 3275 3604 4437 3651 4416 3870 3321 3942 1398 4035 1230 4157 1052 4274 174 4281 113 3719 826 3712 1201 3696"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_ddfb8bc1"
+                    TAGREFS="LT1834"
+                    BASELINE="181 3942 707 3923 1115 3880 1386 3872 2113 3861 2583 3814 4378 3767" 
+                    HPOS="174"
+                    VPOS="3647"
+                    WIDTH="4198"
+                    HEIGHT="355">
+            <Shape><Polygon POINTS="180 3938 180 4002 629 3997 652 3997 862 3944 1020 3973 1026 3973 1031 3973 1037 3973 1101 3933 1206 3973 1224 3979 1230 3979 1235 3979 1282 3973 1387 3950 1953 3950 2331 3950 2331 3944 2337 3944 2343 3944 2355 3933 2431 3880 2536 3874 3142 3874 3212 3903 3247 3915 3253 3915 3258 3915 3264 3915 3311 3898 3439 3851 3649 3868 3655 3868 4022 3833 4104 3868 4145 3886 4150 3886 4156 3886 4372 3857 4372 3764 4366 3688 4285 3659 4279 3659 4273 3659 4267 3659 4261 3659 4261 3664 4232 3688 4226 3694 4150 3694 4127 3694 3981 3647 3976 3647 3970 3647 3964 3647 3958 3647 3894 3699 3888 3705 3678 3705 3672 3705 3556 3653 3550 3653 3544 3653 3538 3653 3369 3705 3293 3664 3288 3664 3282 3664 2880 3682 2874 3682 2868 3682 2804 3729 2792 3734 2745 3729 2483 3688 2477 3688 2471 3688 2466 3688 2466 3694 2413 3734 2401 3746 2366 3740 2209 3705 2203 3705 2197 3705 2192 3705 2127 3746 2098 3764 2052 3746 1929 3705 1923 3705 1918 3705 1912 3705 1906 3705 1848 3752 1824 3769 1783 3752 1690 3717 1684 3717 1679 3717 1673 3717 1591 3758 1550 3781 1498 3764 1387 3723 1381 3723 1375 3723 1370 3723 1364 3723 1311 3764 1288 3787 1212 3769 1177 3764 1171 3764 1125 3769 985 3798 932 3775 857 3740 851 3740 845 3740 839 3740 833 3740 792 3781 757 3810 419 3816 384 3793 343 3758 338 3758 332 3758 326 3758 174 3793 180 3938"/></Shape>
+	    <String CONTENT="Thomas Brussig (né le 19 décembre 1964) est un écrivain"
+                    HPOS="174"
+                    VPOS="3647"
+                    WIDTH="4198"
+                    HEIGHT="355"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8a0790d0"
+                    TAGREFS="LT1834"
+                    BASELINE="268 4183 1098 4164" 
+                    HPOS="256"
+                    VPOS="4043"
+                    WIDTH="840"
+                    HEIGHT="181">
+            <Shape><Polygon POINTS="262 4177 262 4224 1096 4218 1096 4160 1084 4090 862 4043 857 4043 851 4043 845 4043 845 4049 792 4090 349 4055 343 4055 338 4055 256 4096 262 4177"/></Shape>
+	    <String CONTENT="allemand."
+                    HPOS="256"
+                    VPOS="4043"
+                    WIDTH="840"
+                    HEIGHT="181"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

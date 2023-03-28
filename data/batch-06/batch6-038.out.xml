@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>batch6-038.out.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT5409" LABEL="text" DESCRIPTION="block type text"/><OtherTag ID="BT5407" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1834" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="4938"
+          HEIGHT="6992"
+          PHYSICAL_IMG_NR="37"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="4938"
+                  HEIGHT="6992">
+        
+        <TextBlock HPOS="60"
+                   VPOS="3682"
+                   WIDTH="4458"
+                   HEIGHT="624"
+                   ID="eSc_textblock_1ae47537"
+                   TAGREFS="BT5407">
+          <Shape><Polygon POINTS="4114 3682 4502 3729 4518 3849 4285 3927 2937 3942 2672 4004 2606 4160 2513 4206 2140 4253 106 4306 60 3719 943 3719 1275 3682"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_b3cf3354"
+                    TAGREFS="LT1834"
+                    BASELINE="124 3887 1115 3845 4491 3806" 
+                    HPOS="116"
+                    VPOS="3688"
+                    WIDTH="4373"
+                    HEIGHT="274">
+            <Shape><Polygon POINTS="122 3886 122 3921 285 3950 291 3950 524 3921 565 3921 577 3921 641 3950 647 3950 652 3950 658 3950 664 3950 699 3921 705 3915 1480 3909 1504 3921 1544 3956 1550 3956 1556 3956 1562 3962 1737 3962 1737 3956 1743 3956 1824 3921 1883 3903 2180 3903 2215 3921 2250 3950 2256 3950 2262 3950 2267 3950 2635 3921 2926 3903 3025 3921 3072 3933 3078 3933 3124 3921 3218 3903 4483 3921 4489 3804 4471 3734 3946 3734 3935 3734 3871 3688 3865 3688 3859 3688 3853 3688 3649 3734 3597 3746 2571 3752 2536 3734 2512 3711 2506 3711 2501 3711 2343 3705 2337 3705 2331 3705 2326 3705 2326 3711 2297 3734 2267 3764 2005 3764 1947 3734 1900 3711 1894 3711 1888 3711 1883 3711 1824 3734 1737 3764 1305 3734 1160 3723 1154 3723 1090 3734 822 3775 740 3734 734 3729 728 3729 553 3729 548 3729 542 3729 536 3729 536 3734 472 3787 402 3787 343 3734 338 3734 332 3734 116 3734 122 3886"/></Shape>
+	    <String CONTENT="The Brown Bunny est un film américain réalisé par"
+                    HPOS="116"
+                    VPOS="3688"
+                    WIDTH="4373"
+                    HEIGHT="274"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d0233efa"
+                    TAGREFS="LT1834"
+                    BASELINE="221 4164 1837 4164 2505 4113" 
+                    HPOS="217"
+                    VPOS="4016"
+                    WIDTH="2288"
+                    HEIGHT="233">
+            <Shape><Polygon POINTS="221 4164 221 4222 808 4206 936 4230 947 4230 951 4230 955 4230 959 4230 975 4218 994 4230 1006 4241 1010 4241 1014 4241 1017 4241 1021 4241 1025 4241 1041 4230 1064 4210 1165 4230 1270 4249 1274 4249 1278 4249 1320 4230 1375 4202 1402 4230 1418 4241 1418 4245 1421 4245 1425 4245 1429 4245 1666 4230 1860 4218 1923 4230 1973 4241 1977 4241 2082 4230 2086 4230 2090 4230 2140 4191 2261 4230 2280 4237 2284 4237 2288 4237 2505 4230 2505 4113 2502 4055 2435 4016 2432 4016 2428 4016 2424 4016 2420 4016 2311 4055 2299 4059 2284 4055 2179 4032 2175 4032 2171 4032 2167 4032 2140 4055 2105 4086 1752 4086 1705 4047 1670 4016 1666 4016 1662 4016 1658 4016 1655 4016 1651 4016 1612 4047 1565 4082 1460 4055 1456 4055 1453 4055 1449 4055 1445 4055 1445 4059 1410 4094 1251 4094 1146 4043 1111 4024 1107 4024 1045 4024 1041 4024 1037 4024 1033 4024 1033 4028 1017 4039 982 4074 940 4039 924 4024 920 4024 916 4024 913 4024 909 4024 905 4024 881 4039 784 4098 718 4039 718 4035 714 4035 710 4035 609 4028 606 4028 602 4028 598 4028 598 4032 594 4035 551 4078 462 4094 388 4032 384 4032 380 4032 217 4032 221 4164"/></Shape>
+	    <String CONTENT="Vincent Gallo, sorti en 2004."
+                    HPOS="217"
+                    VPOS="4016"
+                    WIDTH="2288"
+                    HEIGHT="233"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1083"
+                   VPOS="4116"
+                   WIDTH="1"
+                   HEIGHT="1"
+                   ID="eSc_textblock_f29804bb"
+                   >
+          <Shape><Polygon POINTS="1083 4116 1083 4117 1084 4117 1084 4116"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

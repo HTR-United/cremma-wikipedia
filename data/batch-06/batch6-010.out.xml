@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>batch6-010.out.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT5409" LABEL="text" DESCRIPTION="block type text"/><OtherTag ID="BT5407" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1834" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="4938"
+          HEIGHT="6992"
+          PHYSICAL_IMG_NR="9"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="4938"
+                  HEIGHT="6992">
+        
+        <TextBlock HPOS="33"
+                   VPOS="4167"
+                   WIDTH="4901"
+                   HEIGHT="1168"
+                   ID="eSc_textblock_e36f301f"
+                   TAGREFS="BT5407">
+          <Shape><Polygon POINTS="1181 4195 1554 4226 4570 4169 4676 4167 4798 4198 4934 4377 4922 4692 4920 4934 4918 5273 155 5335 50 5170 49 4432 33 4279 535 4220"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_3c0b6250"
+                    TAGREFS="LT1834"
+                    BASELINE="108 4377 2638 4319 2680 4319 3045 4303 4747 4296" 
+                    HPOS="99"
+                    VPOS="4218"
+                    WIDTH="4646"
+                    HEIGHT="227">
+            <Shape><Polygon POINTS="104 4375 104 4410 355 4445 361 4445 367 4445 373 4445 419 4410 448 4387 553 4404 711 4434 717 4434 722 4434 822 4404 897 4381 1031 4399 1247 4428 1253 4428 1259 4428 1265 4428 1305 4393 1323 4381 1340 4393 1375 4416 1381 4416 1387 4416 1393 4416 1399 4416 1445 4393 1480 4375 1620 4393 1708 4399 1714 4399 1766 4387 1877 4364 1970 4387 2104 4416 2110 4416 2262 4381 2273 4381 2291 4381 2571 4404 2576 4404 2582 4404 2588 4404 2623 4375 2658 4346 3037 4346 3084 4370 3136 4393 3142 4393 3148 4399 3317 4399 3317 4393 3323 4393 3393 4364 3463 4335 4733 4340 4745 4294 4728 4218 99 4288 104 4375"/></Shape>
+	    <String CONTENT="L&#x27;Appel sélectif numérique ou ASN (OSC en anglais: Digital Selective Calling) est un mode de communication"
+                    HPOS="99"
+                    VPOS="4218"
+                    WIDTH="4646"
+                    HEIGHT="227"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c561ea83"
+                    TAGREFS="LT1834"
+                    BASELINE="104 4552 2630 4525 2661 4525 2917 4517 3034 4509 3620 4486 4836 4470" 
+                    HPOS="93"
+                    VPOS="4393"
+                    WIDTH="4740"
+                    HEIGHT="221">
+            <Shape><Polygon POINTS="99 4550 99 4603 367 4614 373 4614 378 4614 408 4597 454 4573 542 4597 548 4597 553 4597 559 4597 577 4597 699 4568 757 4591 792 4608 798 4608 804 4614 1020 4614 1020 4608 1160 4585 1294 4562 1335 4579 1370 4597 1375 4597 1381 4603 1644 4603 1644 4597 1760 4573 1848 4556 1935 4568 2075 4591 2081 4597 2390 4597 2390 4591 2396 4591 2401 4591 2436 4562 2471 4585 2477 4585 2483 4585 2489 4591 2833 4591 2833 4585 2839 4585 2845 4585 2891 4550 2914 4538 3014 4550 3159 4562 3165 4562 3608 4538 3801 4527 3871 4533 4255 4568 4261 4568 4267 4568 4395 4521 4401 4521 4407 4521 4629 4562 4634 4562 4640 4562 4646 4562 4698 4515 4833 4509 4833 4469 4815 4393 524 4469 93 4445 99 4550"/></Shape>
+	    <String CONTENT="utilisant une technique de transmission automatique des appels codés en format numérique. L&#x27;ASN permet"
+                    HPOS="93"
+                    VPOS="4393"
+                    WIDTH="4740"
+                    HEIGHT="221"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f6100277"
+                    TAGREFS="LT1834"
+                    BASELINE="147 4777 1631 4770 2972 4735 3069 4731 4712 4711" 
+                    HPOS="139"
+                    VPOS="4626"
+                    WIDTH="4571"
+                    HEIGHT="204">
+            <Shape><Polygon POINTS="145 4772 145 4824 507 4801 571 4824 582 4830 588 4830 594 4830 1014 4824 1020 4824 1031 4818 1096 4789 1440 4812 1515 4818 1521 4818 1527 4818 1533 4818 1539 4812 1585 4783 1871 4807 1941 4812 1947 4812 1993 4807 2162 4777 2267 4801 2285 4807 2291 4807 2297 4807 2355 4801 2594 4772 2658 4795 2670 4801 2675 4801 2681 4801 2734 4795 2973 4766 4704 4766 4710 4707 4693 4626 139 4678 145 4772"/></Shape>
+	    <String CONTENT="d&#x27;appeler sélectivement une station de navire ou une station terrestre et, de lancer une alerte de"
+                    HPOS="139"
+                    VPOS="4626"
+                    WIDTH="4571"
+                    HEIGHT="204"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_37e083e7"
+                    TAGREFS="LT1834"
+                    BASELINE="174 4968 1534 4941 1620 4944 2354 4944 2463 4944 2929 4944 2956 4944 3951 4925 4681 4956" 
+                    HPOS="163"
+                    VPOS="4853"
+                    WIDTH="4512"
+                    HEIGHT="169">
+            <Shape><Polygon POINTS="169 4964 169 4987 985 5022 991 5022 996 5022 1002 5022 1043 4993 1061 4981 1084 4993 1160 5022 1165 5022 1171 5022 1177 5022 1247 4993 1270 4975 1620 4975 1714 4993 1836 5016 1842 5016 1848 5016 1918 4993 1970 4975 1993 4993 2023 5016 2028 5016 2034 5016 2040 5016 2209 4993 2372 4970 2524 4993 2606 5005 2611 5005 2699 4993 2897 4964 3002 4993 3008 4993 3014 4993 3019 4993 3095 4964 3579 4993 3597 4993 3602 4993 3608 4993 3614 4993 3649 4964 3713 4987 3719 4987 3725 4987 4005 4958 4180 4993 4209 4999 4215 4999 4669 4993 4675 4952 4663 4853 163 4882 169 4964"/></Shape>
+	    <String CONTENT="détresse automatique par une simple pression simultanée sur deux boutons. L&#x27;ASN est un système"
+                    HPOS="163"
+                    VPOS="4853"
+                    WIDTH="4512"
+                    HEIGHT="169"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7eca2861"
+                    TAGREFS="LT1834"
+                    BASELINE="159 5158 850 5139 1604 5150 1655 5150 2385 5135 2443 5135 2672 5131 2793 5135 3484 5123 3593 5135 4859 5137" 
+                    HPOS="151"
+                    VPOS="5034"
+                    WIDTH="4705"
+                    HEIGHT="210">
+            <Shape><Polygon POINTS="157 5156 157 5244 495 5197 1259 5226 1265 5226 1474 5191 1871 5232 1877 5232 1883 5232 1888 5232 1935 5203 2244 5226 2250 5226 2635 5185 2763 5220 2769 5220 2775 5220 3002 5179 3288 5179 3334 5214 3340 5214 3346 5214 3352 5214 3358 5214 3439 5179 3614 5220 3620 5220 3923 5214 3929 5214 4022 5174 4226 5214 4232 5220 4850 5220 4856 5133 4850 5057 3002 5034 2996 5034 2046 5069 279 5051 274 5051 268 5051 151 5080 157 5156"/></Shape>
+	    <String CONTENT="synchrone utilisant les caractères composés d&#x27;un code de dix éléments avec une détection d&#x27;erreur."
+                    HPOS="151"
+                    VPOS="5034"
+                    WIDTH="4705"
+                    HEIGHT="210"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

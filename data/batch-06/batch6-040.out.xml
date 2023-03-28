@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>batch6-040.out.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT5409" LABEL="text" DESCRIPTION="block type text"/><OtherTag ID="BT5407" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1834" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="4938"
+          HEIGHT="6992"
+          PHYSICAL_IMG_NR="39"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="4938"
+                  HEIGHT="6992">
+        
+        <TextBlock HPOS="0"
+                   VPOS="3712"
+                   WIDTH="4502"
+                   HEIGHT="448"
+                   ID="eSc_textblock_a626d554"
+                   TAGREFS="BT5407">
+          <Shape><Polygon POINTS="1103 3713 4425 3713 4502 3760 4487 3896 3077 3989 2917 4098 46 4160 0 4129 0 3712 1103 3712"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_d63373e4"
+                    TAGREFS="LT1834"
+                    BASELINE="46 3899 1270 3845 2898 3837 3438 3857 4269 3814 4460 3822" 
+                    HPOS="42"
+                    VPOS="3725"
+                    WIDTH="4418"
+                    HEIGHT="221">
+            <Shape><Polygon POINTS="46 3899 46 3938 128 3927 186 3938 213 3946 217 3946 221 3946 225 3946 240 3938 275 3923 458 3934 621 3942 625 3942 629 3942 664 3927 714 3903 1418 3892 1507 3907 1589 3919 1592 3919 1701 3899 1810 3884 1907 3896 2035 3911 2039 3911 2249 3907 2253 3907 2307 3884 2315 3884 2331 3884 2474 3903 2478 3903 2583 3880 2630 3868 2855 3868 2871 3872 2956 3896 2960 3896 2964 3896 4141 3872 4409 3857 4413 3857 4460 3830 4460 3822 4456 3748 4273 3729 4269 3729 4129 3752 4114 3756 3360 3764 3282 3725 3279 3725 3166 3725 3162 3725 3158 3725 2991 3767 2964 3775 2929 3771 2777 3744 2773 3744 2770 3744 2715 3767 2645 3756 2641 3756 2540 3775 2505 3783 2490 3779 2463 3764 2459 3764 2455 3764 2381 3779 2342 3787 2315 3779 2198 3744 2195 3744 2191 3744 2047 3775 1985 3756 1981 3756 1977 3756 1756 3767 1752 3767 1701 3791 1697 3791 1631 3756 1627 3756 1623 3756 1083 3767 1080 3767 982 3802 979 3802 975 3802 916 3771 913 3771 823 3771 819 3771 563 3779 559 3779 501 3810 497 3810 493 3810 446 3795 442 3795 439 3795 435 3795 380 3810 345 3822 326 3810 306 3802 303 3802 299 3802 42 3814 46 3899"/></Shape>
+	    <String CONTENT="ADDIE ANDERSON WILSON (17 AOÛT 1876 - 8 OCTOBRE 1966) EST UNE COMPOSITRICE"
+                    HPOS="42"
+                    VPOS="3725"
+                    WIDTH="4418"
+                    HEIGHT="221"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3821f942"
+                    TAGREFS="LT1834"
+                    BASELINE="54 4094 559 4090 777 4055 1095 4035 2338 4043 2902 4028" 
+                    HPOS="50"
+                    VPOS="3946"
+                    WIDTH="2852"
+                    HEIGHT="202">
+            <Shape><Polygon POINTS="54 4094 54 4136 637 4148 641 4148 707 4136 944 4086 1010 4109 1014 4109 1017 4109 1134 4086 1274 4105 1278 4105 1282 4105 1340 4082 1569 4105 1573 4105 1923 4082 2086 4117 2090 4117 2094 4117 2097 4117 2140 4086 2206 4105 2210 4105 2214 4105 2455 4078 2517 4109 2521 4109 2525 4109 2684 4082 2731 4117 2735 4117 2739 4117 2898 4125 2902 4028 2890 3946 2731 3973 2533 3954 2459 3946 2455 3946 2451 3946 2424 3954 2323 3997 2245 3997 2195 3962 2195 3958 2191 3958 2187 3958 2183 3958 2082 3962 1810 3981 1732 3969 1612 3954 1608 3954 1604 3954 1600 3954 1565 3973 1550 3985 1511 3977 1418 3954 1414 3954 1289 3977 1235 3954 1231 3954 1227 3954 979 3977 815 3958 811 3958 808 3958 804 3958 745 3993 730 4004 50 4008 54 4094"/></Shape>
+	    <String CONTENT="&gt;ORGANISTE&lt; ORGANISTE ET CARILLONNIESTE AMÉRICAINE"
+                    HPOS="50"
+                    VPOS="3946"
+                    WIDTH="2852"
+                    HEIGHT="202"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
