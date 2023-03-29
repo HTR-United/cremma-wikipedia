@@ -4,6 +4,10 @@ message: >-
   If you use this dataset, please cite it using the metadata
   from this file.
 type: dataset
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.7782065
+    description: latest version
 authors:
   - given-names: Alix
     family-names: Chagué
