@@ -516,17 +516,25 @@ authors:
   roles:
   - support
 - name: Antoine"
+  surname: ""
   roles:
   - support
 - name: "Camille"
+  surname: ""
   roles:
   - support
 - name: "Manon"
+  surname: ""
   roles:
   - support
 - name: "Yohan"
+  surname: ""
   roles:
   - support
+institutions:
+  - name: 6e-1 du Collège Martin-Luther-King de Charvieu-Chavagneux
+    roles:
+    - support
 description: >-
   The WikiCremma projet aims at creating a collection of ground truth to train
   HTR models on contemporary French handwriting.
