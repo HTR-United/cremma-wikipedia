@@ -2,553 +2,552 @@ schema: https://htr-united.github.io/schema/2022-04-15/schema.json
 title: CREMMA WIKIPEDIA
 url: https://github.com/HTR-United/cremma-wikipedia
 authors:
-- name: "Chagué"
-  surname: "Alix"
+- name: "Chagu\xE9"
+  surname: Alix
   roles:
   - project-manager
   - quality-control
   - digitization
   - support
   orcid: 0000-0002-0136-4434
-- name: "Clérice"
-  surname: "Thibault"
+- name: "Cl\xE9rice"
+  surname: Thibault
   roles:
   - project-manager
   - quality-control
   orcid: 0000-0003-1852-9204
-- name: "Van Kote"
-  surname: "Elsa"
+- name: Van Kote
+  surname: Elsa
   roles:
   - aligner
   - transcriber
-- name: "Carrow"
-  surname: "Jennifer"
+- name: Carrow
+  surname: Jennifer
   roles:
   - aligner
   - transcriber
   - support
-- name: "Wissam"
-  surname: "Antoum"
+- name: Wissam
+  surname: Antoum
   roles:
   - support
-- name: "Yann"
-  surname: "Audin"
+- name: Yann
+  surname: Audin
   roles:
   - support
-- name: "Anne"
-  surname: "Baillot"
+- name: Anne
+  surname: Baillot
   roles:
   - support
-- name: "Marlène"
-  surname: "Baron"
+- name: "Marl\xE8ne"
+  surname: Baron
   roles:
   - support
-- name: "Alexandre"
-  surname: "Bartz"
+- name: Alexandre
+  surname: Bartz
   roles:
   - support
-- name: "Rachel"
-  surname: "Bawden"
+- name: Rachel
+  surname: Bawden
   roles:
   - support
-- name: "Alice"
-  surname: "Beaudry-Lagarde"
+- name: Alice
+  surname: Beaudry-Lagarde
   roles:
   - support
-- name: "Rishika"
-  surname: "Bhagwatkar"
+- name: Rishika
+  surname: Bhagwatkar
   roles:
   - support
-- name: "Federico"
-  surname: "Boschetti"
+- name: Federico
+  surname: Boschetti
   roles:
   - support
-- name: "Camille"
-  surname: "Bourgeois"
+- name: Camille
+  surname: Bourgeois
   roles:
   - support
-- name: "Alice"
-  surname: "Brenon"
+- name: Alice
+  surname: Brenon
   roles:
   - support
-- name: "William"
-  surname: "Brubacher"
+- name: William
+  surname: Brubacher
   roles:
   - support
-- name: "Donovan"
-  surname: "Brunot"
+- name: Donovan
+  surname: Brunot
   roles:
   - support
-- name: "Roxanne"
-  surname: "Brusseau"
+- name: Roxanne
+  surname: Brusseau
   roles:
   - support
-- name: "Talitha"
-  surname: "Bueno Mottes"
+- name: Talitha
+  surname: Bueno Mottes
   roles:
   - support
-- name: "Zoé"
-  surname: "Cappe"
+- name: "Zo\xE9"
+  surname: Cappe
   roles:
   - support
-- name: "Roman"
-  surname: "Castagné"
+- name: Roman
+  surname: "Castagn\xE9"
   roles:
   - support
-- name: "Galo"
-  surname: "Castillo"
+- name: Galo
+  surname: Castillo
   roles:
   - support
-- name: "Brigitte"
-  surname: "Chagué"
+- name: Brigitte
+  surname: "Chagu\xE9"
   roles:
   - support
-- name: "Denis"
-  surname: "Chagué"
+- name: Denis
+  surname: "Chagu\xE9"
   roles:
   - support
-- name: "Emeric"
-  surname: "Chagué"
+- name: Emeric
+  surname: "Chagu\xE9"
   roles:
   - support
-- name: "Léa"
-  surname: "Charette"
+- name: "L\xE9a"
+  surname: Charette
   roles:
   - support
-- name: "Emmanuel"
-  surname: "Chateau"
+- name: Emmanuel
+  surname: Chateau
   roles:
   - support
-- name: "Jean-Baptiste"
-  surname: "Chaudron"
+- name: Jean-Baptiste
+  surname: Chaudron
   roles:
   - support
-- name: "Anna"
-  surname: "Chepaikina"
+- name: Anna
+  surname: Chepaikina
   roles:
   - support
-- name: "Floriane"
-  surname: "Chiffoleau"
+- name: Floriane
+  surname: Chiffoleau
   roles:
   - support
-- name: "Kelly"
-  surname: "Christensen"
+- name: Kelly
+  surname: Christensen
   roles:
   - support
-- name: "Federico"
-  surname: "Cuartas Aristizabal"
+- name: Federico
+  surname: Cuartas Aristizabal
   roles:
   - support
-- name: "Maria Laura"
-  surname: "Cucciniello"
+- name: Maria Laura
+  surname: Cucciniello
   roles:
   - support
-- name: "Aurore"
-  surname: "Cuéllar"
+- name: Aurore
+  surname: "Cu\xE9llar"
   roles:
   - support
-- name: "Baudoin"
-  surname: "Davoury"
+- name: Baudoin
+  surname: Davoury
   roles:
   - support
-- name: "Eric"
-  surname: "de la Clergerie"
+- name: Eric
+  surname: de la Clergerie
   roles:
   - support
-- name: "Roch"
-  surname: "Delanney"
+- name: Roch
+  surname: Delanney
   roles:
   - support
-- name: "Camille"
-  surname: "Delattre"
+- name: Camille
+  surname: Delattre
   roles:
   - support
-- name: "Béatrice"
-  surname: "Denis"
+- name: "B\xE9atrice"
+  surname: Denis
   roles:
   - support
-- name: "Philippe"
-  surname: "Deschamps"
+- name: Philippe
+  surname: Deschamps
   roles:
   - support
-- name: "Valentine"
-  surname: "Desmorat"
+- name: Valentine
+  surname: Desmorat
   roles:
   - support
-- name: "Cindy"
-  surname: "Dionisio"
+- name: Cindy
+  surname: Dionisio
   roles:
   - support
-- name: "Amélie"
-  surname: "Disant"
+- name: "Am\xE9lie"
+  surname: Disant
   roles:
   - support
-- name: "Elsa"
-  surname: "Dufourg"
+- name: Elsa
+  surname: Dufourg
   roles:
   - support
-- name: "Jean-Luc"
-  surname: "Falcone"
+- name: Jean-Luc
+  surname: Falcone
   roles:
   - support
-- name: "Margaux"
-  surname: "Faure"
+- name: Margaux
+  surname: Faure
   roles:
   - support
-- name: "Glenda"
-  surname: "Ferbeyre Rodriguez"
+- name: Glenda
+  surname: Ferbeyre Rodriguez
   roles:
   - support
-- name: "Giulia"
-  surname: "Ferretti"
+- name: Giulia
+  surname: Ferretti
   roles:
   - support
-- name: "Fabien"
-  surname: "Fizaine"
+- name: Fabien
+  surname: Fizaine
   roles:
   - support
-- name: "Jeanne"
-  surname: "Flamant"
+- name: Jeanne
+  surname: Flamant
   roles:
   - support
-- name: "Clémence"
-  surname: "Foisy-Marquis"
+- name: "Cl\xE9mence"
+  surname: Foisy-Marquis
   roles:
   - support
-- name: "Anna"
-  surname: "Fröhlich"
+- name: Anna
+  surname: "Fr\xF6hlich"
   roles:
   - support
-- name: "Anne"
-  surname: "Garcia Fernancez"
+- name: Anne
+  surname: Garcia Fernancez
   roles:
   - support
-- name: "Vincent"
-  surname: "Giovannangeli"
+- name: Vincent
+  surname: Giovannangeli
   roles:
   - support
-- name: "Gabrielle"
-  surname: "Grondin"
+- name: Gabrielle
+  surname: Grondin
   roles:
   - support
-- name: "Morgane"
-  surname: "Guichard"
+- name: Morgane
+  surname: Guichard
   roles:
   - support
-- name: "Jessica"
-  surname: "Guiraud"
+- name: Jessica
+  surname: Guiraud
   roles:
   - support
-- name: "Anahi"
-  surname: "Haedo"
+- name: Anahi
+  surname: Haedo
   roles:
   - support
-- name: "Pauline"
-  surname: "Hennequart"
+- name: Pauline
+  surname: Hennequart
   roles:
   - support
-- name: "Yanet"
-  surname: "Hernandez Pedroza"
+- name: Yanet
+  surname: Hernandez Pedroza
   roles:
   - support
-- name: "Lucence"
-  surname: "Ing"
+- name: Lucence
+  surname: Ing
   roles:
   - support
-- name: "Pauline"
-  surname: "Jacsont"
+- name: Pauline
+  surname: Jacsont
   roles:
   - support
-- name: "Juliette"
-  surname: "Janes"
+- name: Juliette
+  surname: Janes
   roles:
   - support
-- name: "Corinne"
-  surname: "Jeanne"
+- name: Corinne
+  surname: Jeanne
   roles:
   - support
-- name: "Arilys"
-  surname: "Jia"
+- name: Arilys
+  surname: Jia
   roles:
   - support
-- name: "Vincent"
-  surname: "Jolivet"
+- name: Vincent
+  surname: Jolivet
   roles:
   - support
-- name: "Katrina"
-  surname: "Kaustina"
+- name: Katrina
+  surname: Kaustina
   roles:
   - support
-- name: "Ben"
-  surname: "Kiessling"
+- name: Ben
+  surname: Kiessling
   roles:
   - support
-- name: "Ozcar"
-  surname: "Koc"
+- name: Ozcar
+  surname: Koc
   roles:
   - support
-- name: "Lena"
-  surname: "Krause"
+- name: Lena
+  surname: Krause
   roles:
   - support
-- name: "Gabriel"
-  surname: "Labrie"
+- name: Gabriel
+  surname: Labrie
   roles:
   - support
-- name: "Amélie"
-  surname: "Lapointe"
+- name: "Am\xE9lie"
+  surname: Lapointe
   roles:
   - support
-- name: "David"
-  surname: "Lassner"
+- name: David
+  surname: Lassner
   roles:
   - support
-- name: "Emmanuelle"
-  surname: "Lescouet"
+- name: Emmanuelle
+  surname: Lescouet
   roles:
   - support
-- name: "Danny"
-  surname: "Létourneau"
+- name: Danny
+  surname: "L\xE9tourneau"
   roles:
   - support
-- name: "Marie-Françoise"
-  surname: "Limon-Bonnet"
+- name: "Marie-Fran\xE7oise"
+  surname: Limon-Bonnet
   roles:
   - support
-- name: "Gabrielle"
-  surname: "Lodi"
+- name: Gabrielle
+  surname: Lodi
   roles:
   - support
-- name: "Victoria"
-  surname: "Lupascu"
+- name: Victoria
+  surname: Lupascu
   roles:
   - support
-- name: "Elsa"
-  surname: "Marguin-Hamon"
+- name: Elsa
+  surname: Marguin-Hamon
   roles:
   - support
-- name: "Orestis"
-  surname: "Marinamis"
+- name: Orestis
+  surname: Marinamis
   roles:
   - support
-- name: "Gina"
-  surname: "Mars"
+- name: Gina
+  surname: Mars
   roles:
   - support
-- name: "Eugénie"
-  surname: "Matthey-Jonais"
+- name: "Eug\xE9nie"
+  surname: Matthey-Jonais
   roles:
   - support
-- name: "Dilson"
-  surname: "Mayunga"
+- name: Dilson
+  surname: Mayunga
   roles:
   - support
-- name: "Margot"
-  surname: "Mellet"
+- name: Margot
+  surname: Mellet
   roles:
   - support
-- name: "Matt"
-  surname: "Moskal"
+- name: Matt
+  surname: Moskal
   roles:
   - support
-- name: "Shannon"
-  surname: "Moskal"
+- name: Shannon
+  surname: Moskal
   roles:
   - support
-- name: "Zoé"
-  surname: "Mozin"
+- name: "Zo\xE9"
+  surname: Mozin
   roles:
   - support
-- name: "Lydia"
-  surname: "Nishimwe"
+- name: Lydia
+  surname: Nishimwe
   roles:
   - support
-- name: "Jade"
-  surname: "Norindr"
+- name: Jade
+  surname: Norindr
   roles:
   - support
-- name: "Jules"
-  surname: "Nuguet"
+- name: Jules
+  surname: Nuguet
   roles:
   - support
-- name: "Sarah"
-  surname: "Orsini"
+- name: Sarah
+  surname: Orsini
   roles:
   - support
-- name: "Pedro"
-  surname: "Ortiz Suarez"
+- name: Pedro
+  surname: Ortiz Suarez
   roles:
   - support
-- name: "Kenan"
-  surname: "Oudin"
+- name: Kenan
+  surname: Oudin
   roles:
   - support
-- name: "Gabrielle"
-  surname: "Pannetier-Leboeuf"
+- name: Gabrielle
+  surname: Pannetier-Leboeuf
   roles:
   - support
-- name: "Thierry"
-  surname: "Paquet"
+- name: Thierry
+  surname: Paquet
   roles:
   - support
-- name: "Thomas"
-  surname: "Parisot"
+- name: Thomas
+  surname: Parisot
   roles:
   - support
-- name: "Elodie"
-  surname: "Paupe"
+- name: Elodie
+  surname: Paupe
   roles:
   - support
-- name: "Gaël"
-  surname: "Poux"
+- name: "Ga\xEBl"
+  surname: Poux
   roles:
   - support
-- name: "Montaine"
-  surname: "Prophête"
+- name: Montaine
+  surname: "Proph\xEAte"
   roles:
   - support
-- name: "Alix"
-  surname: "Raoux"
+- name: Alix
+  surname: Raoux
   roles:
   - support
-- name: "Gaëtan"
-  surname: "Raoux"
+- name: "Ga\xEBtan"
+  surname: Raoux
   roles:
   - support
-- name: "Elise"
-  surname: "Razafindrakoto"
+- name: Elise
+  surname: Razafindrakoto
   roles:
   - support
-- name: "Camille"
-  surname: "Rey"
+- name: Camille
+  surname: Rey
   roles:
   - support
-- name: "Arij"
-  surname: "Riabi"
+- name: Arij
+  surname: Riabi
   roles:
   - support
-- name: "Karen"
-  surname: "Ross"
+- name: Karen
+  surname: Ross
   roles:
   - support
-- name: "Manon"
-  surname: "Rouillé"
+- name: Manon
+  surname: "Rouill\xE9"
   roles:
   - support
-- name: "Louise"
-  surname: "Ruby"
+- name: Louise
+  surname: Ruby
   roles:
   - support
-- name: "Benoît"
-  surname: "Sagot"
+- name: "Beno\xEEt"
+  surname: Sagot
   roles:
   - support
-- name: "Hugo"
-  surname: "Scheithauer"
+- name: Hugo
+  surname: Scheithauer
   roles:
   - support
-- name: "Anne-Valérie"
-  surname: "Schweyer"
+- name: "Anne-Val\xE9rie"
+  surname: Schweyer
   roles:
   - support
-- name: "Djamé"
-  surname: "Seddah"
+- name: "Djam\xE9"
+  surname: Seddah
   roles:
   - support
-- name: "Paula"
-  surname: "Seidel"
+- name: Paula
+  surname: Seidel
   roles:
   - support
-- name: "Peter"
-  surname: "Stokes"
+- name: Peter
+  surname: Stokes
   roles:
   - support
-- name: "Yves"
-  surname: "Tadjo"
+- name: Yves
+  surname: Tadjo
   roles:
   - support
-- name: "Lionel"
-  surname: "Tadjou"
+- name: Lionel
+  surname: Tadjou
   roles:
   - support
-- name: "Kristin"
-  surname: "Tanton"
+- name: Kristin
+  surname: Tanton
   roles:
   - support
-- name: "Marie"
-  surname: "Tariol"
+- name: Marie
+  surname: Tariol
   roles:
   - support
-- name: "Rian"
-  surname: "Touchent"
+- name: Rian
+  surname: Touchent
   roles:
   - support
-- name: "Anne-Kim"
-  surname: "Tremblay"
+- name: Anne-Kim
+  surname: Tremblay
   roles:
   - support
-- name: "Pierre"
-  surname: "Vauterin"
+- name: Pierre
+  surname: Vauterin
   roles:
   - support
-- name: "Mathilde"
-  surname: "Verstraete"
+- name: Mathilde
+  surname: Verstraete
   roles:
   - support
-- name: "Magalie"
-  surname: "Vetter"
+- name: Magalie
+  surname: Vetter
   roles:
   - support
-- name: "Marcello"
-  surname: "Vitali Rosati"
+- name: Marcello
+  surname: Vitali Rosati
   roles:
   - support
-- name: "Malamatenia"
-  surname: "Vlachou-Estathiou"
+- name: Malamatenia
+  surname: Vlachou-Estathiou
   roles:
   - support
-- name: "Rosanne"
-  surname: "Wingert"
+- name: Rosanne
+  surname: Wingert
   roles:
   - support
-- name: "Débora"
-  surname: "Yi"
+- name: "D\xE9bora"
+  surname: Yi
   roles:
   - support
 - name: Antoine"
-  surname: ""
+  surname: ''
   roles:
   - support
-- name: "Camille"
-  surname: ""
+- name: Camille
+  surname: ''
   roles:
   - support
-- name: "Manon"
-  surname: ""
+- name: Manon
+  surname: ''
   roles:
   - support
-- name: "Yohan"
-  surname: ""
+- name: Yohan
+  surname: ''
   roles:
   - support
 institutions:
-  - name: 6e-1 du Collège Martin-Luther-King de Charvieu-Chavagneux
-    roles:
-    - support
-description: >-
-  The CREMMA-WIKIPEDIA project aims at creating a collection of ground truth to train
-  HTR models on contemporary French handwriting.
+- name: "6e-1 du Coll\xE8ge Martin-Luther-King de Charvieu-Chavagneux"
+  roles:
+  - support
+description: 'The CREMMA-WIKIPEDIA project aims at creating a collection of ground
+  truth to train HTR models on contemporary French handwriting.
 
 
-  Each image represents an exerpt from a randomly selected Wikipedia page,
-  copied by hand by volunteers. We then took care of the alignment between the
-  handwritten portion and the original text, also present on the image.
+  Each image represents an exerpt from a randomly selected Wikipedia page, copied
+  by hand by volunteers. We then took care of the alignment between the handwritten
+  portion and the original text, also present on the image.'
 project-name: CREMMA
 language:
-  - fra
+- fra
 production-software: eScriptorium + Kraken
 script:
-  - iso: Latn
+- iso: Latn
 script-type: only-manuscript
 time:
   notBefore: '2022'
@@ -560,13 +559,11 @@ license:
 - name: CC-BY 4.0
   url: https://creativecommons.org/licenses/by/4.0/
 format: Alto-XML
-transcription-guidelines: >-
-  The transcription guidelines follow CREMMA's convention
-  (https://gist.github.com/alix-tz/6f89444521bf1cab0522da520f7e4ff4). In short:
-  superscript is preceded by a ^. Strikethrough elements are transcribed with
-  "><" when unreadable, ">word<" when readeable.  The text to copy may have
-  included phonetic transcription. Non-french letters and diacritics were
-  rendered as well. 
+transcription-guidelines: 'The transcription guidelines follow CREMMA''s convention
+  (https://gist.github.com/alix-tz/6f89444521bf1cab0522da520f7e4ff4). In short: superscript
+  is preceded by a ^. Strikethrough elements are transcribed with "><" when unreadable,
+  ">word<" when readeable.  The text to copy may have included phonetic transcription.
+  Non-french letters and diacritics were rendered as well. '
 volume:
 - metric: characters
   count: 84005
