@@ -3,7 +3,7 @@ title: CREMMA WIKIPEDIA
 url: https://github.com/HTR-United/cremma-wikipedia
 authors:
 - name: "Chagué"
-  surname: Alix
+  surname: "Alix"
   roles:
   - project-manager
   - quality-control
@@ -11,18 +11,18 @@ authors:
   - support
   orcid: 0000-0002-0136-4434
 - name: "Clérice"
-  surname: Thibault
+  surname: "Thibault"
   roles:
   - project-manager
   - quality-control
   orcid: 0000-0003-1852-9204
-- name: Van Kote
-  surname: Elsa
+- name: "Van Kote"
+  surname: "Elsa"
   roles:
   - aligner
   - transcriber
-- name: Carrow
-  surname: Jennifer
+- name: "Carrow"
+  surname: "Jennifer"
   roles:
   - aligner
   - transcriber
