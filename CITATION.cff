@@ -1,0 +1,281 @@
+cff-version: 1.2.0
+title: CREMMA WIKIPEDIA
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Alix
+    family-names: Chagué
+    orcid: 'https://orcid.org/0000-0002-0136-4434'
+  - given-names: Thibault
+    family-names: Clérice
+    orcid: '0000-0003-1852-9204'
+  - given-names: Elsa
+    family-names: Van Kote
+  - given-names: Jennifer
+    family-names: Carrow
+  - given-names: Antoum
+    family-names: Wissam
+  - given-names: Audin
+    family-names: Yann
+  - given-names: Baillot
+    family-names: Anne
+  - given-names: Baron
+    family-names: Marlène
+  - given-names: Bartz
+    family-names: Alexandre
+  - given-names: Bawden
+    family-names: Rachel
+  - given-names: Beaudry-Lagarde
+    family-names: Alice
+  - given-names: Bhagwatkar
+    family-names: Rishika
+  - given-names: Boschetti
+    family-names: Federico
+  - given-names: Bourgeois
+    family-names: Camille
+  - given-names: Brenon
+    family-names: Alice
+  - given-names: Brubacher
+    family-names: William
+  - given-names: Brunot
+    family-names: Donovan
+  - given-names: Brusseau
+    family-names: Roxanne
+  - given-names: Bueno Mottes
+    family-names: Talitha
+  - given-names: Cappe
+    family-names: Zoé
+  - given-names: Castagné
+    family-names: Roman
+  - given-names: Castillo
+    family-names: Galo
+  - given-names: Chagué
+    family-names: Brigitte
+  - given-names: Chagué
+    family-names: Denis
+  - given-names: Chagué
+    family-names: Emeric
+  - given-names: Charette
+    family-names: Léa
+  - given-names: Chateau
+    family-names: Emmanuel
+  - given-names: Chaudron
+    family-names: Jean-Baptiste
+  - given-names: Chepaikina
+    family-names: Anna
+  - given-names: Chiffoleau
+    family-names: Floriane
+  - given-names: Christensen
+    family-names: Kelly
+  - given-names: Cuartas Aristizabal
+    family-names: Federico
+  - given-names: Cucciniello
+    family-names: Maria Laura
+  - given-names: Cuéllar
+    family-names: Aurore
+  - given-names: Davoury
+    family-names: Baudoin
+  - given-names: de la Clergerie
+    family-names: Eric
+  - given-names: Delanney
+    family-names: Roch
+  - given-names: Delattre
+    family-names: Camille
+  - given-names: Denis
+    family-names: Béatrice
+  - given-names: Deschamps
+    family-names: Philippe
+  - given-names: Desmorat
+    family-names: Valentine
+  - given-names: Dionisio
+    family-names: Cindy
+  - given-names: Disant
+    family-names: Amélie
+  - given-names: Dufourg
+    family-names: Elsa
+  - given-names: Falcone
+    family-names: Jean-Luc
+  - given-names: Faure
+    family-names: Margaux
+  - given-names: Ferbeyre Rodriguez
+    family-names: Glenda
+  - given-names: Ferretti
+    family-names: Giulia
+  - given-names: Fizaine
+    family-names: Fabien
+  - given-names: Flamant
+    family-names: Jeanne
+  - given-names: Foisy-Marquis
+    family-names: Clémence
+  - given-names: Fröhlich
+    family-names: Anna
+  - given-names: Garcia Fernancez
+    family-names: Anne
+  - given-names: Giovannangeli
+    family-names: Vincent
+  - given-names: Grondin
+    family-names: Gabrielle
+  - given-names: Guichard
+    family-names: Morgane
+  - given-names: Guiraud
+    family-names: Jessica
+  - given-names: Haedo
+    family-names: Anahi
+  - given-names: Hennequart
+    family-names: Pauline
+  - given-names: Hernandez Pedroza
+    family-names: Yanet
+  - given-names: Ing
+    family-names: Lucence
+  - given-names: Jacsont
+    family-names: Pauline
+  - given-names: Janes
+    family-names: Juliette
+  - given-names: Jeanne
+    family-names: Corinne
+  - given-names: Jia
+    family-names: Arilys
+  - given-names: Jolivet
+    family-names: Vincent
+  - given-names: Kaustina
+    family-names: Katrina
+  - given-names: Kiessling
+    family-names: Ben
+  - given-names: Koc
+    family-names: Ozcar
+  - given-names: Krause
+    family-names: Lena
+  - given-names: Labrie
+    family-names: Gabriel
+  - given-names: Lapointe
+    family-names: Amélie
+  - given-names: Lassner
+    family-names: David
+  - given-names: Lescouet
+    family-names: Emmanuelle
+  - given-names: Létourneau
+    family-names: Danny
+  - given-names: Limon-Bonnet
+    family-names: Marie-Françoise
+  - given-names: Lodi
+    family-names: Gabrielle
+  - given-names: Lupascu
+    family-names: Victoria
+  - given-names: Marguin-Hamon
+    family-names: Elsa
+  - given-names: Marinamis
+    family-names: Orestis
+  - given-names: Mars
+    family-names: Gina
+  - given-names: Matthey-Jonais
+    family-names: Eugénie
+  - given-names: Mayunga
+    family-names: Dilson
+  - given-names: Mellet
+    family-names: Margot
+  - given-names: Moskal
+    family-names: Matt
+  - given-names: Moskal
+    family-names: Shannon
+  - given-names: Mozin
+    family-names: Zoé
+  - given-names: Nishimwe
+    family-names: Lydia
+  - given-names: Norindr
+    family-names: Jade
+  - given-names: Nuguet
+    family-names: Jules
+  - given-names: Orsini
+    family-names: Sarah
+  - given-names: Ortiz Suarez
+    family-names: Pedro
+  - given-names: Oudin
+    family-names: Kenan
+  - given-names: Pannetier-Leboeuf
+    family-names: Gabrielle
+  - given-names: Paquet
+    family-names: Thierry
+  - given-names: Parisot
+    family-names: Thomas
+  - given-names: Paupe
+    family-names: Elodie
+  - given-names: Poux
+    family-names: Gaël
+  - given-names: Prophête
+    family-names: Montaine
+  - given-names: Raoux
+    family-names: Alix
+  - given-names: Raoux
+    family-names: Gaëtan
+  - given-names: Razafindrakoto
+    family-names: Elise
+  - given-names: Rey
+    family-names: Camille
+  - given-names: Riabi
+    family-names: Arij
+  - given-names: Ross
+    family-names: Karen
+  - given-names: Rouillé
+    family-names: Manon
+  - given-names: Ruby
+    family-names: Louise
+  - given-names: Sagot
+    family-names: Benoît
+  - given-names: Scheithauer
+    family-names: Hugo
+  - given-names: Schweyer
+    family-names: Anne-Valérie
+  - given-names: Seddah
+    family-names: Djamé
+  - given-names: Seidel
+    family-names: Paula
+  - given-names: Stokes
+    family-names: Peter
+  - given-names: Tadjo
+    family-names: Yves
+  - given-names: Tadjou
+    family-names: Lionel
+  - given-names: Tanton
+    family-names: Kristin
+  - given-names: Tariol
+    family-names: Marie
+  - given-names: Touchent
+    family-names: Rian
+  - given-names: Tremblay
+    family-names: Anne-Kim
+  - given-names: Vauterin
+    family-names: Pierre
+  - given-names: Verstraete
+    family-names: Mathilde
+  - given-names: Vetter
+    family-names: Magalie
+  - given-names: Vitali Rosati
+    family-names: Marcello
+  - given-names: Vlachou-Estathiou
+    family-names: Malamatenia
+  - given-names: Wingert
+    family-names: Rosanne
+  - given-names: Yi
+    family-names: Débora
+  - given-names: other anonymous contributers
+repository-code: 'https://github.com/HTR-United/cremma-wikipedia'
+abstract: >-
+  The CREMMA-Wikipedia project aims at creating a collection
+  of ground truth to train HTR models on contemporary French
+  handwriting.
+
+
+  Each image represents an exerpt from a randomly selected
+  Wikipedia page, copied by hand by volunteers. We then took
+  care of the alignment between the handwritten portion and
+  the original text, also present on the image.
+keywords:
+  - HTR
+  - ground-truth
+  - wikipedia
+  - htr-united
+license: CC-BY-4.0
+version: 0.0.2
+date-released: '2023-03-29'

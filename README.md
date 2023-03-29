@@ -12,7 +12,7 @@ CREMMA - Wikipedia
 
 ## Description
 
-The WikiCremma projet aims at creating a collection of ground truth to train HTR models on contemporary French handwriting. 
+The CREMMA WIKIPEDIA project aims at creating a collection of ground truth to train HTR models on contemporary French handwriting. 
 
 Each image represents an exerpt from a randomly selected Wikipedia page, copied by hand by volunteers. We then took care of the alignment between the handwritten portion and the original text, also present on the image. 
 
@@ -21,14 +21,20 @@ Each image represents an exerpt from a randomly selected Wikipedia page, copied 
 
 Complete here
 
-## Transcription guidelines
-
-Complete here.
-
 ## Sources
 
 Complete here.
 --->
+
+## Transcription guidelines
+
+The transcription guidelines follow [CREMMA's convention](https://gist.github.com/alix-tz/6f89444521bf1cab0522da520f7e4ff4) for modern documents. In short:
+- superscript is preceded by a `^`. 
+- Strikethrough elements are transcribed with
+	- `><` when unreadable, 
+	- `>word<` when readeable.
+
+The text to copy may have included phonetic transcription. Non-french letters and diacritics were rendered as well. See [characters.csv](./characters.csv) for the list of the characters used in this dataset. The character set can be normalized using [ChocoMufin](https://github.com/PonteIneptique/choco-mufin) 
 
 ## Related tools
 
