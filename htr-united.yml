@@ -49,15 +49,15 @@ format: Alto-XML
 transcription-guidelines: Superscript is preceded by a ^.
 volume:
 - metric: characters
-  count: 84004
+  count: 84005
 - metric: files
   count: 304
 - metric: lines
-  count: 1698
+  count: 1697
 - metric: regions
-  count: 306
+  count: 305
 characters:
-  mode: NFKD
+  mode: NFD
   members:
   - e
   - a
@@ -140,6 +140,7 @@ characters:
   - ^
   - '['
   - ']'
+  - "\u017F"
   - /
   - "\u0304"
   - Q
@@ -160,11 +161,13 @@ characters:
   - "\u0279"
   - "\u2014"
   - "\xC6"
+  - "\xB2"
   - "\u0306"
   - "\u1455"
   - '#'
   - "\u0259"
   - "\u20AC"
+  - "\_"
   - "\u0251"
   - "\u0254"
   - "\u0281"
