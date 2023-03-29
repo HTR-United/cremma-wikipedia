@@ -566,7 +566,7 @@ transcription-guidelines: 'The transcription guidelines follow CREMMA''s convent
   Non-french letters and diacritics were rendered as well. '
 volume:
 - metric: characters
-  count: 84005
+  count: 84018
 - metric: files
   count: 304
 - metric: lines
@@ -653,8 +653,8 @@ characters:
   - "\xBB"
   - Y
   - X
-  - '"'
   - ^
+  - '"'
   - '['
   - ']'
   - "\u017F"
