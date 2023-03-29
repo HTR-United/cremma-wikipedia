@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>batch6-027.out.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT5409" LABEL="text" DESCRIPTION="block type text"/><OtherTag ID="BT5407" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1834" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="4938"
+          HEIGHT="6992"
+          PHYSICAL_IMG_NR="26"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="4938"
+                  HEIGHT="6992">
+        
+        <TextBlock HPOS="28"
+                   VPOS="3713"
+                   WIDTH="4008"
+                   HEIGHT="276"
+                   ID="eSc_textblock_46b11fc1"
+                   TAGREFS="BT5407">
+          <Shape><Polygon POINTS="1103 3713 3943 3760 4036 3822 3990 3973 31 3989 28 3734 944 3719"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_821ca920"
+                    TAGREFS="LT1834"
+                    BASELINE="50 3896 632 3903 1332 3885 1839 3902 3428 3900 4007 3919" 
+                    HPOS="46"
+                    VPOS="3740"
+                    WIDTH="3959"
+                    HEIGHT="251">
+            <Shape><Polygon POINTS="3946 3775 3917 3764 3888 3758 3836 3758 3801 3787 3801 3793 3562 3793 3556 3787 3480 3752 3480 3752 3422 3752 3276 3781 3235 3787 3183 3781 2961 3746 2955 3746 2949 3746 2944 3746 2909 3775 2909 3781 2903 3775 2862 3758 2856 3758 2850 3758 2734 3775 2646 3787 2629 3775 2600 3752 2600 3746 2594 3746 2588 3746 2582 3746 2576 3746 2489 3769 2448 3781 2407 3769 2320 3746 2314 3746 2308 3746 2302 3746 2256 3769 2215 3787 2157 3764 2092 3746 2087 3746 2081 3746 2075 3746 2028 3764 1976 3787 1853 3764 1743 3740 1737 3740 1649 3758 1556 3787 1265 3787 1165 3752 1119 3740 1113 3740 1107 3740 1101 3740 1078 3752 1020 3787 705 3787 635 3746 623 3740 617 3740 612 3740 559 3746 343 3769 46 3740 46 3892 46 3991 3999 3991 4005 3915 3999 3874 3946 3775"/></Shape>
+	    <String CONTENT="(6089) Izumi est un astéroïde de le ceinture principale."
+                    HPOS="46"
+                    VPOS="3740"
+                    WIDTH="3959"
+                    HEIGHT="251"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>batch6-061.out.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT5409" LABEL="text" DESCRIPTION="block type text"/><OtherTag ID="BT5407" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1834" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="4938"
+          HEIGHT="6992"
+          PHYSICAL_IMG_NR="60"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="4938"
+                  HEIGHT="6992">
+        
+        <TextBlock HPOS="0"
+                   VPOS="3719"
+                   WIDTH="4751"
+                   HEIGHT="534"
+                   ID="eSc_textblock_a6184111"
+                   TAGREFS="BT5407">
+          <Shape><Polygon POINTS="1212 3729 4658 3775 4751 3853 4735 3942 3854 4035 3745 4067 3648 4222 3399 4253 62 4237 0 4191 20 3719 907 3748"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_35dc70f5"
+                    TAGREFS="LT1834"
+                    BASELINE="26 3924 1546 3899 4716 3903" 
+                    HPOS="23"
+                    VPOS="3763"
+                    WIDTH="4687"
+                    HEIGHT="204">
+            <Shape><Polygon POINTS="4623 3769 4576 3769 4535 3798 4524 3798 4442 3798 3841 3764 3836 3764 3830 3764 3824 3764 3783 3793 3777 3798 3742 3793 3591 3764 3585 3764 3579 3764 3527 3793 3497 3810 3043 3810 2979 3787 2885 3764 2880 3764 2874 3764 2763 3787 2675 3804 2541 3787 2384 3764 2378 3764 2372 3764 2366 3764 2337 3787 2297 3810 2040 3810 1935 3781 1888 3769 1883 3769 1877 3769 1871 3769 1836 3781 1760 3816 1544 3816 1492 3781 1480 3769 1474 3769 1469 3769 950 3769 944 3769 938 3769 932 3769 926 3775 880 3810 77 3763 23 3921 23 3967 4704 3962 4710 3898 4704 3828 4681 3804"/></Shape>
+	    <String CONTENT="Le ñaari cin (littéralement en wolof : « deux marmites ») est un mode"
+                    HPOS="23"
+                    VPOS="3763"
+                    WIDTH="4687"
+                    HEIGHT="204"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bb15f1e3"
+                    TAGREFS="LT1834"
+                    BASELINE="46 4144 637 4117 1989 4117 3648 4156" 
+                    HPOS="42"
+                    VPOS="4004"
+                    WIDTH="3606"
+                    HEIGHT="230">
+            <Shape><Polygon POINTS="46 4144 42 4191 656 4210 660 4210 664 4210 699 4191 738 4171 1045 4191 1076 4191 1080 4191 1083 4191 1087 4191 1165 4160 1829 4164 1993 4187 2078 4199 2082 4199 2233 4187 2459 4171 2630 4171 2657 4187 2735 4226 2739 4226 3127 4234 3131 4234 3135 4234 3247 4187 3407 4222 3411 4222 3644 4183 3648 4156 3648 4078 3337 4074 3251 4032 3247 4032 3244 4032 3240 4032 3150 4070 2976 4070 2925 4070 2921 4067 2871 4032 2867 4032 2863 4032 2758 4032 2754 4032 2750 4032 2746 4032 2700 4063 2571 4039 2568 4039 2463 4063 2459 4063 2455 4063 2362 4024 2358 4024 2354 4024 2105 4059 2094 4059 2039 4020 2035 4020 2031 4020 1736 4020 1732 4020 1728 4020 1724 4020 1678 4055 1674 4055 1620 4016 1616 4016 1612 4016 1608 4016 1402 4047 1196 4012 1107 4012 1103 4012 1099 4012 1095 4012 1045 4047 1037 4051 881 4051 874 4043 827 4008 823 4008 819 4008 815 4008 567 4039 536 4043 528 4039 450 4004 446 4004 369 4004 365 4004 361 4004 357 4004 306 4039 299 4039 198 4039 194 4035 132 4004 128 4004 124 4004 120 4004 46 4028 46 4144"/></Shape>
+	    <String CONTENT="de préparation de mets de la cuisine sénégalaise."
+                    HPOS="42"
+                    VPOS="4004"
+                    WIDTH="3606"
+                    HEIGHT="230"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

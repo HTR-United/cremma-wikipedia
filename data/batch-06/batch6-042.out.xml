@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>batch6-042.out.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT5409" LABEL="text" DESCRIPTION="block type text"/><OtherTag ID="BT5407" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1834" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="4938"
+          HEIGHT="6992"
+          PHYSICAL_IMG_NR="41"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="4938"
+                  HEIGHT="6992">
+        
+        <TextBlock HPOS="0"
+                   VPOS="3635"
+                   WIDTH="4735"
+                   HEIGHT="587"
+                   ID="eSc_textblock_7f9445b4"
+                   TAGREFS="BT5407">
+          <Shape><Polygon POINTS="1149 3713 2327 3729 3201 3635 4658 3651 4735 3697 4735 3880 3974 4004 1554 4035 1398 4082 1301 4206 202 4222 139 4175 108 4115 0 3902 59 3726 829 3734"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_a7ef80f5"
+                    TAGREFS="LT1834"
+                    BASELINE="132 3896 1884 3892 3512 3841 4285 3841 4576 3810 4704 3822" 
+                    HPOS="128"
+                    VPOS="3674"
+                    WIDTH="4576"
+                    HEIGHT="303">
+            <Shape><Polygon POINTS="132 3896 132 3942 718 3934 769 3938 1072 3973 1076 3973 1212 3942 1324 3977 1328 3977 1332 3977 1336 3977 1491 3938 1658 3958 1662 3958 1802 3934 1927 3958 1930 3958 1934 3958 2047 3923 2152 3950 2156 3950 2160 3950 2280 3923 2432 3973 2435 3973 2439 3973 2968 3966 3154 3962 3158 3962 3317 3899 3329 3896 3527 3896 3531 3896 3683 3954 3686 3954 3690 3954 4001 3950 4141 3919 4203 3931 4207 3931 4211 3931 4328 3884 4331 3880 4704 3876 4704 3822 4701 3701 4634 3674 4631 3674 4627 3674 4460 3694 4320 3678 4316 3678 4312 3678 4238 3709 4129 3756 4032 3709 3978 3686 3974 3686 3970 3686 3966 3686 3881 3713 3846 3721 3826 3713 3772 3686 3768 3686 3764 3686 3415 3709 3100 3697 3096 3697 2983 3717 2964 3725 2960 3725 2851 3783 2389 3771 2385 3771 2381 3771 2338 3795 2016 3795 1930 3756 1927 3756 1923 3756 1919 3756 1829 3802 1670 3806 1468 3806 1324 3736 1320 3736 1317 3736 1313 3736 1177 3802 1080 3810 905 3736 897 3732 893 3732 889 3732 885 3732 878 3736 718 3818 644 3818 462 3740 454 3736 450 3736 446 3736 442 3736 431 3740 330 3783 240 3740 236 3740 233 3740 229 3740 128 3740 132 3896"/></Shape>
+	    <String CONTENT="Besleria leucostoma est une espèce végétale de la famille des"
+                    HPOS="128"
+                    VPOS="3674"
+                    WIDTH="4576"
+                    HEIGHT="303"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_46cc58ae"
+                    TAGREFS="LT1834"
+                    BASELINE="209 4156 753 4136 1309 4140" 
+                    HPOS="205"
+                    VPOS="4016"
+                    WIDTH="1104"
+                    HEIGHT="190">
+            <Shape><Polygon POINTS="209 4156 209 4206 761 4183 951 4202 982 4206 986 4206 990 4206 998 4202 1048 4179 1301 4199 1309 4140 1305 4074 1235 4074 1231 4070 1188 4032 1184 4032 1181 4032 1177 4032 1173 4032 1056 4063 1033 4067 1010 4059 936 4032 932 4032 928 4032 924 4032 920 4032 897 4055 874 4074 827 4051 823 4051 819 4051 815 4051 811 4051 780 4074 668 4074 629 4043 625 4035 621 4035 617 4035 613 4035 609 4035 598 4039 551 4063 532 4043 528 4043 524 4043 520 4043 516 4043 512 4043 512 4047 481 4070 400 4055 376 4032 365 4020 365 4016 361 4016 357 4016 353 4016 205 4020 209 4156"/></Shape>
+	    <String CONTENT="Gesneriaceae."
+                    HPOS="205"
+                    VPOS="4016"
+                    WIDTH="1104"
+                    HEIGHT="190"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

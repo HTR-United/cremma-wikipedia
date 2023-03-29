@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>batch6-043.out.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT5409" LABEL="text" DESCRIPTION="block type text"/><OtherTag ID="BT5407" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1834" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="4938"
+          HEIGHT="6992"
+          PHYSICAL_IMG_NR="42"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="4938"
+                  HEIGHT="6992">
+        
+        <TextBlock HPOS="0"
+                   VPOS="3701"
+                   WIDTH="4471"
+                   HEIGHT="583"
+                   ID="eSc_textblock_203d4058"
+                   TAGREFS="BT5407">
+          <Shape><Polygon POINTS="1149 3744 4425 3744 4471 3791 4456 3958 1942 4035 1616 4082 1550 4144 916 4160 695 4284 108 4284 0 4067 0 3701 1066 3701"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_47de9c70"
+                    TAGREFS="LT1834"
+                    BASELINE="73 3946 1748 3942 3422 3899 4440 3903" 
+                    HPOS="69"
+                    VPOS="3748"
+                    WIDTH="4371"
+                    HEIGHT="307">
+            <Shape><Polygon POINTS="73 3946 73 4039 415 4055 419 4055 423 4055 473 4035 594 3985 687 3997 691 3997 831 3973 951 4012 955 4012 959 4012 963 4012 1033 3977 1301 4020 1456 4043 1460 4043 1791 4039 1794 4039 1880 4008 1927 3993 1985 4008 2051 4024 2055 4024 2059 4024 2063 4024 2136 4004 2288 3966 2486 3985 2490 3985 2859 3962 2929 3989 2933 3989 2937 3989 2941 3989 3209 3946 3652 3950 3729 3977 3737 3977 3741 3977 3745 3977 3749 3977 3753 3977 3811 3954 3912 3973 3923 3973 3927 3977 3927 3973 3931 3973 3935 3973 4021 3938 4436 3962 4440 3903 4432 3818 4160 3818 4149 3814 3997 3748 3993 3748 3920 3748 3916 3748 3912 3748 3795 3814 3784 3818 3776 3814 3648 3752 3644 3752 3640 3752 3290 3756 3131 3760 3127 3760 3065 3787 2972 3771 2968 3771 2964 3771 2894 3806 2847 3833 2781 3806 2672 3764 2669 3764 2552 3764 2548 3764 2544 3764 2459 3806 2393 3837 1946 3814 1942 3814 1802 3849 1647 3849 1557 3802 1511 3779 1507 3779 1503 3779 1499 3779 1460 3798 1371 3853 1204 3853 1099 3798 1068 3783 1064 3783 1060 3783 1056 3783 1017 3798 878 3857 757 3861 637 3861 516 3795 501 3787 497 3787 493 3787 489 3787 470 3795 376 3833 275 3795 268 3791 264 3791 260 3791 69 3791 73 3946"/></Shape>
+	    <String CONTENT="Afribone est un fournisseur d&#x27;accès à Internet, créé"
+                    HPOS="69"
+                    VPOS="3748"
+                    WIDTH="4371"
+                    HEIGHT="307"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9a20b43f"
+                    TAGREFS="LT1834"
+                    BASELINE="132 4171 357 4168 551 4214 811 4206" 
+                    HPOS="122"
+                    VPOS="4037"
+                    WIDTH="688"
+                    HEIGHT="245">
+            <Shape><Polygon POINTS="128 4166 122 4253 314 4235 355 4270 361 4270 367 4270 798 4282 810 4201 810 4096 746 4049 740 4049 734 4049 513 4037 507 4037 501 4037 396 4078 384 4084 128 4072 128 4166"/></Shape>
+	    <String CONTENT="en 1999."
+                    HPOS="122"
+                    VPOS="4037"
+                    WIDTH="688"
+                    HEIGHT="245"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>batch6-040.out.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT5409" LABEL="text" DESCRIPTION="block type text"/><OtherTag ID="BT5407" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1834" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="4938"
+          HEIGHT="6992"
+          PHYSICAL_IMG_NR="39"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="4938"
+                  HEIGHT="6992">
+        
+        <TextBlock HPOS="0"
+                   VPOS="3680"
+                   WIDTH="4555"
+                   HEIGHT="480"
+                   ID="eSc_textblock_a626d554"
+                   TAGREFS="BT5407">
+          <Shape><Polygon POINTS="1103 3713 4423 3680 4555 3711 4531 3958 4487 3959 3077 3989 2917 4098 46 4160 0 4129 0 3712 1103 3712"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_d63373e4"
+                    TAGREFS="LT1834"
+                    BASELINE="46 3899 191 3909 1297 3872 2344 3872 2898 3855 3431 3877 4313 3823 4498 3849" 
+                    HPOS="34"
+                    VPOS="3699"
+                    WIDTH="4460"
+                    HEIGHT="292">
+            <Shape><Polygon POINTS="40 3898 40 3956 314 3991 320 3991 483 3956 559 3938 757 3950 1031 3967 1037 3967 1218 3944 1358 3927 1399 3944 1440 3962 1445 3962 1451 3962 1574 3938 1743 3909 2081 3933 2302 3950 2308 3950 2407 3933 2594 3892 2850 3892 2903 3927 2914 3933 2920 3933 2926 3933 2932 3933 3433 3927 3556 3915 4080 3868 4203 3909 4209 3909 4215 3909 4494 3903 4494 3845 4489 3729 4413 3705 4407 3705 4401 3705 3486 3746 3328 3752 3317 3752 3212 3699 3206 3699 3200 3699 3194 3699 3189 3699 3119 3752 3078 3752 2984 3758 2949 3752 2775 3729 2769 3729 2413 3764 2320 3769 2297 3764 2162 3723 2157 3723 2151 3723 2145 3723 2046 3769 2034 3769 2017 3769 1801 3729 1795 3729 1789 3729 1708 3769 1696 3781 1684 3775 1626 3734 1620 3734 1614 3734 1492 3734 1486 3734 1020 3752 1014 3752 1008 3752 961 3781 961 3787 956 3781 903 3746 897 3746 891 3746 886 3746 594 3752 588 3752 582 3752 524 3787 495 3810 466 3787 460 3781 454 3781 448 3781 443 3781 34 3793 40 3898"/></Shape>
+	    <String CONTENT="ADDIE ANDERSON WILSON (17 AOÛT 1876 - 8 OCTOBRE 1966) EST UNE COMPOSITRICE,"
+                    HPOS="34"
+                    VPOS="3699"
+                    WIDTH="4460"
+                    HEIGHT="292"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3821f942"
+                    TAGREFS="LT1834"
+                    BASELINE="47 4123 588 4110 795 4073 1095 4035 1640 4058 2325 4067 2933 4035" 
+                    HPOS="40"
+                    VPOS="3927"
+                    WIDTH="2892"
+                    HEIGHT="227">
+            <Shape><Polygon POINTS="46 4119 46 4154 822 4154 868 4148 1061 4096 2250 4084 2407 4113 2477 4125 2483 4125 2489 4125 2536 4113 2588 4096 2740 4107 2839 4113 2845 4113 2850 4113 2856 4113 2862 4101 2891 4084 2914 4101 2932 4032 2920 3944 2460 3927 2454 3927 2448 3927 2396 3956 2366 3967 2297 3956 2180 3938 2174 3938 2069 3962 2011 3973 1947 3967 1731 3933 1725 3933 1539 3962 1387 3938 1381 3938 1375 3938 1370 3938 1370 3944 1340 3967 798 3950 792 3950 787 3950 705 3997 693 4002 40 4008 46 4119"/></Shape>
+	    <String CONTENT="&gt;ORGANISTE&lt; ORGANISTE ET CARILLONNIESTE AMÉRICAINE"
+                    HPOS="40"
+                    VPOS="3927"
+                    WIDTH="2892"
+                    HEIGHT="227"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

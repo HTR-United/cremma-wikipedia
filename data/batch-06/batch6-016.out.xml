@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>batch6-016.out.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT5409" LABEL="text" DESCRIPTION="block type text"/><OtherTag ID="BT5407" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1834" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="4938"
+          HEIGHT="6992"
+          PHYSICAL_IMG_NR="15"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="4938"
+                  HEIGHT="6992">
+        
+        <TextBlock HPOS="264"
+                   VPOS="3785"
+                   WIDTH="1845"
+                   HEIGHT="344"
+                   ID="eSc_textblock_28f3f539"
+                   TAGREFS="BT5407">
+          <Shape><Polygon POINTS="1289 3837 2031 3837 2109 3884 2063 4051 1705 4113 341 4129 264 3896 301 3785 1065 3785"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_cd94398f"
+                    TAGREFS="LT1834"
+                    BASELINE="322 4039 1056 4024 2090 3966" 
+                    HPOS="314"
+                    VPOS="3845"
+                    WIDTH="1780"
+                    HEIGHT="295">
+            <Shape><Polygon POINTS="2074 3903 1993 3892 1989 3892 1985 3892 1981 3892 1981 3896 1969 3907 1950 3927 1903 3907 1767 3845 1763 3845 1759 3845 1756 3845 1752 3845 1686 3907 1658 3931 1616 3934 1546 3911 1542 3911 1538 3911 1534 3911 1530 3911 1468 3950 1355 3950 1266 3923 1262 3923 1258 3923 1254 3923 1251 3923 1196 3958 1006 3966 881 3931 878 3931 874 3931 870 3931 815 3954 777 3938 773 3938 769 3938 765 3938 761 3938 761 3942 757 3942 742 3966 625 3907 606 3896 602 3896 598 3896 314 3903 322 4039 322 4101 710 4094 738 4101 839 4140 843 4140 846 4140 897 4136 901 4136 905 4136 905 4133 944 4098 959 4086 1138 4098 1239 4101 1243 4101 1247 4101 1262 4094 1289 4082 1317 4094 1359 4113 1363 4113 1367 4113 1371 4113 1425 4094 1456 4082 1488 4094 1519 4101 1522 4101 1526 4101 1530 4101 1534 4101 1546 4090 1569 4074 1647 4090 1713 4101 1717 4101 1721 4101 1759 4090 1868 4051 1934 4086 1942 4090 1946 4090 1950 4090 2094 4082 2090 3966 2086 3950 2074 3903"/></Shape>
+	    <String CONTENT="Chicago; en anglais."
+                    HPOS="314"
+                    VPOS="3845"
+                    WIDTH="1780"
+                    HEIGHT="295"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
