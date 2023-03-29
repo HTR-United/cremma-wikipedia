@@ -3,12 +3,13 @@
 CREMMA - Wikipedia
 =====================
 
-
-![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg) 
+![files badge](badges/files.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![characters badge](badges/characters.svg)
 
 --- 
 
-[![CC BY 4.0][cc-by-shield]][cc-by]
+[![CC BY 4.0][cc-by-shield]][cc-by] 
+
+[![DOI](https://zenodo.org/badge/463581371.svg)](https://zenodo.org/badge/latestdoi/463581371)
 
 ## Description
 
