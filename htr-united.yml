@@ -536,7 +536,7 @@ institutions:
     roles:
     - support
 description: >-
-  The WikiCremma projet aims at creating a collection of ground truth to train
+  The CREMMA-WIKIPEDIA project aims at creating a collection of ground truth to train
   HTR models on contemporary French handwriting.
 
 
