@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>DOC300822-30082022181103-13.out.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4428" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1454" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1653"
+          HEIGHT="2339"
+          PHYSICAL_IMG_NR="26"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1653"
+                  HEIGHT="2339">
+        
+        <TextBlock HPOS="0"
+                   VPOS="1177"
+                   WIDTH="1215"
+                   HEIGHT="173"
+                   ID="eSc_textblock_10d9808a"
+                   TAGREFS="BT4428">
+          <Shape><Polygon POINTS="1203 1177 1215 1297 0 1350 0 1220 344 1226 637 1199"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_2c410a9e"
+                    TAGREFS="LT1454"
+                    BASELINE="46 1282 713 1255 1186 1245" 
+                    HPOS="40"
+                    VPOS="1198"
+                    WIDTH="1145"
+                    HEIGHT="117">
+            <Shape><Polygon POINTS="44 1280 44 1315 153 1313 155 1313 159 1311 218 1286 304 1286 335 1302 343 1305 345 1305 346 1307 385 1307 385 1305 467 1296 524 1288 538 1292 553 1296 555 1296 557 1296 559 1296 561 1296 567 1290 575 1282 674 1272 730 1272 746 1280 766 1292 768 1292 769 1292 771 1292 773 1292 818 1276 845 1266 933 1268 933 1270 953 1286 955 1286 957 1286 959 1286 961 1286 962 1286 962 1284 964 1284 970 1276 1062 1282 1064 1282 1066 1282 1122 1259 1185 1255 1185 1243 1183 1214 1132 1200 1130 1200 1128 1200 1126 1200 1124 1200 1124 1202 1122 1202 1113 1214 1113 1216 1081 1216 1079 1216 1052 1198 1050 1198 1048 1198 1046 1198 1044 1198 1042 1198 1042 1200 1025 1216 974 1204 972 1204 970 1204 968 1204 953 1218 949 1220 908 1218 836 1214 834 1214 832 1214 818 1220 805 1224 787 1220 738 1208 736 1208 693 1210 691 1210 690 1210 672 1222 658 1229 612 1224 573 1218 571 1218 569 1218 567 1218 567 1220 561 1224 551 1231 539 1224 528 1216 526 1216 524 1216 522 1216 520 1216 518 1216 506 1224 487 1237 463 1237 452 1226 446 1222 446 1220 444 1220 442 1220 440 1220 403 1226 327 1241 309 1227 307 1227 306 1227 304 1227 302 1227 300 1227 267 1241 253 1229 249 1226 247 1226 245 1226 243 1226 224 1229 187 1237 165 1229 161 1229 159 1229 157 1229 155 1229 153 1229 153 1231 142 1243 122 1231 120 1229 118 1229 116 1229 115 1229 40 1231 44 1280"/></Shape>
+	    <String CONTENT="Benjamin Baroche, né le 22 mars 1971, est un acteur français."
+                    HPOS="40"
+                    VPOS="1198"
+                    WIDTH="1145"
+                    HEIGHT="117"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

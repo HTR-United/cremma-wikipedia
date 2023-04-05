@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>DOC300822-30082022181103-04.out.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4428" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1454" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1653"
+          HEIGHT="2339"
+          PHYSICAL_IMG_NR="35"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1653"
+                  HEIGHT="2339">
+        
+        <TextBlock HPOS="78"
+                   VPOS="1205"
+                   WIDTH="1477"
+                   HEIGHT="184"
+                   ID="eSc_textblock_3f87a5cb"
+                   TAGREFS="BT4428">
+          <Shape><Polygon POINTS="78 1232 81 1368 681 1389 728 1387 1555 1359 1555 1205"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_f4545e0a"
+                    TAGREFS="LT1454"
+                    BASELINE="132 1311 719 1300 1426 1291 1535 1296" 
+                    HPOS="128"
+                    VPOS="1188"
+                    WIDTH="1406"
+                    HEIGHT="172">
+            <Shape><Polygon POINTS="132 1354 189 1325 346 1325 419 1348 458 1360 460 1360 461 1360 582 1358 584 1358 612 1344 615 1342 619 1344 649 1358 651 1358 653 1358 783 1356 785 1356 820 1341 877 1315 951 1327 953 1327 1046 1317 1089 1335 1128 1350 1130 1350 1132 1352 1196 1352 1196 1350 1198 1350 1200 1350 1230 1333 1261 1313 1315 1309 1436 1307 1532 1325 1534 1294 1530 1255 1443 1224 1413 1231 1380 1227 1378 1227 1376 1227 1290 1227 1288 1227 1286 1227 1284 1227 1251 1253 1241 1261 1148 1261 1140 1253 1113 1229 1111 1229 1109 1229 1107 1229 1105 1229 1058 1253 1042 1261 1025 1253 984 1235 982 1235 980 1235 978 1235 976 1235 976 1237 957 1253 945 1265 956 1188 906 1204 888 1233 886 1233 884 1233 849 1233 847 1233 845 1233 844 1233 844 1235 822 1253 808 1265 748 1255 746 1255 744 1255 725 1263 713 1253 693 1235 691 1235 690 1235 688 1235 596 1237 594 1237 592 1237 575 1253 559 1265 539 1253 514 1239 512 1239 473 1239 471 1239 469 1239 442 1253 405 1270 368 1253 348 1243 346 1243 345 1243 343 1243 341 1243 331 1253 306 1272 249 1272 216 1253 202 1243 200 1243 198 1243 196 1243 128 1251 130 1309"/></Shape>
+	    <String CONTENT="Chlmec est un village de Slovaquie situé dans la région de Prešov."
+                    HPOS="128"
+                    VPOS="1188"
+                    WIDTH="1406"
+                    HEIGHT="172"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

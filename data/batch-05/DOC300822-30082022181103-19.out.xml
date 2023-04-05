@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>DOC300822-30082022181103-19.out.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4428" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1454" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1653"
+          HEIGHT="2339"
+          PHYSICAL_IMG_NR="20"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1653"
+                  HEIGHT="2339">
+        
+        <TextBlock HPOS="0"
+                   VPOS="1331"
+                   WIDTH="1653"
+                   HEIGHT="294"
+                   ID="eSc_textblock_daa7f39c"
+                   TAGREFS="BT4428">
+          <Shape><Polygon POINTS="1653 1331 1653 1622 0 1625 0 1337 7 1337 7 1344 375 1341 520 1333"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_d20e7f6e"
+                    TAGREFS="LT1454"
+                    BASELINE="25 1383 596 1374 1637 1385" 
+                    HPOS="25"
+                    VPOS="1333"
+                    WIDTH="1612"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="1623 1346 1621 1346 1604 1346 1584 1346 1582 1346 1575 1350 1465 1350 1454 1344 1448 1344 1428 1342 1415 1342 1378 1348 1356 1342 1350 1342 1331 1341 1323 1341 1257 1348 1251 1348 1249 1348 1228 1339 1214 1339 1212 1339 1198 1346 957 1337 955 1337 873 1346 871 1346 867 1346 775 1335 442 1335 440 1335 438 1335 417 1344 389 1333 387 1333 385 1333 356 1333 356 1335 337 1335 323 1335 25 1342 25 1383 25 1391 1635 1389 1637 1385 1635 1374 1623 1346"/></Shape>
+	    <String CONTENT="Pirates des Caraïbes (Pirates of the Caribbean) est une franchise de médias cinématographique sur la piraterie produite"
+                    HPOS="25"
+                    VPOS="1333"
+                    WIDTH="1612"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d531aae4"
+                    TAGREFS="LT1454"
+                    BASELINE="25 1426 758 1418 1165 1432 1588 1432" 
+                    HPOS="23"
+                    VPOS="1378"
+                    WIDTH="1565"
+                    HEIGHT="64">
+            <Shape><Polygon POINTS="1563 1385 1551 1385 1536 1393 1298 1393 1280 1381 1270 1381 1257 1393 1113 1393 1072 1380 1056 1380 1052 1380 992 1391 974 1380 959 1380 953 1378 863 1389 711 1378 709 1378 707 1378 705 1378 691 1389 678 1378 676 1378 674 1378 471 1378 452 1378 432 1378 413 1378 393 1378 374 1378 368 1378 341 1391 253 1380 237 1381 222 1381 202 1389 128 1381 120 1383 101 1383 81 1383 76 1383 23 1393 25 1426 25 1442 85 1430 146 1442 148 1442 150 1442 152 1442 153 1442 169 1432 249 1440 251 1440 385 1430 816 1430 857 1440 867 1442 869 1442 871 1442 873 1442 881 1440 908 1432 988 1440 1025 1442 1027 1442 1586 1436 1588 1432 1586 1391 1573 1385 1563 1385"/></Shape>
+	    <String CONTENT="par Jerry Bruckheimer et Walt Disney Pictures. Elle est composée de cinq films, sortis entre 1003 et 2017. Le"
+                    HPOS="23"
+                    VPOS="1378"
+                    WIDTH="1565"
+                    HEIGHT="64"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_57326669"
+                    TAGREFS="LT1454"
+                    BASELINE="19 1473 1528 1483" 
+                    HPOS="17"
+                    VPOS="1428"
+                    WIDTH="1511"
+                    HEIGHT="63">
+            <Shape><Polygon POINTS="1206 1434 1204 1434 1202 1434 1029 1444 1021 1444 1001 1434 999 1434 998 1434 996 1434 970 1444 955 1434 953 1434 951 1434 949 1434 947 1434 925 1444 923 1444 922 1444 875 1432 873 1432 871 1432 869 1432 867 1432 851 1442 768 1432 766 1432 701 1442 674 1432 672 1432 670 1432 668 1432 666 1432 654 1442 623 1430 621 1430 619 1430 483 1440 452 1430 450 1430 448 1430 446 1430 421 1440 364 1430 362 1430 360 1430 358 1430 348 1440 309 1428 307 1428 306 1428 304 1428 274 1438 89 1428 87 1428 33 1438 19 1473 17 1489 1524 1491 1528 1483 1526 1448 1413 1436 1411 1436 1368 1446 1366 1446 1350 1436 1348 1436 1346 1436 1345 1436 1241 1446 1228 1446 1226 1446 1208 1434 1206 1434"/></Shape>
+	    <String CONTENT="premier film reprend la thématique de l&#x27;attraction très populaire Pirates of the Caribbean ouverte en 1967 à"
+                    HPOS="17"
+                    VPOS="1428"
+                    WIDTH="1511"
+                    HEIGHT="63"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_53f3996a"
+                    TAGREFS="LT1454"
+                    BASELINE="17 1528 1557 1528" 
+                    HPOS="17"
+                    VPOS="1485"
+                    WIDTH="1540"
+                    HEIGHT="58">
+            <Shape><Polygon POINTS="17 1528 17 1543 1557 1543 1557 1528 1557 1495 1530 1485 1528 1485 1526 1485 1524 1485 1499 1495 1430 1485 1428 1485 1366 1495 1364 1495 1335 1485 1333 1485 1331 1485 1278 1495 1272 1495 1268 1495 1206 1485 1204 1485 1202 1485 1181 1495 1179 1495 1175 1495 1132 1485 1130 1485 1072 1493 1058 1496 962 1496 959 1493 949 1485 947 1485 945 1485 943 1485 941 1485 939 1485 927 1493 925 1495 920 1493 896 1485 894 1485 892 1485 890 1485 888 1485 879 1493 875 1495 857 1493 807 1485 805 1485 762 1493 744 1495 729 1491 695 1485 693 1485 691 1485 666 1491 651 1495 631 1491 596 1485 594 1485 561 1491 538 1495 518 1491 495 1485 493 1485 491 1485 446 1491 405 1496 333 1496 325 1489 321 1485 319 1485 317 1485 315 1485 280 1489 237 1495 17 1489 17 1528"/></Shape>
+	    <String CONTENT="Disneyland, en Californie, et utilisant le système audio-animatronic. La franchise suit les aventures du"
+                    HPOS="17"
+                    VPOS="1485"
+                    WIDTH="1540"
+                    HEIGHT="58"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7db4a041"
+                    TAGREFS="LT1454"
+                    BASELINE="15 1576 857 1584" 
+                    HPOS="13"
+                    VPOS="1530"
+                    WIDTH="844"
+                    HEIGHT="83">
+            <Shape><Polygon POINTS="220 1530 218 1530 216 1530 214 1530 189 1541 77 1530 76 1530 15 1539 15 1576 13 1606 130 1608 132 1608 134 1608 138 1606 163 1594 192 1606 194 1606 196 1606 198 1606 200 1606 200 1604 212 1594 319 1594 335 1606 337 1608 339 1608 341 1608 343 1608 356 1606 403 1598 422 1606 438 1611 440 1611 442 1611 444 1611 456 1606 469 1598 497 1606 518 1611 520 1611 522 1611 524 1611 526 1611 536 1606 547 1598 565 1606 576 1610 578 1610 580 1610 604 1606 633 1600 742 1600 748 1606 756 1611 756 1613 758 1613 760 1613 762 1613 855 1604 857 1584 855 1549 791 1535 789 1535 732 1547 730 1547 729 1547 705 1535 703 1535 701 1535 699 1535 697 1535 697 1537 688 1547 686 1549 649 1549 643 1547 598 1533 596 1533 594 1533 456 1545 438 1545 428 1545 354 1532 352 1532 290 1543 286 1543 284 1543 257 1532 255 1532 253 1532 251 1532 249 1532 231 1541 224 1532 222 1532 222 1530 220 1530"/></Shape>
+	    <String CONTENT="capitaine pirate Jack Sparrow, interprété par Johnny Depp"
+                    HPOS="13"
+                    VPOS="1530"
+                    WIDTH="844"
+                    HEIGHT="83"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

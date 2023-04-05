@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>DOC300822-30082022181103-27.out.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4428" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1454" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1653"
+          HEIGHT="2339"
+          PHYSICAL_IMG_NR="12"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1653"
+                  HEIGHT="2339">
+        
+        <TextBlock HPOS="0"
+                   VPOS="1229"
+                   WIDTH="1483"
+                   HEIGHT="222"
+                   ID="eSc_textblock_19fb3ce7"
+                   TAGREFS="BT4428">
+          <Shape><Polygon POINTS="1483 1451 1483 1229 0 1229 0 1451"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_37e97df7"
+                    TAGREFS="LT1454"
+                    BASELINE="21 1294 1399 1284" 
+                    HPOS="19"
+                    VPOS="1218"
+                    WIDTH="1380"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="1364 1229 1345 1224 1341 1222 1329 1233 1309 1218 1307 1218 1306 1218 1189 1218 1169 1218 1150 1218 1130 1218 1122 1218 1120 1218 1118 1218 1093 1229 1085 1222 1083 1222 1081 1222 1079 1222 1077 1222 1076 1222 1052 1243 1046 1249 1019 1249 1013 1243 986 1220 984 1220 982 1220 980 1220 920 1229 881 1222 877 1222 863 1222 842 1241 769 1224 768 1224 766 1224 764 1224 744 1241 732 1249 686 1239 678 1239 676 1239 660 1239 506 1251 485 1237 471 1229 467 1229 456 1229 444 1237 419 1253 210 1253 189 1235 181 1227 179 1227 177 1227 175 1227 173 1227 159 1233 128 1251 109 1233 99 1226 97 1226 95 1226 93 1226 91 1226 74 1233 66 1237 62 1233 52 1226 50 1226 48 1226 46 1226 44 1226 19 1231 21 1294 21 1309 83 1303 95 1311 103 1317 105 1317 107 1317 109 1317 189 1311 228 1307 233 1309 243 1317 245 1317 247 1317 249 1317 366 1315 426 1307 483 1302 549 1307 633 1313 635 1313 637 1313 639 1313 639 1311 647 1305 654 1300 750 1305 877 1311 879 1311 916 1303 941 1298 976 1302 1015 1307 1017 1307 1081 1302 1120 1298 1130 1302 1153 1309 1155 1309 1157 1309 1296 1300 1323 1298 1331 1300 1370 1309 1372 1309 1374 1309 1376 1309 1399 1298 1399 1284 1397 1245 1378 1233 1364 1229"/></Shape>
+	    <String CONTENT="Hyloxalus parcus est une espèce d&#x27;amphibien de la famille des"
+                    HPOS="19"
+                    VPOS="1218"
+                    WIDTH="1380"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b1d8b35d"
+                    TAGREFS="LT1454"
+                    BASELINE="54 1368 413 1368" 
+                    HPOS="54"
+                    VPOS="1302"
+                    WIDTH="359"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="54 1368 54 1389 128 1397 130 1397 155 1393 191 1385 204 1393 208 1397 210 1397 212 1397 214 1397 216 1397 230 1393 263 1385 294 1395 300 1397 302 1397 304 1399 413 1399 413 1368 413 1329 350 1329 348 1325 325 1303 325 1302 323 1302 321 1302 319 1302 317 1302 315 1302 292 1315 278 1303 278 1302 276 1302 274 1302 272 1302 270 1302 269 1302 269 1303 253 1319 220 1302 218 1302 216 1302 214 1302 212 1302 212 1303 196 1319 187 1329 169 1329 159 1317 150 1309 150 1307 148 1307 146 1307 144 1307 142 1307 140 1307 140 1309 132 1315 124 1323 116 1315 103 1303 103 1302 101 1302 99 1302 97 1302 95 1302 54 1311 54 1368"/></Shape>
+	    <String CONTENT="Dendrobatidae."
+                    HPOS="54"
+                    VPOS="1302"
+                    WIDTH="359"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
