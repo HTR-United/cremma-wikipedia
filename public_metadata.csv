@@ -1,206 +1,305 @@
 ,filename,batch_nb,writer_name,hand,gender,writing_tool,writing_color,writing_thickness,extra_comment
-0,batch2-01.out.png,2,AW0107,right-handed,female,gel pen / ink pen / fountain pen,black,regular,N/A
-1,batch2-02.out.png,2,AW0185,right-handed,male,ball point pen,red,regular,N/A
-2,batch2-03.out.png,2,AW0029,right-handed,female,gel pen / ink pen / fountain pen,black,regular,N/A
-3,batch2-04.out.png,2,AW0053,right-handed,female,gel pen / ink pen / fountain pen,blue,regular,N/A
-4,batch2-05.out.png,2,AW0139,right-handed,female,marker pen,red,thick,N/A
-5,batch2-06.out.png,2,AW0007,unknown,unknown,ball point pen,black,thin,N/A
-6,batch2-07.out.png,2,AW0107,right-handed,female,ball point pen,black,regular,N/A
-7,batch2-08.out.png,2,AW0185,right-handed,male,marker pen,black,regular,N/A
-8,batch2-09.out.png,2,AW0185,right-handed,male,marker pen,black,regular,N/A
-9,batch2-10.out.png,2,AW0185,right-handed,male,marker pen,black,regular,N/A
-10,batch2-11.out.png,2,AW0139,left-handed,female,marker pen,turquoise,thick,not born left-handed
-11,batch2-12.out.png,2,AW0079,right-handed,female,ball point pen,black,thin,N/A
-12,batch2-13.out.png,2,AW0189,unknown,unknown,ball point pen,black,regular,N/A
-13,batch2-14.out.png,2,AW0019,right-handed,female,ball point pen,blue,thin,N/A
-14,batch2-15.out.png,2,AW0013,right-handed,female,gel pen / ink pen / fountain pen,black,regular,N/A
-15,batch2-16.out.png,2,AW0089,unknown,unknown,gel pen / ink pen / fountain pen,black,thin,N/A
-16,batch2-17.out.png,2,AW0147,right-handed,female,ball point pen,black,thin,N/A
-17,batch2-18.out.png,2,AW0147,right-handed,female,ball point pen,black,thin,N/A
-18,batch2-19.out.png,2,AW0147,right-handed,female,ball point pen,black,thin,N/A
-19,batch2-20.out.png,2,AW0147,right-handed,female,ball point pen,black,thin,N/A
-20,batch2-21.out.png,2,AW0113,right-handed,female,marker pen,red,thick,N/A
-21,batch2-22.out.png,2,AW0013,right-handed,female,ball point pen,black,regular,N/A
-22,batch2-23.out.png,2,AW0013,right-handed,female,ball point pen,black,regular,N/A
-23,batch2-24.out.png,2,AW0167,unknown,unknown,ball point pen,black,regular,sort of mixes lower and upper cases
-24,batch2-25.out.png,2,AW0053,right-handed,female,gel pen / ink pen / fountain pen,blue,regular,N/A
-25,batch2-26.out.png,2,AW0033,right-handed,female,ball point pen,brown,regular,N/A
-26,batch2-27.out.png,2,AW0107,right-handed,female,gel pen / ink pen / fountain pen,red,regular,N/A
-27,batch2-28.out.png,2,AW0139,right-handed,female,gel pen / ink pen / fountain pen,black,regular,N/A
-28,batch2-29.out.png,2,AW0123,right-handed,female,ball point pen,pink / purple,regular,N/A
-29,batch2-30.out.png,2,AW0033,right-handed,female,ball point pen,brown,regular,N/A
-30,batch2-31.out.png,2,AW0003,left-handed,female,ball point pen,black,thin,N/A
-31,batch2-32.out.png,2,AW0141,right-handed,female,pencil / mechanical pencil,gray (pencil),regular,uses upper case letters for all letters
-32,batch2-33.out.png,2,AW0053,right-handed,female,gel pen / ink pen / fountain pen,blue,regular,N/A
-33,batch2-34.out.png,2,AW0053,right-handed,female,gel pen / ink pen / fountain pen,blue,regular,N/A
-34,batch2-35.out.png,2,AW0107,right-handed,female,pencil / mechanical pencil,gray (pencil),regular,N/A
-35,batch2-36.out.png,2,AW0003,left-handed,female,ball point pen,black,thin,N/A
-36,batch2-37.out.png,2,AW0123,right-handed,female,ball point pen,pink / purple,regular,N/A
-37,batch2-38.out.png,2,AW0041,right-handed,unknown,gel pen / ink pen / fountain pen,black,regular,N/A
-38,batch2-39.out.png,2,AW0145,right-handed,unknown,gel pen / ink pen / fountain pen,black,regular,sort of mixes lower and upper cases
-39,batch2-40.out.png,2,AW0145,right-handed,unknown,gel pen / ink pen / fountain pen,black,regular,sort of mixes lower and upper cases
-40,batch2-41.out.png,2,AW0019,right-handed,female,ball point pen,blue,thin,N/A
-41,batch2-42.out.png,2,AW0029,right-handed,female,gel pen / ink pen / fountain pen,black,regular,N/A
-42,batch2-43.out.png,2,AW0019,right-handed,female,ball point pen,blue,thin,N/A
-43,batch2-44.out.png,2,AW0019,right-handed,female,ball point pen,blue,thin,N/A
-44,batch2-45.out.png,2,AW0019,right-handed,female,ball point pen,blue,thin,N/A
-45,batch2-46.out.png,2,AW0019,right-handed,female,ball point pen,blue,thin,N/A
-46,batch2-47.out.png,2,AW0019,right-handed,female,ball point pen,blue,thin,N/A
-47,batch2-48.out.png,2,AW0019,right-handed,female,ball point pen,blue,thin,N/A
-48,batch2-49.out.png,2,AW0029,right-handed,female,gel pen / ink pen / fountain pen,black,regular,N/A
-49,batch2-50.out.png,2,AW0029,right-handed,female,gel pen / ink pen / fountain pen,black,regular,N/A
-50,batch2-51.out.png,2,AW0029,right-handed,female,gel pen / ink pen / fountain pen,black,regular,N/A
-51,batch2-52.out.png,2,AW0125,left-handed,male,ball point pen,black,regular,N/A
-52,batch2-53.out.png,2,AW0125,left-handed,male,ball point pen,black,regular,N/A
-53,batch2-54.out.png,2,AW0125,left-handed,male,ball point pen,black,regular,N/A
-54,batch2-55.out.png,2,AW0125,left-handed,male,ball point pen,black,regular,large section struck out
-55,batch2-56.out.png,2,AW0029,right-handed,female,gel pen / ink pen / fountain pen,black,regular,N/A
-56,batch2-57.out.png,2,AW0029,right-handed,female,gel pen / ink pen / fountain pen,black,regular,N/A
-57,batch2-58.out.png,2,AW0019,right-handed,female,ball point pen,blue,thin,N/A
-58,batch2-59.out.png,2,AW0141,right-handed,female,ball point pen,black,thin,uses upper case letters for all letters
-59,batch2-60.out.png,2,AW0037,right-handed,female,ball point pen,black,regular,N/A
-60,batch2-61.out.png,2,AW0037,right-handed,female,ball point pen,black,regular,N/A
-61,batch3_01.out.png,3,AW0029,right-handed,female,pencil / mechanical pencil,gray (pencil),regular,N/A
-62,batch3_02.out.png,3,AW0193,unknown,unknown,pencil / mechanical pencil,gray (pencil),regular,N/A
-63,batch3_03.out.png,3,AW0061,right-handed,male,pencil / mechanical pencil,gray (pencil),regular,partially erased
-64,batch3_04.out.png,3,AW0161,right-handed,male,pencil / mechanical pencil,gray (pencil),regular,N/A
-65,batch3_05.out.png,3,AW0073,right-handed,female,pencil / mechanical pencil,gray (pencil),regular,N/A
-66,batch3_06.out.png,3,AW0177,right-handed,male,pencil / mechanical pencil,gray (pencil),regular,N/A
-67,batch3_07.out.png,3,AW0091,right-handed,female,pencil / mechanical pencil,gray (pencil),regular,N/A
-68,batch3_08.out.png,3,AW0187,right-handed,male,pencil / mechanical pencil,gray (pencil),regular,N/A
-69,batch3_09.out.png,3,AW0103,unknown,unknown,pencil / mechanical pencil,gray (pencil),regular,N/A
-70,batch3_10.out.png,3,AW0073,right-handed,female,pencil / mechanical pencil,gray (pencil),regular,N/A
-71,batch3_11.out.png,3,AW0095,right-handed,female,pencil / mechanical pencil,gray (pencil),regular,N/A
-72,batch3_12.out.png,3,AW0005,right-handed,male,ball point pen,blue,regular,N/A
-73,batch3_13.out.png,3,AW0173,unknown,unknown,ball point pen,blue,regular,N/A
-74,batch3_14.out.png,3,AW0073,right-handed,female,ball point pen,blue,regular,N/A
-75,batch3_15.out.png,3,AW0061,right-handed,male,ball point pen,blue,regular,N/A
-76,batch3_16.out.png,3,AW0061,right-handed,male,ball point pen,blue,regular,N/A
-77,batch3_17.out.png,3,AW0061,right-handed,male,ball point pen,blue,regular,N/A
-78,batch3_18.out.png,3,AW0165,right-handed,female,ball point pen,blue,regular,N/A
-79,batch3_19.out.png,3,AW0071,right-handed,female,ball point pen,blue,regular,N/A
-80,batch3_20.out.png,3,AW0025,unknown,unknown,ball point pen,blue,regular,N/A
-81,batch3_21.out.png,3,AW0061,right-handed,male,ball point pen,blue,regular,N/A
-82,batch3_22.out.png,3,AW0163,unknown,unknown,ball point pen,blue,regular,N/A
-83,batch3_23.out.png,3,AW0071,left-handed,female,ball point pen,blue,regular,not born left-handed
-84,batch3_24.out.png,3,AW0165,right-handed,female,ball point pen,blue,regular,N/A
-85,batch3_25.out.png,3,AW0165,right-handed,female,ball point pen,blue,regular,N/A
-86,batch3_26.out.png,3,AW0165,right-handed,female,ball point pen,blue,regular,N/A
-87,batch3_27.out.png,3,AW0165,right-handed,female,ball point pen,blue,regular,N/A
-88,batch3_28.out.png,3,AW0043,right-handed,female,ball point pen,blue,regular,N/A
-89,batch3_29.out.png,3,AW0127,right-handed,female,ball point pen,blue,regular,N/A
-90,batch3_30.out.png,3,AW0183,left-handed,male,ball point pen,blue,regular,N/A
-91,batch3_31.out.png,3,AW0183,left-handed,male,ball point pen,blue,regular,N/A
-92,batch3_32.out.png,3,AW0155,right-handed,male,ball point pen,blue,regular,N/A
-93,batch3_33.out.png,3,AW0127,right-handed,female,ball point pen,blue,regular,N/A
-94,batch3_34.out.png,3,AW0197,right-handed,female,ball point pen,blue,regular,N/A
-95,batch3_35.out.png,3,AW0119,unknown,unknown,ball point pen,blue,regular,N/A
-96,batch3_36.out.png,3,AW0129,right-handed,male,ball point pen,blue,regular,N/A
-97,batch3_37.out.png,3,AW0069,right-handed,female,ball point pen,blue,regular,N/A
-98,batch3_38.out.png,3,AW0127,right-handed,female,ball point pen,blue,regular,N/A
-99,batch3_39.out.png,3,AW0071,right-handed,female,ball point pen,blue,regular,N/A
-100,batch3_40.out.png,3,AW0043,right-handed,female,ball point pen,blue,regular,N/A
-101,batch3_41.out.png,3,AW0155,right-handed,male,ball point pen,blue,regular,N/A
-102,batch3_42.out.png,3,AW0155,right-handed,male,ball point pen,blue,regular,N/A
-103,batch3_43.out.png,3,AW0029,right-handed,female,ball point pen,black,regular,N/A
-104,batch3_44.out.png,3,AW0043,right-handed,female,ball point pen,black,regular,N/A
+0,batch1_03.out.png,1,AW0065,left-handed,female,ball point pen,blue,regular,N/A
+1,batch1_09.out.png,1,AW0230,right-handed,female,ball point pen,black,regular,N/A
+2,batch1_02.out.png,1,AW0104,left-handed,female,ball point pen,black,regular,N/A
+3,batch1_08.out.png,1,AW0152,right-handed,female,gel pen / ink pen / fountain pen,blue,regular,N/A
+4,batch1_04.out.png,1,AW0057,right-handed,female,gel pen / ink pen / fountain pen,blue,regular,N/A
+5,batch1_06.out.png,1,AW0138,right-handed,other,ball point pen,blue,regular,N/A
+6,batch1_10.out.png,1,AW0208,right-handed,female,gel pen / ink pen / fountain pen,blue,regular,N/A
+7,batch1_01.out.png,1,AW0108,right-handed,male,ball point pen,blue,regular,N/A
+8,batch1_05.out.png,1,AW0156,right-handed,female,gel pen / ink pen / fountain pen,blue,regular,N/A
+9,batch1_07.out.png,1,AW0134,unknown,unknown,ball point pen,blue,regular,N/A
+10,batch2-03.out.png,2,AW0029,right-handed,female,gel pen / ink pen / fountain pen,black,regular,N/A
+11,batch2-42.out.png,2,AW0029,right-handed,female,gel pen / ink pen / fountain pen,black,regular,N/A
+12,batch2-49.out.png,2,AW0029,right-handed,female,gel pen / ink pen / fountain pen,black,regular,N/A
+13,batch2-50.out.png,2,AW0029,right-handed,female,gel pen / ink pen / fountain pen,black,regular,N/A
+14,batch2-51.out.png,2,AW0029,right-handed,female,gel pen / ink pen / fountain pen,black,regular,N/A
+15,batch2-56.out.png,2,AW0029,right-handed,female,gel pen / ink pen / fountain pen,black,regular,N/A
+16,batch2-57.out.png,2,AW0029,right-handed,female,gel pen / ink pen / fountain pen,black,regular,N/A
+17,batch2-39.out.png,2,AW0145,right-handed,unknown,gel pen / ink pen / fountain pen,black,regular,sort of mixes lower and upper cases
+18,batch2-40.out.png,2,AW0145,right-handed,unknown,gel pen / ink pen / fountain pen,black,regular,sort of mixes lower and upper cases
+19,batch2-15.out.png,2,AW0013,right-handed,female,gel pen / ink pen / fountain pen,black,regular,N/A
+20,batch2-22.out.png,2,AW0013,right-handed,female,ball point pen,black,regular,N/A
+21,batch2-23.out.png,2,AW0013,right-handed,female,ball point pen,black,regular,N/A
+22,batch2-29.out.png,2,AW0123,right-handed,female,ball point pen,pink / purple,regular,N/A
+23,batch2-37.out.png,2,AW0123,right-handed,female,ball point pen,pink / purple,regular,N/A
+24,batch2-31.out.png,2,AW0003,left-handed,female,ball point pen,black,thin,N/A
+25,batch2-36.out.png,2,AW0003,left-handed,female,ball point pen,black,thin,N/A
+26,batch2-05.out.png,2,AW0139,right-handed,female,marker pen,red,thick,N/A
+27,batch2-11.out.png,2,AW0139,left-handed,female,marker pen,turquoise,thick,not born left-handed
+28,batch2-28.out.png,2,AW0139,right-handed,female,gel pen / ink pen / fountain pen,black,regular,N/A
+29,batch2-04.out.png,2,AW0053,right-handed,female,gel pen / ink pen / fountain pen,blue,regular,N/A
+30,batch2-25.out.png,2,AW0053,right-handed,female,gel pen / ink pen / fountain pen,blue,regular,N/A
+31,batch2-33.out.png,2,AW0053,right-handed,female,gel pen / ink pen / fountain pen,blue,regular,N/A
+32,batch2-34.out.png,2,AW0053,right-handed,female,gel pen / ink pen / fountain pen,blue,regular,N/A
+33,batch2-02.out.png,2,AW0185,right-handed,male,ball point pen,red,regular,N/A
+34,batch2-08.out.png,2,AW0185,right-handed,male,marker pen,black,regular,N/A
+35,batch2-09.out.png,2,AW0185,right-handed,male,marker pen,black,regular,N/A
+36,batch2-10.out.png,2,AW0185,right-handed,male,marker pen,black,regular,N/A
+37,batch2-60.out.png,2,AW0037,right-handed,female,ball point pen,black,regular,N/A
+38,batch2-61.out.png,2,AW0037,right-handed,female,ball point pen,black,regular,N/A
+39,batch2-32.out.png,2,AW0141,right-handed,female,pencil / mechanical pencil,gray (pencil),regular,uses upper case letters for all letters
+40,batch2-59.out.png,2,AW0141,right-handed,female,ball point pen,black,thin,uses upper case letters for all letters
+41,batch2-21.out.png,2,AW0113,right-handed,female,marker pen,red,thick,N/A
+42,batch2-38.out.png,2,AW0041,right-handed,unknown,gel pen / ink pen / fountain pen,black,regular,N/A
+43,batch2-14.out.png,2,AW0019,right-handed,female,ball point pen,blue,thin,N/A
+44,batch2-41.out.png,2,AW0019,right-handed,female,ball point pen,blue,thin,N/A
+45,batch2-43.out.png,2,AW0019,right-handed,female,ball point pen,blue,thin,N/A
+46,batch2-44.out.png,2,AW0019,right-handed,female,ball point pen,blue,thin,N/A
+47,batch2-45.out.png,2,AW0019,right-handed,female,ball point pen,blue,thin,N/A
+48,batch2-46.out.png,2,AW0019,right-handed,female,ball point pen,blue,thin,N/A
+49,batch2-47.out.png,2,AW0019,right-handed,female,ball point pen,blue,thin,N/A
+50,batch2-48.out.png,2,AW0019,right-handed,female,ball point pen,blue,thin,N/A
+51,batch2-58.out.png,2,AW0019,right-handed,female,ball point pen,blue,thin,N/A
+52,batch2-17.out.png,2,AW0147,right-handed,female,ball point pen,black,thin,N/A
+53,batch2-18.out.png,2,AW0147,right-handed,female,ball point pen,black,thin,N/A
+54,batch2-19.out.png,2,AW0147,right-handed,female,ball point pen,black,thin,N/A
+55,batch2-20.out.png,2,AW0147,right-handed,female,ball point pen,black,thin,N/A
+56,batch2-01.out.png,2,AW0107,right-handed,female,gel pen / ink pen / fountain pen,black,regular,N/A
+57,batch2-07.out.png,2,AW0107,right-handed,female,ball point pen,black,regular,N/A
+58,batch2-27.out.png,2,AW0107,right-handed,female,gel pen / ink pen / fountain pen,red,regular,N/A
+59,batch2-35.out.png,2,AW0107,right-handed,female,pencil / mechanical pencil,gray (pencil),regular,N/A
+60,batch2-12.out.png,2,AW0079,right-handed,female,ball point pen,black,thin,N/A
+61,batch2-52.out.png,2,AW0125,left-handed,male,ball point pen,black,regular,N/A
+62,batch2-53.out.png,2,AW0125,left-handed,male,ball point pen,black,regular,N/A
+63,batch2-54.out.png,2,AW0125,left-handed,male,ball point pen,black,regular,N/A
+64,batch2-55.out.png,2,AW0125,left-handed,male,ball point pen,black,regular,large section struck out
+65,batch2-06.out.png,2,AW0007,unknown,unknown,ball point pen,black,thin,N/A
+66,batch2-13.out.png,2,AW0189,unknown,unknown,ball point pen,black,regular,N/A
+67,batch2-16.out.png,2,AW0089,unknown,unknown,gel pen / ink pen / fountain pen,black,thin,N/A
+68,batch2-24.out.png,2,AW0167,unknown,unknown,ball point pen,black,regular,sort of mixes lower and upper cases
+69,batch2-26.out.png,2,AW0033,right-handed,female,ball point pen,brown,regular,N/A
+70,batch2-30.out.png,2,AW0033,right-handed,female,ball point pen,brown,regular,N/A
+71,batch3_01.out.png,3,AW0029,right-handed,female,pencil / mechanical pencil,gray (pencil),regular,N/A
+72,batch3_43.out.png,3,AW0029,right-handed,female,ball point pen,black,regular,N/A
+73,batch3_07.out.png,3,AW0091,right-handed,female,pencil / mechanical pencil,gray (pencil),regular,N/A
+74,batch3_47.out.png,3,AW0045,right-handed,unknown,gel pen / ink pen / fountain pen,black,regular,N/A
+75,batch3_48.out.png,3,AW0045,right-handed,unknown,gel pen / ink pen / fountain pen,black,regular,N/A
+76,batch3_18.out.png,3,AW0165,right-handed,female,ball point pen,blue,regular,N/A
+77,batch3_24.out.png,3,AW0165,right-handed,female,ball point pen,blue,regular,N/A
+78,batch3_25.out.png,3,AW0165,right-handed,female,ball point pen,blue,regular,N/A
+79,batch3_26.out.png,3,AW0165,right-handed,female,ball point pen,blue,regular,N/A
+80,batch3_27.out.png,3,AW0165,right-handed,female,ball point pen,blue,regular,N/A
+81,batch3_34.out.png,3,AW0197,right-handed,female,ball point pen,blue,regular,N/A
+82,batch3_06.out.png,3,AW0177,right-handed,male,pencil / mechanical pencil,gray (pencil),regular,N/A
+83,batch3_19.out.png,3,AW0071,right-handed,female,ball point pen,blue,regular,N/A
+84,batch3_23.out.png,3,AW0071,left-handed,female,ball point pen,blue,regular,not born left-handed
+85,batch3_39.out.png,3,AW0071,right-handed,female,ball point pen,blue,regular,N/A
+86,batch3_12.out.png,3,AW0005,right-handed,male,ball point pen,blue,regular,N/A
+87,batch3_46.out.png,3,AW0159,right-handed,male,gel pen / ink pen / fountain pen,black,regular,N/A
+88,batch3_05.out.png,3,AW0073,right-handed,female,pencil / mechanical pencil,gray (pencil),regular,N/A
+89,batch3_10.out.png,3,AW0073,right-handed,female,pencil / mechanical pencil,gray (pencil),regular,N/A
+90,batch3_14.out.png,3,AW0073,right-handed,female,ball point pen,blue,regular,N/A
+91,batch3_29.out.png,3,AW0127,right-handed,female,ball point pen,blue,regular,N/A
+92,batch3_33.out.png,3,AW0127,right-handed,female,ball point pen,blue,regular,N/A
+93,batch3_38.out.png,3,AW0127,right-handed,female,ball point pen,blue,regular,N/A
+94,batch3_28.out.png,3,AW0043,right-handed,female,ball point pen,blue,regular,N/A
+95,batch3_40.out.png,3,AW0043,right-handed,female,ball point pen,blue,regular,N/A
+96,batch3_44.out.png,3,AW0043,right-handed,female,ball point pen,black,regular,N/A
+97,batch3_08.out.png,3,AW0187,right-handed,male,pencil / mechanical pencil,gray (pencil),regular,N/A
+98,batch3_30.out.png,3,AW0183,left-handed,male,ball point pen,blue,regular,N/A
+99,batch3_31.out.png,3,AW0183,left-handed,male,ball point pen,blue,regular,N/A
+100,batch3_20.out.png,3,AW0025,unknown,unknown,ball point pen,blue,regular,N/A
+101,batch3_22.out.png,3,AW0163,unknown,unknown,ball point pen,blue,regular,N/A
+102,batch3_35.out.png,3,AW0119,unknown,unknown,ball point pen,blue,regular,N/A
+103,batch3_36.out.png,3,AW0129,right-handed,male,ball point pen,blue,regular,N/A
+104,batch3_37.out.png,3,AW0069,right-handed,female,ball point pen,blue,regular,N/A
 105,batch3_45.out.png,3,AW0101,right-handed,male,ball point pen,black,regular,N/A
-106,batch3_46.out.png,3,AW0159,right-handed,male,gel pen / ink pen / fountain pen,black,regular,N/A
-107,batch3_47.out.png,3,AW0045,right-handed,unknown,gel pen / ink pen / fountain pen,black,regular,N/A
-108,batch3_48.out.png,3,AW0045,right-handed,unknown,gel pen / ink pen / fountain pen,black,regular,N/A
-109,batch4_01.out.png,4,AW0131,right-handed,female,ball point pen,blue,regular,N/A
-110,batch4_02.out.png,4,AW0131,right-handed,female,ball point pen,blue,regular,N/A
-111,batch4_03.out.png,4,AW0131,right-handed,female,ball point pen,blue,regular,N/A
-112,batch4_04.out.png,4,AW0081,right-handed,male,gel pen / ink pen / fountain pen,blue,regular,N/A
-113,batch4_05.out.png,4,AW0081,right-handed,male,gel pen / ink pen / fountain pen,blue,regular,N/A
-114,batch4_06.out.png,4,AW0081,right-handed,male,gel pen / ink pen / fountain pen,blue,regular,N/A
-115,batch4_07.out.png,4,AW0133,right-handed,female,pencil / mechanical pencil,gray (pencil),regular,N/A
-116,batch4_08.out.png,4,AW0099,right-handed,male,pencil / mechanical pencil,gray (pencil),thin,a bit faded
-117,batch4_09.out.png,4,AW0099,right-handed,male,pencil / mechanical pencil,gray (pencil),thin,a bit faded
-118,batch4_10.out.png,4,AW0109,right-handed,unknown,ball point pen,black,regular,N/A
-119,batch4_11.out.png,4,AW0109,right-handed,unknown,ball point pen,black,regular,N/A
-120,batch4_12.out.png,4,AW0109,right-handed,unknown,ball point pen,black,regular,N/A
-121,batch4_13.out.png,4,AW0135,right-handed,male,pencil / mechanical pencil,gray (pencil),regular,N/A
-122,batch4_14.out.png,4,AW0017,right-handed,male,gel pen / ink pen / fountain pen,black,regular,N/A
-123,batch4_15.out.png,4,AW0039,right-handed,female,gel pen / ink pen / fountain pen,black,regular,N/A
-124,batch4_16.out.png,4,AW0093,right-handed,female,ball point pen,black,regular,N/A
-125,batch4_17.out.png,4,AW0093,right-handed,female,ball point pen,black,regular,N/A
-126,batch4_18.out.png,4,AW0093,right-handed,female,ball point pen,black,regular,N/A
-127,batch4_19.out.png,4,AW0093,right-handed,female,ball point pen,black,regular,N/A
-128,batch4_20.out.png,4,AW0093,right-handed,female,ball point pen,black,regular,N/A
-129,batch4_21.out.png,4,AW0093,right-handed,female,ball point pen,black,regular,N/A
-130,batch4_22.out.png,4,AW0093,right-handed,female,ball point pen,black,regular,N/A
-131,batch4_23.out.png,4,AW0093,right-handed,female,ball point pen,black,regular,N/A
-132,batch4_24.out.png,4,AW0093,right-handed,female,ball point pen,black,regular,N/A
-133,batch4_25.out.png,4,AW0093,right-handed,female,ball point pen,black,regular,N/A
-134,batch4_26.out.png,4,AW0093,right-handed,female,ball point pen,black,regular,N/A
-135,batch4_27.out.png,4,AW0111,left-handed,male,ball point pen,blue,regular,N/A
-136,batch4_28.out.png,4,AW0153,right-handed,male,ball point pen,black,regular,N/A
-137,batch4_29.out.png,4,AW0153,right-handed,male,ball point pen,black,regular,N/A
-138,batch4_30.out.png,4,AW0117,left-handed,female,ball point pen,blue,regular,N/A
-139,batch4_31.out.png,4,AW0059,right-handed,female,ball point pen,blue,regular,N/A
-140,batch4_32.out.png,4,AW0059,right-handed,female,ball point pen,blue,regular,N/A
-141,batch4_33.out.png,4,AW0121,right-handed,unknown,ball point pen,blue,regular,stained
-142,batch4_34.out.png,4,AW0031,right-handed,female,pencil / mechanical pencil,gray (pencil),regular,N/A
-143,batch4_35.out.png,4,AW0105,right-handed,male,ball point pen,blue,regular,N/A
-144,batch4_36.out.png,4,AW0121,right-handed,unknown,ball point pen,blue,regular,N/A
-145,batch4_37.out.png,4,AW0065,right-handed,female,ball point pen,black,regular,N/A
-146,batch4_38.out.png,4,AW0121,right-handed,unknown,ball point pen,blue,regular,N/A
-147,batch4_39.out.png,4,AW0039,right-handed,female,gel pen / ink pen / fountain pen,black,regular,super dense
-148,batch4_40.out.png,4,AW0065,right-handed,female,ball point pen,black,regular,N/A
-149,batch4_41.out.png,4,AW0121,right-handed,unknown,ball point pen,blue,regular,N/A
-150,batch4_42.out.png,4,AW0065,left-handed,female,ball point pen,black,regular,not born left-handed
-151,batch4_43.out.png,4,AW0175,right-handed,female,ball point pen,black,regular,N/A
-152,batch4_44.out.png,4,AW0097,right-handed,female,ball point pen,blue,regular,super dense
-153,batch4_45.out.png,4,AW0097,right-handed,female,ball point pen,blue,regular,N/A
-154,batch4_46.out.png,4,AW0087,right-handed,male,gel pen / ink pen / fountain pen,black,regular,N/A
-155,batch4_47.out.png,4,AW0105,right-handed,male,ball point pen,blue,regular,N/A
-156,batch4_48.out.png,4,AW0035,right-handed,male,ball point pen,blue,regular,super dense
-157,batch4_49.out.png,4,AW0149,right-handed,male,gel pen / ink pen / fountain pen,black,regular,N/A
-158,batch4_50.out.png,4,AW0021,right-handed,female,gel pen / ink pen / fountain pen,blue,regular,N/A
-159,batch4_51.out.png,4,AW0143,right-handed,male,ball point pen,black,regular,N/A
-160,batch4_52.out.png,4,AW0049,right-handed,male,gel pen / ink pen / fountain pen,black,regular,N/A
-161,batch4_53.out.png,4,AW0027,left-handed,male,ball point pen,black,regular,indicates that mother tongue is greek
-162,batch4_54.out.png,4,AW0009,right-handed,female,ball point pen,blue,regular,N/A
-163,batch4_55.out.png,4,AW0035,right-handed,male,ball point pen,blue,regular,N/A
-164,batch4_56.out.png,4,AW0099,right-handed,male,pencil / mechanical pencil,gray (pencil),thin,a bit faded
-165,batch4_57.out.png,4,AW0077,right-handed,female,ball point pen,blue,regular,N/A
-166,batch4_58.out.png,4,AW0077,right-handed,female,ball point pen,blue,regular,N/A
-167,batch4_59.out.png,4,AW0077,right-handed,female,ball point pen,blue,regular,N/A
-168,batch4_60.out.png,4,AW0151,right-handed,female,ball point pen,blue,regular,N/A
-169,batch4_61.out.png,4,AW0009,right-handed,female,ball point pen,blue,regular,N/A
-170,batch4_62.out.png,4,AW0057,right-handed,female,ball point pen,black,thin,N/A
-171,batch4_63.out.png,4,AW0057,right-handed,female,ball point pen,black,thin,N/A
-172,batch4_64.out.png,4,AW0009,right-handed,female,ball point pen,blue,regular,N/A
-173,batch4_65.out.png,4,AW0191,right-handed,male,gel pen / ink pen / fountain pen,black,regular,indicates that was trained to write in Australia
-174,batch4_66.out.png,4,AW0083,right-handed,female,ball point pen,black,regular,N/A
-175,batch4_67.out.png,4,AW0075,right-handed,female,ball point pen,blue,regular,N/A
-176,batch4_68.out.png,4,AW0023,right-handed,male,ball point pen,black,thin,N/A
-177,batch4_69.out.png,4,AW0169,left-handed,unknown,ball point pen,black,regular,N/A
-178,batch4_70.out.png,4,AW0015,right-handed,unknown,pencil / mechanical pencil,gray (pencil),regular,N/A
-179,batch4_71.out.png,4,AW0169,left-handed,unknown,ball point pen,black,regular,N/A
-180,batch4_72.out.png,4,AW0063,unknown,unknown,ball point pen,blue,regular,N/A
-181,batch4_73.out.png,4,AW0115,right-handed,female,ball point pen,blue,regular,N/A
-182,batch4_74.out.png,4,AW0055,left-handed,male,ball point pen,blue,regular,N/A
-183,batch4_75.out.png,4,AW0067,right-handed,female,ball point pen,black,regular,N/A
-184,batch4_76.out.png,4,AW0047,right-handed,male,gel pen / ink pen / fountain pen,blue,regular,N/A
-185,batch4_77.out.png,4,AW0137,right-handed,female,ball point pen,blue,regular,N/A
-186,batch4_78.out.png,4,AW0179,unknown,unknown,ball point pen,blue,regular,N/A
-187,batch4_79.out.png,4,AW0085,left-handed,female,ball point pen,blue,regular,N/A
-188,batch4_80.out.png,4,AW0179,unknown,unknown,ball point pen,blue,regular,N/A
-189,batch4_81.out.png,4,AW0071,left-handed,female,marker pen,black,regular,N/A
-190,batch4_82.out.png,4,AW0171,right-handed,male,ball point pen,blue,regular,not born left-handed
-191,batch4_83.out.png,4,AW0001,left-handed,male,ball point pen,blue,regular,N/A
-192,batch4_84.out.png,4,AW0195,left-handed,male,marker pen,black,regular,N/A
-193,batch4_85.out.png,4,AW0181,right-handed,female,marker pen,black,regular,N/A
-194,batch4_86.out.png,4,AW0135,right-handed,male,gel pen / ink pen / fountain pen,black,regular,N/A
-195,batch4_87.out.png,4,AW0015,right-handed,female,pencil / mechanical pencil,gray (pencil),regular,N/A
-196,batch4_88.out.png,4,AW0051,right-handed,female,gel pen / ink pen / fountain pen,black,regular,partially faded
-197,batch4_89.out.png,4,AW0157,right-handed,male,ball point pen,black,regular,"indicates ""gaucher contrarié"""
-198,batch4_90.out.png,4,AW0157,right-handed,male,ball point pen,black,regular,"indicates ""gaucher contrarié"""
-199,batch4_91.out.png,4,AW0093,right-handed,female,ball point pen,blue,regular,N/A
-200,batch4_92.out.png,4,AW0093,right-handed,female,ball point pen,blue,regular,N/A
-201,batch4_93.out.png,4,AW0093,right-handed,female,ball point pen,blue,regular,N/A
-202,batch4_94.out.png,4,AW0011,left-handed,female,ball point pen,black,regular,N/A
-203,batch4_95.out.png,4,AW0011,left-handed,female,gel pen / ink pen / fountain pen,blue,regular,N/A
-204,batch4_96.out.png,4,AW0011,left-handed,female,pencil / mechanical pencil,gray (pencil),regular,super dense
+106,batch3_02.out.png,3,AW0193,unknown,unknown,pencil / mechanical pencil,gray (pencil),regular,N/A
+107,batch3_04.out.png,3,AW0161,right-handed,male,pencil / mechanical pencil,gray (pencil),regular,N/A
+108,batch3_09.out.png,3,AW0103,unknown,unknown,pencil / mechanical pencil,gray (pencil),regular,N/A
+109,batch3_11.out.png,3,AW0095,right-handed,female,pencil / mechanical pencil,gray (pencil),regular,N/A
+110,batch3_13.out.png,3,AW0173,unknown,unknown,ball point pen,blue,regular,N/A
+111,batch3_03.out.png,3,AW0061,right-handed,male,pencil / mechanical pencil,gray (pencil),regular,partially erased
+112,batch3_15.out.png,3,AW0061,right-handed,male,ball point pen,blue,regular,N/A
+113,batch3_16.out.png,3,AW0061,right-handed,male,ball point pen,blue,regular,N/A
+114,batch3_17.out.png,3,AW0061,right-handed,male,ball point pen,blue,regular,N/A
+115,batch3_21.out.png,3,AW0061,right-handed,male,ball point pen,blue,regular,N/A
+116,batch3_32.out.png,3,AW0155,right-handed,male,ball point pen,blue,regular,N/A
+117,batch3_41.out.png,3,AW0155,right-handed,male,ball point pen,blue,regular,N/A
+118,batch3_42.out.png,3,AW0155,right-handed,male,ball point pen,blue,regular,N/A
+119,batch4_35.out.png,4,AW0105,right-handed,male,ball point pen,blue,regular,N/A
+120,batch4_47.out.png,4,AW0105,right-handed,male,ball point pen,blue,regular,N/A
+121,batch4_01.out.png,4,AW0131,right-handed,female,ball point pen,blue,regular,N/A
+122,batch4_02.out.png,4,AW0131,right-handed,female,ball point pen,blue,regular,N/A
+123,batch4_03.out.png,4,AW0131,right-handed,female,ball point pen,blue,regular,N/A
+124,batch4_31.out.png,4,AW0059,right-handed,female,ball point pen,blue,regular,N/A
+125,batch4_32.out.png,4,AW0059,right-handed,female,ball point pen,blue,regular,N/A
+126,batch4_30.out.png,4,AW0117,left-handed,female,ball point pen,blue,regular,N/A
+127,batch4_73.out.png,4,AW0115,right-handed,female,ball point pen,blue,regular,N/A
+128,batch4_15.out.png,4,AW0039,right-handed,female,gel pen / ink pen / fountain pen,black,regular,N/A
+129,batch4_39.out.png,4,AW0039,right-handed,female,gel pen / ink pen / fountain pen,black,regular,super dense
+130,batch4_69.out.png,4,AW0169,left-handed,unknown,ball point pen,black,regular,N/A
+131,batch4_71.out.png,4,AW0169,left-handed,unknown,ball point pen,black,regular,N/A
+132,batch4_88.out.png,4,AW0051,right-handed,female,gel pen / ink pen / fountain pen,black,regular,partially faded
+133,batch4_34.out.png,4,AW0031,right-handed,female,pencil / mechanical pencil,gray (pencil),regular,N/A
+134,batch4_74.out.png,4,AW0055,left-handed,male,ball point pen,blue,regular,N/A
+135,batch4_84.out.png,4,AW0195,left-handed,male,marker pen,black,regular,N/A
+136,batch4_37.out.png,4,AW0065,right-handed,female,ball point pen,black,regular,N/A
+137,batch4_40.out.png,4,AW0065,right-handed,female,ball point pen,black,regular,N/A
+138,batch4_42.out.png,4,AW0065,left-handed,female,ball point pen,black,regular,not born left-handed
+139,batch4_14.out.png,4,AW0017,right-handed,male,gel pen / ink pen / fountain pen,black,regular,N/A
+140,batch4_89.out.png,4,AW0157,right-handed,male,ball point pen,black,regular,"indicates ""gaucher contrarié"""
+141,batch4_90.out.png,4,AW0157,right-handed,male,ball point pen,black,regular,"indicates ""gaucher contrarié"""
+142,batch4_27.out.png,4,AW0111,left-handed,male,ball point pen,blue,regular,N/A
+143,batch4_77.out.png,4,AW0137,right-handed,female,ball point pen,blue,regular,N/A
+144,batch4_85.out.png,4,AW0181,right-handed,female,marker pen,black,regular,N/A
+145,batch4_83.out.png,4,AW0001,left-handed,male,ball point pen,blue,regular,N/A
+146,batch4_48.out.png,4,AW0035,right-handed,male,ball point pen,blue,regular,super dense
+147,batch4_55.out.png,4,AW0035,right-handed,male,ball point pen,blue,regular,N/A
+148,batch4_81.out.png,4,AW0071,left-handed,female,marker pen,black,regular,N/A
+149,batch4_04.out.png,4,AW0081,right-handed,male,gel pen / ink pen / fountain pen,blue,regular,N/A
+150,batch4_05.out.png,4,AW0081,right-handed,male,gel pen / ink pen / fountain pen,blue,regular,N/A
+151,batch4_06.out.png,4,AW0081,right-handed,male,gel pen / ink pen / fountain pen,blue,regular,N/A
+152,batch4_28.out.png,4,AW0153,right-handed,male,ball point pen,black,regular,N/A
+153,batch4_29.out.png,4,AW0153,right-handed,male,ball point pen,black,regular,N/A
+154,batch4_43.out.png,4,AW0175,right-handed,female,ball point pen,black,regular,N/A
+155,batch4_08.out.png,4,AW0099,right-handed,male,pencil / mechanical pencil,gray (pencil),thin,a bit faded
+156,batch4_09.out.png,4,AW0099,right-handed,male,pencil / mechanical pencil,gray (pencil),thin,a bit faded
+157,batch4_56.out.png,4,AW0099,right-handed,male,pencil / mechanical pencil,gray (pencil),thin,a bit faded
+158,batch4_52.out.png,4,AW0049,right-handed,male,gel pen / ink pen / fountain pen,black,regular,N/A
+159,batch4_60.out.png,4,AW0151,right-handed,female,ball point pen,blue,regular,N/A
+160,batch4_16.out.png,4,AW0093,right-handed,female,ball point pen,black,regular,N/A
+161,batch4_17.out.png,4,AW0093,right-handed,female,ball point pen,black,regular,N/A
+162,batch4_18.out.png,4,AW0093,right-handed,female,ball point pen,black,regular,N/A
+163,batch4_19.out.png,4,AW0093,right-handed,female,ball point pen,black,regular,N/A
+164,batch4_20.out.png,4,AW0093,right-handed,female,ball point pen,black,regular,N/A
+165,batch4_21.out.png,4,AW0093,right-handed,female,ball point pen,black,regular,N/A
+166,batch4_22.out.png,4,AW0093,right-handed,female,ball point pen,black,regular,N/A
+167,batch4_23.out.png,4,AW0093,right-handed,female,ball point pen,black,regular,N/A
+168,batch4_24.out.png,4,AW0093,right-handed,female,ball point pen,black,regular,N/A
+169,batch4_25.out.png,4,AW0093,right-handed,female,ball point pen,black,regular,N/A
+170,batch4_26.out.png,4,AW0093,right-handed,female,ball point pen,black,regular,N/A
+171,batch4_91.out.png,4,AW0093,right-handed,female,ball point pen,blue,regular,N/A
+172,batch4_92.out.png,4,AW0093,right-handed,female,ball point pen,blue,regular,N/A
+173,batch4_93.out.png,4,AW0093,right-handed,female,ball point pen,blue,regular,N/A
+174,batch4_57.out.png,4,AW0077,right-handed,female,ball point pen,blue,regular,N/A
+175,batch4_58.out.png,4,AW0077,right-handed,female,ball point pen,blue,regular,N/A
+176,batch4_59.out.png,4,AW0077,right-handed,female,ball point pen,blue,regular,N/A
+177,batch4_62.out.png,4,AW0057,right-handed,female,ball point pen,black,thin,N/A
+178,batch4_63.out.png,4,AW0057,right-handed,female,ball point pen,black,thin,N/A
+179,batch4_94.out.png,4,AW0011,left-handed,female,ball point pen,black,regular,N/A
+180,batch4_95.out.png,4,AW0011,left-handed,female,gel pen / ink pen / fountain pen,blue,regular,N/A
+181,batch4_96.out.png,4,AW0011,left-handed,female,pencil / mechanical pencil,gray (pencil),regular,super dense
+182,batch4_44.out.png,4,AW0097,right-handed,female,ball point pen,blue,regular,super dense
+183,batch4_45.out.png,4,AW0097,right-handed,female,ball point pen,blue,regular,N/A
+184,batch4_70.out.png,4,AW0015,right-handed,unknown,pencil / mechanical pencil,gray (pencil),regular,N/A
+185,batch4_87.out.png,4,AW0015,right-handed,female,pencil / mechanical pencil,gray (pencil),regular,N/A
+186,batch4_54.out.png,4,AW0009,right-handed,female,ball point pen,blue,regular,N/A
+187,batch4_61.out.png,4,AW0009,right-handed,female,ball point pen,blue,regular,N/A
+188,batch4_64.out.png,4,AW0009,right-handed,female,ball point pen,blue,regular,N/A
+189,batch4_67.out.png,4,AW0075,right-handed,female,ball point pen,blue,regular,N/A
+190,batch4_53.out.png,4,AW0027,left-handed,male,ball point pen,black,regular,N/A
+191,batch4_07.out.png,4,AW0133,right-handed,female,pencil / mechanical pencil,gray (pencil),regular,N/A
+192,batch4_13.out.png,4,AW0135,right-handed,male,pencil / mechanical pencil,gray (pencil),regular,N/A
+193,batch4_86.out.png,4,AW0135,right-handed,male,gel pen / ink pen / fountain pen,black,regular,N/A
+194,batch4_65.out.png,4,AW0191,right-handed,male,gel pen / ink pen / fountain pen,black,regular,N/A
+195,batch4_50.out.png,4,AW0021,right-handed,female,gel pen / ink pen / fountain pen,blue,regular,N/A
+196,batch4_79.out.png,4,AW0085,left-handed,female,ball point pen,blue,regular,N/A
+197,batch4_76.out.png,4,AW0047,right-handed,male,gel pen / ink pen / fountain pen,blue,regular,N/A
+198,batch4_10.out.png,4,AW0109,right-handed,unknown,ball point pen,black,regular,N/A
+199,batch4_11.out.png,4,AW0109,right-handed,unknown,ball point pen,black,regular,N/A
+200,batch4_12.out.png,4,AW0109,right-handed,unknown,ball point pen,black,regular,N/A
+201,batch4_49.out.png,4,AW0149,right-handed,male,gel pen / ink pen / fountain pen,black,regular,N/A
+202,batch4_51.out.png,4,AW0143,right-handed,male,ball point pen,black,regular,N/A
+203,batch4_68.out.png,4,AW0023,right-handed,male,ball point pen,black,thin,N/A
+204,batch4_72.out.png,4,AW0063,unknown,unknown,ball point pen,blue,regular,N/A
+205,batch4_75.out.png,4,AW0067,right-handed,female,ball point pen,black,regular,N/A
+206,batch4_78.out.png,4,AW0179,unknown,unknown,ball point pen,blue,regular,N/A
+207,batch4_80.out.png,4,AW0179,unknown,unknown,ball point pen,blue,regular,N/A
+208,batch4_46.out.png,4,AW0087,right-handed,male,gel pen / ink pen / fountain pen,black,regular,N/A
+209,batch4_82.out.png,4,AW0171,right-handed,male,ball point pen,blue,regular,not born left-handed
+210,batch4_33.out.png,4,AW0121,right-handed,unknown,ball point pen,blue,regular,stained
+211,batch4_36.out.png,4,AW0121,right-handed,unknown,ball point pen,blue,regular,N/A
+212,batch4_38.out.png,4,AW0121,right-handed,unknown,ball point pen,blue,regular,N/A
+213,batch4_41.out.png,4,AW0121,right-handed,unknown,ball point pen,blue,regular,N/A
+214,batch4_66.out.png,4,AW0083,right-handed,female,ball point pen,black,regular,N/A
+215,batch-07-6e-01.out.png,7,AW0150,right-handed,female,ball point pen,black,regular,teenager
+216,batch-07-6e-02.out.png,7,AW0144,left-handed,male,gel pen / ink pen / fountain pen,blue,regular,teenager
+217,batch-07-6e-03.out.png,7,AW0226,right-handed,female,gel pen / ink pen / fountain pen,black,regular,teenager
+218,batch-07-6e-04.out.png,7,AW0178,right-handed,male,ball point pen,blue,regular,teenager
+219,batch-07-6e-05.out.png,7,AW0160,right-handed,female,ball point pen,blue,thin,teenager
+220,batch-07-6e-06.out.png,7,AW0158,right-handed,male,gel pen / ink pen / fountain pen,blue,regular,teenager
+221,batch-07-6e-07.out.png,7,AW0140,right-handed,male,ball point pen,blue,regular,teenager
+222,batch-07-6e-08.out.png,7,AW0168,right-handed,unknown,ball point pen,blue,thin,teenager
+223,batch-07-6e-09.out.png,7,AW0224,right-handed,female,gel pen / ink pen / fountain pen,blue,regular,teenager
+224,batch-07-6e-10.out.png,7,AW0124,right-handed,female,gel pen / ink pen / fountain pen,black,regular,teenager
+225,batch-07-6e-11.out.png,7,AW0166,right-handed,male,ball point pen,blue,regular,teenager
+226,batch-07-6e-12.out.png,7,AW0112,right-handed,male,gel pen / ink pen / fountain pen,blue,regular,teenager
+227,batch-07-6e-13.out.png,7,AW0130,right-handed,male,ball point pen,blue,regular,teenager
+228,batch-07-6e-14.out.png,7,AW0126,right-handed,female,gel pen / ink pen / fountain pen,blue,regular,teenager
+229,batch-07-6e-15.out.png,7,AW0192,right-handed,unknown,gel pen / ink pen / fountain pen,blue,regular,teenager
+230,batch-07-6e-16.out.png,7,AW0136,right-handed,female,gel pen / ink pen / fountain pen,black,regular,teenager
+231,batch-07-6e-17.out.png,7,AW0184,right-handed,female,ball point pen,blue,regular,teenager
+232,batch-07-6e-18.out.png,7,AW0232,right-handed,female,ball point pen,blue,regular,teenager
+233,batch-07-6e-19.out.png,7,AW0100,right-handed,female,ball point pen,black,regular,teenager
+234,batch-07-6e-20.out.png,7,AW0206,right-handed,female,gel pen / ink pen / fountain pen,blue,regular,teenager
+235,batch-07-6e-21.out.png,7,AW0234,right-handed,female,ball point pen,blue,regular,teenager
+236,batch-07-6e-22.out.png,7,AW0212,right-handed,male,ball point pen,black,regular,teenager
+237,batch-07-6e-23.out.png,7,AW0218,right-handed,female,ball point pen,blue,regular,teenager
+238,batch-07-6e-24.out.png,7,AW0198,right-handed,male,ball point pen,blue,regular,teenager
+239,batch-07-6e-25.out.png,7,AW0170,right-handed,male,ball point pen,blue,regular,teenager
+240,batch-07-6e-26.out.png,7,AW0176,right-handed,male,ball point pen,blue,regular,teenager
+241,batch-07-6e-27.out.png,7,AW0148,right-handed,female,ball point pen,blue,regular,teenager
+242,batch6-001.out.png,6,AW0172,right-handed,female,pencil / mechanical pencil,gray (pencil),regular,N/A
+243,batch6-002.out.png,6,AW0172,right-handed,female,pencil / mechanical pencil,gray (pencil),regular,N/A
+244,batch6-003.out.png,6,AW0236,left-handed,female,ball point pen,black,thin,N/A
+245,batch6-004.out.png,6,AW0236,left-handed,female,ball point pen,black,thin,N/A
+246,batch6-005.out.png,6,AW0190,right-handed,female,ball point pen,black,regular,N/A
+247,batch6-006.out.png,6,AW0106,right-handed,female,pencil / mechanical pencil,gray (pencil),regular,stained
+248,batch6-007.out.png,6,AW0182,right-handed,female,gel pen / ink pen / fountain pen,turquoise,regular,N/A
+249,batch6-008.out.png,6,AW0182,right-handed,female,gel pen / ink pen / fountain pen,turquoise,regular,N/A
+250,batch6-009.out.png,6,AW0128,right-handed,female,pencil / mechanical pencil,gray (pencil),regular,N/A
+251,batch6-010.out.png,6,AW0220,unknown,male,gel pen / ink pen / fountain pen,black,thin,N/A
+252,batch6-011.out.png,6,AW0186,right-handed,male,ball point pen,black,regular,N/A
+253,batch6-012.out.png,6,AW0190,right-handed,female,ball point pen,black,regular,N/A
+254,batch6-013.out.png,6,AW0029,right-handed,female,gel pen / ink pen / fountain pen,black,regular,N/A
+255,batch6-014.out.png,6,AW0164,right-handed,male,ball point pen,red,regular,N/A
+256,batch6-015.out.png,6,AW0164,right-handed,male,ball point pen,red,regular,N/A
+257,batch6-016.out.png,6,AW0029,right-handed,female,gel pen / ink pen / fountain pen,black,regular,N/A
+258,batch6-017.out.png,6,AW0210,right-handed,male,ball point pen,black,regular,N/A
+259,batch6-018.out.png,6,AW0216,right-handed,female,ball point pen,black,regular,N/A
+260,batch6-019.out.png,6,AW0216,right-handed,female,ball point pen,black,regular,N/A
+261,batch6-020.out.png,6,AW0210,right-handed,male,ball point pen,black,regular,N/A
+262,batch6-021.out.png,6,AW0116,right-handed,male,marker pen,black,thick,N/A
+263,batch6-022.out.png,6,AW0154,right-handed,female,gel pen / ink pen / fountain pen,black,regular,N/A
+264,batch6-023.out.png,6,AW0132,right-handed,female,marker pen,black,thick,N/A
+265,batch6-024.out.png,6,AW0196,right-handed,female,ball point pen,black,regular,N/A
+266,batch6-025.out.png,6,AW0114,right-handed,female,ball point pen,blue,regular,N/A
+267,batch6-026.out.png,6,AW0204,right-handed,male,ball point pen,blue,regular,N/A
+268,batch6-027.out.png,6,AW0162,right-handed,female,ball point pen,blue,regular,N/A
+269,batch6-028.out.png,6,AW0146,right-handed,female,ball point pen,blue,regular,N/A
+270,batch6-029.out.png,6,AW0214,right-handed,male,ball point pen,blue,regular,N/A
+271,batch6-030.out.png,6,AW0019,right-handed,female,ball point pen,blue,regular,N/A
+272,batch6-031.out.png,6,AW0118,right-handed,female,ball point pen,blue,regular,N/A
+273,batch6-032.out.png,6,AW0029,right-handed,female,ball point pen,blue,regular,N/A
+274,batch6-033.out.png,6,AW0118,right-handed,female,ball point pen,blue,regular,N/A
+275,batch6-034.out.png,6,AW0110,right-handed,female,gel pen / ink pen / fountain pen,black,regular,English text
+276,batch6-035.out.png,6,AW0122,right-handed,male,gel pen / ink pen / fountain pen,black,regular,English text
+277,batch6-036.out.png,6,AW0122,right-handed,male,gel pen / ink pen / fountain pen,black,regular,English text
+278,batch6-037.out.png,6,AW0110,right-handed,female,gel pen / ink pen / fountain pen,black,regular,English text
+279,batch6-038.out.png,6,AW0102,right-handed,female,ball point pen,blue,regular,N/A
+280,batch6-039.out.png,6,AW0102,right-handed,female,ball point pen,blue,regular,N/A
+281,batch6-040.out.png,6,AW0141,right-handed,female,ball point pen,blue,regular,use capital letters
+282,batch6-041.out.png,6,AW0200,right-handed,female,ball point pen,blue,regular,N/A
+283,batch6-042.out.png,6,AW0108,right-handed,female,ball point pen,blue,regular,N/A
+284,batch6-043.out.png,6,AW0108,right-handed,female,ball point pen,blue,regular,N/A
+285,batch6-044.out.png,6,AW0108,right-handed,female,ball point pen,blue,regular,N/A
+286,batch6-045.out.png,6,AW0186,right-handed,male,ball point pen,blue,regular,N/A
+287,batch6-046.out.png,6,AW0174,right-handed,female,ball point pen,blue,regular,N/A
+288,batch6-047.out.png,6,AW0180,left-handed,male,ball point pen,blue,regular,N/A
+289,batch6-048.out.png,6,AW0214,right-handed,male,ball point pen,blue,regular,N/A
+290,batch6-049.out.png,6,AW0202,right-handed,male,ball point pen,blue,regular,N/A
+291,batch6-050.out.png,6,AW0202,right-handed,male,ball point pen,blue,regular,N/A
+292,batch6-051.out.png,6,AW0204,right-handed,male,ball point pen,blue,regular,N/A
+293,batch6-052.out.png,6,AW0156,unknown,unknown,ball point pen,blue,regular,N/A
+294,batch6-053.out.png,6,AW0188,right-handed,female,ball point pen,blue,regular,N/A
+295,batch6-054.out.png,6,AW0222,right-handed,female,ball point pen,blue,regular,N/A
+296,batch6-055.out.png,6,AW0174,right-handed,female,ball point pen,blue,regular,N/A
+297,batch6-056.out.png,6,AW0134,left-handed,male,ball point pen,blue,regular,draws long Ss
+298,batch6-057.out.png,6,AW0174,right-handed,female,ball point pen,blue,regular,N/A
+299,batch6-058.out.png,6,AW0142,right-handed,female,ball point pen,blue,thin,N/A
+300,batch6-059.out.png,6,AW0194,left-handed,unknown,ball point pen,blue,regular,N/A
+301,batch6-060.out.png,6,AW0120,right-handed,female,ball point pen,blue,thin,N/A
+302,batch6-061.out.png,6,AW0162,right-handed,female,ball point pen,blue,regular,N/A
+303,batch6-062.out.png,6,AW0228,right-handed,female,ball point pen,blue,regular,N/A
