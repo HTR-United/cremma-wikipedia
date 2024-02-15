@@ -21,4 +21,5 @@ jobs:
     - name: Run ChocoMufin
       run: |
         chocomufin convert characters.csv data/**/*.xml --suffix ".normalized.xml" --sample-verbose 1
+        chocomufin generate table.csv ./data/*/alto/*.xml
         chocomufin control characters.csv data/**/*.xml
