@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>batch5-042.out.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT11139" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT4407" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1653"
+          HEIGHT="2339"
+          PHYSICAL_IMG_NR="41"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1653"
+                  HEIGHT="2339">
+        
+        <TextBlock HPOS="22.0"
+                   VPOS="1212.0"
+                   WIDTH="1625.0"
+                   HEIGHT="218.0"
+                   ID="eSc_textblock_c0c8a519"
+                   TAGREFS="BT11139">
+          <Shape><Polygon POINTS="22 1430 22 1256 384 1256 544 1222 1647 1212 1634 1382"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_130066f5"
+                    TAGREFS="LT4407"
+                    BASELINE="70 1311 1274 1276 1621 1278" 
+                    HPOS="68.0"
+                    VPOS="1220.0"
+                    WIDTH="1553.0"
+                    HEIGHT="111.0">
+            <Shape><Polygon POINTS="1612 1235 1578 1235 1576 1235 1545 1220 1543 1220 1541 1220 1409 1239 1389 1241 1374 1239 1272 1227 1270 1227 1268 1227 1267 1227 1247 1243 1241 1245 1169 1245 1148 1245 1122 1231 1120 1231 1118 1231 1116 1231 1114 1231 1097 1247 1095 1249 1087 1247 1048 1233 1046 1233 1044 1233 1042 1233 1040 1233 1040 1235 1025 1247 1023 1251 1017 1249 990 1237 988 1237 986 1237 879 1251 861 1253 855 1251 824 1239 822 1239 820 1239 818 1239 816 1239 801 1253 795 1259 713 1259 703 1255 682 1243 680 1243 678 1243 676 1243 674 1243 658 1257 654 1261 643 1257 610 1245 608 1245 606 1245 538 1259 506 1266 405 1266 397 1263 366 1251 364 1251 362 1251 360 1251 331 1265 317 1268 298 1265 253 1255 251 1255 249 1255 226 1266 210 1274 152 1274 142 1268 124 1259 122 1259 120 1259 68 1268 70 1311 70 1321 261 1331 263 1331 265 1331 267 1331 286 1319 292 1315 321 1317 419 1327 421 1327 422 1327 463 1315 465 1315 467 1315 506 1325 508 1325 510 1325 561 1313 590 1307 639 1311 678 1315 680 1315 760 1309 851 1303 859 1307 867 1313 869 1313 871 1313 873 1313 955 1305 1099 1294 1128 1303 1140 1307 1142 1307 1144 1307 1216 1305 1218 1305 1220 1305 1224 1302 1237 1294 1290 1300 1317 1303 1319 1303 1339 1300 1399 1286 1619 1294 1621 1278 1617 1249 1612 1235"/></Shape>
+	    <String CONTENT="Giancarlo Giannin, né le 1er aout 1942 à La Spezia (Royaume d&#x27;Italie),"
+                    HPOS="68.0"
+                    VPOS="1220.0"
+                    WIDTH="1553.0"
+                    HEIGHT="111.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_febf94e8"
+                    TAGREFS="LT4407"
+                    BASELINE="54 1380 1198 1348" 
+                    HPOS="52.0"
+                    VPOS="1303.0"
+                    WIDTH="1146.0"
+                    HEIGHT="106.0">
+            <Shape><Polygon POINTS="1183 1346 1173 1319 1109 1319 1093 1305 1093 1303 1091 1303 1089 1303 1054 1303 1052 1303 1005 1305 1003 1305 1001 1305 978 1323 976 1323 912 1307 910 1307 908 1307 877 1323 857 1309 855 1309 853 1309 851 1309 849 1309 810 1319 783 1311 781 1311 779 1311 777 1311 746 1329 744 1329 742 1329 699 1313 697 1313 695 1313 693 1313 691 1313 691 1315 676 1329 674 1331 672 1329 627 1315 625 1315 623 1315 621 1315 619 1315 592 1331 588 1335 536 1335 530 1333 495 1319 493 1319 491 1319 489 1319 487 1319 465 1335 460 1337 432 1335 292 1325 290 1325 288 1325 257 1339 249 1344 138 1344 128 1342 95 1331 93 1331 91 1331 89 1331 62 1339 52 1370 54 1380 56 1409 126 1391 249 1403 251 1403 346 1387 430 1397 432 1397 434 1397 436 1397 458 1383 606 1393 612 1393 614 1393 617 1393 705 1376 725 1387 727 1387 729 1387 730 1387 851 1374 955 1383 962 1383 964 1383 966 1383 968 1383 986 1368 1007 1376 1009 1376 1011 1376 1013 1376 1054 1366 1087 1380 1089 1380 1091 1380 1198 1376 1198 1348 1192 1341 1183 1346"/></Shape>
+	    <String CONTENT="est un acteur, scénariste et réalisateur italien."
+                    HPOS="52.0"
+                    VPOS="1303.0"
+                    WIDTH="1146.0"
+                    HEIGHT="106.0"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>batch5-024.out.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT11139" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT4407" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1653"
+          HEIGHT="2339"
+          PHYSICAL_IMG_NR="23"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1653"
+                  HEIGHT="2339">
+        
+        <TextBlock HPOS="43.0"
+                   VPOS="1208.0"
+                   WIDTH="1608.0"
+                   HEIGHT="273.0"
+                   ID="eSc_textblock_3b72c6f3"
+                   TAGREFS="BT11139">
+          <Shape><Polygon POINTS="43 1266 46 1481 1651 1427 1644 1208"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_db1a4f3d"
+                    TAGREFS="LT4407"
+                    BASELINE="62 1309 859 1282 1604 1266" 
+                    HPOS="60.0"
+                    VPOS="1216.0"
+                    WIDTH="1544.0"
+                    HEIGHT="101.0">
+            <Shape><Polygon POINTS="1584 1216 1551 1231 1518 1218 1516 1218 1514 1218 1415 1231 1389 1222 1385 1220 1383 1220 1382 1220 1380 1220 1378 1220 1376 1222 1354 1241 1313 1241 1284 1226 1284 1224 1282 1224 1280 1224 1243 1224 1241 1224 1173 1226 1171 1226 1169 1226 1165 1229 1142 1245 1103 1233 1101 1233 1099 1233 1097 1233 1044 1247 1025 1235 1021 1231 1019 1231 1017 1231 966 1231 964 1231 962 1231 943 1237 894 1253 857 1241 853 1239 851 1239 849 1239 847 1239 844 1241 818 1255 795 1243 783 1237 781 1237 779 1237 777 1237 775 1237 768 1243 752 1257 713 1245 690 1239 688 1239 686 1239 684 1239 654 1249 612 1263 450 1265 430 1257 411 1247 409 1247 407 1247 405 1247 403 1247 385 1259 370 1266 282 1263 163 1255 161 1255 159 1255 157 1255 138 1266 126 1274 115 1268 93 1257 91 1257 89 1257 87 1257 60 1266 62 1309 62 1317 1604 1276 1604 1266 1594 1218 1584 1216"/></Shape>
+	    <String CONTENT="Grind Session est un jeu vidéo de simulation de skateboard, développé"
+                    HPOS="60.0"
+                    VPOS="1216.0"
+                    WIDTH="1544.0"
+                    HEIGHT="101.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b4306cb2"
+                    TAGREFS="LT4407"
+                    BASELINE="79 1370 1539 1337" 
+                    HPOS="77.0"
+                    VPOS="1290.0"
+                    WIDTH="1462.0"
+                    HEIGHT="99.0">
+            <Shape><Polygon POINTS="79 1370 79 1385 230 1389 231 1389 233 1389 245 1383 257 1378 294 1383 331 1387 333 1387 362 1381 399 1374 463 1380 506 1383 508 1383 510 1383 512 1383 518 1380 528 1370 555 1378 557 1378 559 1378 561 1378 610 1368 654 1376 676 1380 678 1380 703 1376 766 1364 797 1374 803 1376 805 1376 807 1376 838 1374 912 1366 927 1372 933 1374 935 1374 937 1374 1021 1370 1023 1370 1025 1370 1044 1358 1185 1366 1187 1366 1189 1366 1228 1354 1393 1362 1395 1362 1397 1362 1454 1348 1537 1360 1539 1337 1534 1307 1448 1307 1411 1290 1409 1290 1407 1290 1405 1290 1364 1309 1362 1309 1354 1309 1194 1294 1192 1294 1191 1294 1157 1303 1128 1296 1126 1296 1124 1296 1122 1296 1120 1296 1120 1298 1101 1313 1099 1315 1093 1313 1025 1298 1023 1298 1021 1298 1019 1298 998 1315 994 1317 982 1315 896 1302 894 1302 892 1302 857 1317 847 1321 832 1317 773 1303 771 1303 769 1303 768 1303 768 1305 752 1319 746 1323 645 1323 641 1321 596 1307 594 1307 592 1307 590 1307 557 1317 536 1309 534 1309 532 1309 530 1309 493 1323 477 1329 461 1323 430 1311 428 1311 426 1311 424 1311 422 1311 422 1313 409 1325 401 1333 313 1333 304 1327 292 1315 290 1315 288 1315 286 1315 284 1315 263 1327 245 1337 210 1337 198 1329 185 1317 183 1317 181 1317 179 1317 177 1317 153 1329 152 1331 150 1329 138 1319 136 1319 134 1319 132 1319 77 1329 79 1370"/></Shape>
+	    <String CONTENT="Shaba Games et publié par Song Computer Entertainment sur"
+                    HPOS="77.0"
+                    VPOS="1290.0"
+                    WIDTH="1462.0"
+                    HEIGHT="99.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c9b8fcab"
+                    TAGREFS="LT4407"
+                    BASELINE="81 1426 600 1413" 
+                    HPOS="79.0"
+                    VPOS="1372.0"
+                    WIDTH="521.0"
+                    HEIGHT="87.0">
+            <Shape><Polygon POINTS="81 1426 81 1459 191 1457 192 1457 196 1456 230 1438 278 1448 280 1448 282 1448 319 1436 352 1446 354 1446 356 1446 358 1446 360 1446 380 1434 481 1434 504 1438 543 1446 545 1446 547 1446 600 1432 600 1413 596 1385 465 1385 465 1383 454 1374 454 1372 452 1372 450 1372 448 1372 446 1372 444 1372 428 1383 419 1389 348 1383 339 1383 337 1383 335 1383 333 1383 298 1393 286 1383 280 1378 278 1378 276 1378 228 1378 226 1378 224 1378 202 1383 152 1397 136 1383 136 1381 134 1381 132 1381 130 1381 79 1381 81 1426"/></Shape>
+	    <String CONTENT="PlayStation en 2000..."
+                    HPOS="79.0"
+                    VPOS="1372.0"
+                    WIDTH="521.0"
+                    HEIGHT="87.0"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

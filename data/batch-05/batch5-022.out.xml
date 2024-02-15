@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>batch5-022.out.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT11139" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT4407" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1653"
+          HEIGHT="2339"
+          PHYSICAL_IMG_NR="21"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1653"
+                  HEIGHT="2339">
+        
+        <TextBlock HPOS="32.0"
+                   VPOS="1260.0"
+                   WIDTH="1440.0"
+                   HEIGHT="195.0"
+                   ID="eSc_textblock_8b24bb83"
+                   TAGREFS="BT11139">
+          <Shape><Polygon POINTS="41 1260 32 1455 1472 1452 1472 1260"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_7304f1d2"
+                    TAGREFS="LT4407"
+                    BASELINE="69 1351 1419 1372" 
+                    HPOS="66.0"
+                    VPOS="1302.0"
+                    WIDTH="1351.0"
+                    HEIGHT="105.0">
+            <Shape><Polygon POINTS="68 1350 66 1374 107 1385 109 1385 111 1385 169 1376 202 1370 216 1376 235 1385 237 1385 239 1385 288 1376 315 1372 325 1378 362 1395 364 1395 366 1397 458 1397 458 1395 460 1395 524 1378 538 1376 637 1376 641 1380 654 1389 656 1389 658 1389 660 1389 662 1389 690 1380 697 1378 709 1380 758 1391 760 1391 836 1381 853 1380 859 1381 890 1395 892 1395 894 1395 982 1389 1011 1405 1013 1405 1148 1407 1150 1407 1231 1387 1311 1407 1313 1407 1315 1407 1317 1407 1364 1387 1415 1387 1417 1370 1417 1333 1253 1315 1251 1315 1249 1315 1204 1327 1183 1333 966 1331 949 1323 933 1317 931 1317 929 1317 927 1317 906 1323 879 1329 867 1321 857 1315 855 1315 853 1315 851 1315 849 1315 834 1321 816 1327 810 1321 799 1311 799 1309 797 1309 795 1309 793 1309 791 1309 764 1319 754 1323 746 1319 725 1307 723 1307 721 1307 600 1317 506 1323 391 1319 380 1313 362 1303 360 1303 358 1303 356 1303 354 1303 345 1311 343 1311 333 1302 331 1302 329 1302 327 1302 68 1305 68 1350"/></Shape>
+	    <String CONTENT="(238710) Halassy est un astéroïde la ceinture principale d&#x27;astéroïdes."
+                    HPOS="66.0"
+                    VPOS="1302.0"
+                    WIDTH="1351.0"
+                    HEIGHT="105.0"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
