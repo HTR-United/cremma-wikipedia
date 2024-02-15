@@ -20,5 +20,5 @@ jobs:
         pip install chocomufin
     - name: Run ChocoMufin
       run: |
-        chocomufin convert characters.csv data/**/*.xml --suffix ".normalized.xml" --sample-verbose 30
+        chocomufin convert characters.csv data/**/*.xml --suffix ".normalized.xml" --sample-verbose 1
         chocomufin control characters.csv data/**/*.xml
