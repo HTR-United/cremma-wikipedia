@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>batch5-025.out.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT11139" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT4407" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1653"
+          HEIGHT="2339"
+          PHYSICAL_IMG_NR="24"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1653"
+                  HEIGHT="2339">
+        
+        <TextBlock HPOS="38.0"
+                   VPOS="1220.0"
+                   WIDTH="1588.0"
+                   HEIGHT="173.0"
+                   ID="eSc_textblock_f60ac99d"
+                   TAGREFS="BT11139">
+          <Shape><Polygon POINTS="38 1220 38 1381 1626 1393 1626 1232"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_3e757ece"
+                    TAGREFS="LT4407"
+                    BASELINE="142 1294 801 1276 1600 1272" 
+                    HPOS="140.0"
+                    VPOS="1231.0"
+                    WIDTH="1460.0"
+                    HEIGHT="86.0">
+            <Shape><Polygon POINTS="1573 1239 1471 1239 1469 1239 1460 1231 1446 1231 1434 1231 1422 1239 1419 1241 1415 1239 1399 1231 1387 1231 1378 1231 1368 1239 1364 1241 1341 1239 1276 1231 1270 1233 1251 1233 1237 1233 1231 1239 1226 1245 1163 1245 1155 1239 1144 1233 1134 1233 1122 1233 1068 1241 1044 1243 1031 1241 1007 1233 998 1235 978 1235 972 1235 943 1241 910 1247 884 1241 861 1235 861 1235 844 1235 838 1241 830 1249 801 1241 777 1235 775 1235 773 1235 771 1235 760 1241 746 1249 654 1251 639 1241 633 1237 631 1237 629 1237 627 1237 625 1237 623 1237 617 1243 610 1247 580 1243 569 1241 567 1241 565 1241 563 1241 563 1243 549 1253 499 1243 477 1239 475 1239 382 1241 380 1241 378 1241 376 1243 364 1253 317 1243 302 1241 300 1241 298 1241 296 1241 294 1243 276 1257 140 1245 142 1294 142 1317 294 1298 354 1311 356 1311 358 1311 401 1298 489 1311 510 1313 512 1313 514 1313 522 1309 551 1298 623 1307 641 1309 643 1309 645 1309 647 1309 649 1307 672 1292 890 1290 935 1302 939 1302 941 1302 943 1302 945 1302 947 1302 974 1290 1058 1298 1130 1305 1132 1305 1177 1296 1222 1286 1243 1294 1267 1303 1268 1303 1270 1303 1598 1286 1600 1272 1582 1241 1573 1239"/></Shape>
+	    <String CONTENT="Laurie BURDESCOULES, née le 19 août 1992 à Rochefort-sur-"
+                    HPOS="140.0"
+                    VPOS="1231.0"
+                    WIDTH="1460.0"
+                    HEIGHT="86.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fe4e943e"
+                    TAGREFS="LT4407"
+                    BASELINE="52 1352 814 1342" 
+                    HPOS="50.0"
+                    VPOS="1300.0"
+                    WIDTH="764.0"
+                    HEIGHT="81.0">
+            <Shape><Polygon POINTS="810 1339 801 1313 729 1300 727 1300 725 1300 674 1313 588 1302 586 1302 584 1302 582 1302 582 1303 571 1315 569 1315 567 1315 528 1303 526 1303 524 1303 405 1305 403 1305 370 1315 350 1321 267 1321 259 1315 249 1305 247 1305 245 1305 243 1305 241 1305 214 1315 192 1321 152 1315 109 1307 107 1307 105 1307 103 1307 103 1309 97 1315 95 1315 87 1307 85 1307 83 1307 81 1307 54 1313 50 1341 52 1352 52 1370 81 1381 83 1381 85 1381 87 1381 122 1370 142 1380 144 1380 146 1380 148 1380 150 1380 163 1370 226 1376 228 1376 230 1376 231 1376 243 1368 257 1360 370 1360 380 1364 395 1372 397 1372 399 1372 401 1372 421 1364 434 1358 446 1364 458 1368 460 1368 461 1368 512 1362 551 1358 557 1362 578 1376 580 1376 582 1376 584 1378 660 1378 660 1376 662 1376 709 1358 812 1356 814 1342 812 1337 810 1339"/></Shape>
+	    <String CONTENT="Mer, est une actrice française."
+                    HPOS="50.0"
+                    VPOS="1300.0"
+                    WIDTH="764.0"
+                    HEIGHT="81.0"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

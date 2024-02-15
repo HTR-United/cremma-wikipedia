@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>batch5-046.out.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT11139" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/>
+    <OtherTag ID="LT4407" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1653"
+          HEIGHT="2339"
+          PHYSICAL_IMG_NR="45"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1653"
+                  HEIGHT="2339">
+        
+        <TextBlock HPOS="0.0"
+                   VPOS="1190.0"
+                   WIDTH="1542.0"
+                   HEIGHT="261.0"
+                   ID="eSc_textblock_19fb3ce7"
+                   TAGREFS="BT11139">
+          <Shape><Polygon POINTS="1483 1451 1542 1229 1494 1213 1459 1204 1419 1193 1363 1191 1207 1200 1142 1190 1006 1197 413 1219 0 1229 0 1451"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_37e97df7"
+                    TAGREFS="LT4407"
+                    BASELINE="21 1294 1424 1284" 
+                    HPOS="17.0"
+                    VPOS="1216.0"
+                    WIDTH="1405.0"
+                    HEIGHT="101.0">
+            <Shape><Polygon POINTS="95 1226 76 1227 66 1227 17 1233 19 1292 19 1303 288 1317 290 1317 385 1315 387 1315 415 1302 481 1302 514 1315 516 1315 518 1315 520 1315 522 1315 536 1303 660 1313 662 1313 814 1300 855 1313 857 1313 859 1313 861 1313 906 1298 910 1298 933 1298 1245 1309 1247 1309 1327 1296 1383 1309 1385 1309 1387 1309 1389 1309 1422 1294 1422 1282 1419 1247 1389 1247 1389 1245 1358 1220 1356 1220 1354 1220 1352 1220 1350 1220 1348 1220 1329 1233 1309 1216 1307 1216 1306 1216 1304 1216 1235 1226 1220 1216 1218 1216 1216 1216 1214 1216 1081 1220 1079 1220 1077 1220 1050 1243 1044 1249 1021 1249 1015 1243 986 1218 984 1218 982 1218 980 1218 920 1227 877 1218 875 1218 873 1218 871 1218 869 1218 838 1241 787 1220 785 1220 783 1220 781 1220 779 1220 748 1241 734 1249 688 1239 680 1239 678 1239 658 1239 502 1251 485 1239 471 1227 469 1227 467 1227 465 1227 463 1227 444 1237 419 1253 212 1253 191 1235 183 1229 181 1229 179 1229 177 1229 175 1229 159 1235 126 1249 111 1235 99 1226 95 1226"/></Shape>
+	    <String CONTENT="Hyloxalus parcus est une espèce d&#x27;amphibien de la famille des"
+                    HPOS="17.0"
+                    VPOS="1216.0"
+                    WIDTH="1405.0"
+                    HEIGHT="101.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b1d8b35d"
+                    TAGREFS="LT4407"
+                    BASELINE="54 1368 413 1368" 
+                    HPOS="54.0"
+                    VPOS="1302.0"
+                    WIDTH="359.0"
+                    HEIGHT="97.0">
+            <Shape><Polygon POINTS="54 1368 54 1389 128 1397 130 1397 155 1393 191 1385 204 1393 208 1397 210 1397 212 1397 214 1397 216 1397 230 1393 263 1385 294 1395 300 1397 302 1397 304 1399 413 1399 413 1368 413 1329 350 1329 348 1325 325 1303 325 1302 323 1302 321 1302 319 1302 317 1302 315 1302 292 1315 278 1303 278 1302 276 1302 274 1302 272 1302 270 1302 269 1302 269 1303 253 1319 220 1302 218 1302 216 1302 214 1302 212 1302 212 1303 196 1319 187 1329 169 1329 159 1317 150 1309 150 1307 148 1307 146 1307 144 1307 142 1307 140 1307 140 1309 132 1315 124 1323 116 1315 103 1303 103 1302 101 1302 99 1302 97 1302 95 1302 54 1311 54 1368"/></Shape>
+	    <String CONTENT="Dendrobatidae."
+                    HPOS="54.0"
+                    VPOS="1302.0"
+                    WIDTH="359.0"
+                    HEIGHT="97.0"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
